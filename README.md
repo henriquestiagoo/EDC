@@ -1,1 +1,1 @@
-# EDC 16/17
+# Engenharia de Dados e Conhecimento 16/17
