@@ -1,0 +1,649 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>NYT &gt; International Home</title>
+    <link>http://www.nytimes.com/pages/international/index.html?partner=rss&amp;emc=rss</link>
+    <description />
+    <language>en-us</language>
+    <copyright>Copyright 2016  The New York Times Company</copyright>
+    <lastBuildDate>Wed, 12 Oct 2016 18:57:03 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; International Home</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/international/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/nytimes/jTLl" />
+    <feedburner:info uri="nytimes/jtll" />
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+    <feedburner:browserFriendly>
+    </feedburner:browserFriendly>
+    <item>
+      <title>Split Over Donald Trump Threatens to Tilt Republican States</title>
+      <link>http://www.nytimes.com/2016/10/12/us/politics/donald-trump-gop.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/12/us/politics/donald-trump-gop.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/12/us/politics/donald-trump-gop.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/12/us/elections/12campaignsub1/12campaignsub1-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>Donald J. Trump speaking to supporters on Tuesday night in Panama City Beach, Fla.</media:description>
+      <media:credit>Stephen Crowley/The New York Times</media:credit>
+      <description>Democrats are aiming to run up a big margin of victory for Hillary Clinton and extend their political advantage into the congressional elections next month.</description>
+      <dc:creator>ALEXANDER BURNS and JONATHAN MARTIN</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 01:11:17 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Hillary Rodham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Priorities USA</category>
+    </item>
+    <item>
+      <title>Donald Trump Berates Paul Ryan and ‘Disloyal’ Republicans</title>
+      <link>http://www.nytimes.com/2016/10/12/us/politics/donald-trump-paul-ryan.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/12/us/politics/donald-trump-paul-ryan.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/12/us/politics/donald-trump-paul-ryan.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/12/us/11fd-trumptweets/11fd-trumptweets-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>Donald J. Trump spoke to supporters at a rally in Wilkes Barre, Pa. on Monday. He called House Speaker Paul D. Ryan a “weak and ineffective leader” in a Twitter post on Tuesday.</media:description>
+      <media:credit>Stephen Crowley/The New York Times</media:credit>
+      <description>On Twitter, Mr. Trump criticized Republicans who had withdrawn support after a recording of him demeaning women became public.</description>
+      <dc:creator>ALAN RAPPEPORT</dc:creator>
+      <pubDate>Tue, 11 Oct 2016 18:37:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ryan, Paul D Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Donald Trump Faltering? Die-Hard Fans Refuse to Buy It</title>
+      <link>http://www.nytimes.com/2016/10/12/us/politics/donald-trump-voters.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/12/us/politics/donald-trump-voters.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/12/us/politics/donald-trump-voters.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/12/us/12TRUMPDIEHARDS1/12TRUMPDIEHARDS1-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>Attendees at Donald J. Trump’s rally in Wilkes-Barre, Pa., on Monday.</media:description>
+      <media:credit>Stephen Crowley/The New York Times</media:credit>
+      <description>At Mr. Trump’s rallies, the candidate and the crowds draw energy and affirmation from one another, while dismissing any discouraging information.</description>
+      <dc:creator>TRIP GABRIEL</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 16:15:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Hillary Rodham</category>
+    </item>
+    <item>
+      <title>Group’s Tactic on Hillary Clinton: Sue Her Again and Again</title>
+      <link>http://www.nytimes.com/2016/10/13/us/politics/judicial-watch-hillary-clinton.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/13/us/politics/judicial-watch-hillary-clinton.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/13/us/politics/judicial-watch-hillary-clinton.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/07/us/07judicialwatch2/07judicialwatch2-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>Tom Fitton, the president of Judicial Watch, at the group’s offices in Washington. The organization has long been an antagonist of Hillary and Bill Clinton.</media:description>
+      <media:credit>Justin T. Gellerson for The New York Times</media:credit>
+      <description>The nonprofit organization Judicial Watch has more than 20 active lawsuits involving the Democratic nominee, and has focused on the Clintons since its formation in 1994.</description>
+      <dc:creator>JONATHAN MAHLER</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 15:26:27 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Freedom of Information Act</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Clinton Foundation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Judicial Watch</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Hillary Rodham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fitton, Thomas J (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Klayman, Larry</category>
+    </item>
+    <item>
+      <title>The 2016 Race: How One 19-Year-Old Illinois Man Is Distorting National Polling Averages</title>
+      <link>http://www.nytimes.com/2016/10/13/upshot/how-one-19-year-old-illinois-man-is-distorting-national-polling-averages.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/13/upshot/how-one-19-year-old-illinois-man-is-distorting-national-polling-averages.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/13/upshot/how-one-19-year-old-illinois-man-is-distorting-national-polling-averages.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/13/upshot/13UP-USCLAT/13UP-USCLAT-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>Donald Trump supporters in Panama City Beach, Fla., this week.</media:description>
+      <media:credit>Stephen Crowley/The New York Times</media:credit>
+      <description>The U.S.C/Los Angeles Times poll has consistently been an outlier, showing Donald Trump in the lead or near the lead.</description>
+      <dc:creator>NATE COHN</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 16:50:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Population</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Donald Trump Is ‘Dangerous’ for Global Stability, U.N. Rights Chief Says</title>
+      <link>http://www.nytimes.com/2016/10/13/world/europe/donald-trump-un-human-rights.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/13/world/europe/donald-trump-un-human-rights.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/13/world/europe/donald-trump-un-human-rights.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/13/world/13Rights-web/13Rights-web-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>Zeid Ra’ad al-Hussein, the United Nations high commissioner for human rights, in Geneva on Wednesday.</media:description>
+      <media:credit>Denis Balibouse/Reuters</media:credit>
+      <description>Zeid Ra’ad al-Hussein, the high commissioner for human rights, doubled down on remarks he gave last month condemning “nationalist demagogues.”</description>
+      <dc:creator>NICK CUMMING-BRUCE</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 15:27:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zeid Ra'ad Zeid Al Hussein</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Billy Bush Negotiating Exit From NBC After Lewd Tape</title>
+      <link>http://www.nytimes.com/2016/10/12/business/media/billy-bush-to-make-abrupt-exit-from-nbc-after-lewd-tape.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/12/business/media/billy-bush-to-make-abrupt-exit-from-nbc-after-lewd-tape.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/12/business/media/billy-bush-to-make-abrupt-exit-from-nbc-after-lewd-tape.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/12/business/12-BUSH/12-BUSH-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>Billy Bush joined the “Today” show over the summer.</media:description>
+      <media:credit>Craig Barritt/Getty Images for SiriusXM</media:credit>
+      <description>The “Today” host is negotiating his departure after the release of a video in which he cheered on Donald J. Trump as he made vulgar comments about women.</description>
+      <dc:creator>JOHN KOBLIN</dc:creator>
+      <pubDate>Tue, 11 Oct 2016 22:20:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, Billy (1971- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Today (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Broadcasting Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Today  (TV Program)</category>
+    </item>
+    <item>
+      <title>Pentagon Confronts a New Threat From ISIS: Exploding Drones</title>
+      <link>http://www.nytimes.com/2016/10/12/world/middleeast/iraq-drones-isis.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/12/world/middleeast/iraq-drones-isis.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/12/world/middleeast/iraq-drones-isis.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/12/world/12drones/12drones-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>Eric Fanning, the secretary of the Army, right, earlier this month in Washington. Mr. Fanning recently assigned a special office he had created to respond to emerging threats and to study how to stop drones.</media:description>
+      <media:credit>Allison Shelley/Getty Images</media:credit>
+      <description>The group had been using surveillance drones, but a recent attack that killed two Kurdish fighters highlighted its success in developing an effective new weapon.</description>
+      <dc:creator>MICHAEL S. SCHMIDT and ERIC SCHMITT</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 00:02:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Targeted Killings</category>
+    </item>
+    <item>
+      <title>Hurricane Plunges a North Carolina Town’s Future Into Doubt</title>
+      <link>http://www.nytimes.com/2016/10/12/us/hurricane-matthew-plunges-a-north-carolina-towns-future-into-doubt.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/12/us/hurricane-matthew-plunges-a-north-carolina-towns-future-into-doubt.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/12/us/hurricane-matthew-plunges-a-north-carolina-towns-future-into-doubt.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/12/us/12STORM-2/12STORM-2-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>George Aubert rescuing one of his chickens from rising floodwaters in Fair Bluff.</media:description>
+      <media:credit>Sean Rayford/Getty Images</media:credit>
+      <description>The flooding after the storm had a special sting in Fair Bluff, N.C., which has tried with grit and heart to remake itself amid economic shifts.</description>
+      <dc:creator>JESS BIDGOOD and ALAN BLINDER</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 00:55:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCrory, Pat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fair Bluff (NC)</category>
+    </item>
+    <item>
+      <title>Your Daily Mini Crossword</title>
+      <link>http://www.nytimes.com/crosswords/game/mini?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/crosswords/game/mini</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/crosswords/game/mini?partner=rss&amp;emc=rss" />
+      <description>Solve a bite-size crossword in just a few minutes.</description>
+      <dc:creator />
+      <pubDate>Thu, 25 Feb 2016 07:18:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>After Torture, Ex-Detainee Is Still Captive of ‘The Darkness’</title>
+      <link>http://www.nytimes.com/2016/10/12/world/cia-torture-abuses-detainee.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/12/world/cia-torture-abuses-detainee.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/12/world/cia-torture-abuses-detainee.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/09/30/world/11suleiman/11suleiman-moth-v2.jpg" medium="image" height="151" width="151" />
+      <media:description>Suleiman Abdullah Salim endured beatings, sleep deprivation, water dousing and other severe measures.</media:description>
+      <media:credit>Bryan Denton for The New York Times</media:credit>
+      <description>The United States subjected Suleiman Abdullah Salim to harsh tactics in a secret prison and held him without charge for years. He was found not to be a terrorist threat, but he pays a deep price to this day.</description>
+      <dc:creator>JAMES RISEN</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 07:45:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salim, Suleiman Abdullah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Torture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Detainees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interrogations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Post-Traumatic Stress Disorder</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Senate Committee on Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Somalia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Series</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tanzania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Lasting Scars (Series)</category>
+    </item>
+    <item>
+      <title>How U.S. Torture Left a Legacy of Damaged Minds</title>
+      <link>http://www.nytimes.com/2016/10/09/world/cia-torture-guantanamo-bay.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/09/world/cia-torture-guantanamo-bay.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/09/world/cia-torture-guantanamo-bay.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/04/us/04gitmo-gif/04gitmo-gif-moth-v3.jpg" medium="image" height="151" width="151" />
+      <media:description />
+      <media:credit>Bryan Denton for The New York Times</media:credit>
+      <description>Beatings, sleep deprivation, menacing and other brutal tactics have led to persistent mental health problems among detainees held in secret C.I.A. prisons and at Guantánamo.</description>
+      <dc:creator>MATT APUZZO, SHERI FINK and JAMES RISEN</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 18:38:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Torture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guantanamo Bay Naval Base (Cuba)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Detainees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interrogations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xenakis, Stephen N</category>
+    </item>
+    <item>
+      <title>News: What We’re Reading</title>
+      <link>http://news.blogs.nytimes.com/2016/10/11/what-were-reading-196/?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://news.blogs.nytimes.com/2016/10/11/what-were-reading-196/</guid>
+      <atom:link rel="standout" href="http://news.blogs.nytimes.com/2016/10/11/what-were-reading-196/?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/11/nytnow/11wwr5/11wwr5-moth.jpg" medium="image" height="151" width="151" />
+      <media:description />
+      <media:credit>Sameer Al-Doumy/Agence France-Presse — Getty Images</media:credit>
+      <description>Get recommendations from New York Times reporters and editors, highlighting great stories from around the web. Today, great reads from John Schwartz, Tyson Evans and others.</description>
+      <dc:creator>THE NEW YORK TIMES</dc:creator>
+      <pubDate>Tue, 11 Oct 2016 21:14:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/">Aeon</category>
+      <category domain="http://www.nytimes.com/namespaces/">airportness</category>
+      <category domain="http://www.nytimes.com/namespaces/">chabuduo</category>
+      <category domain="http://www.nytimes.com/namespaces/">Evans, Tyson</category>
+      <category domain="http://www.nytimes.com/namespaces/">Jett, Jennifer</category>
+      <category domain="http://www.nytimes.com/namespaces/">Lyons, Patrick J.</category>
+      <category domain="http://www.nytimes.com/namespaces/">organ transplant</category>
+      <category domain="http://www.nytimes.com/namespaces/">Poynter</category>
+      <category domain="http://www.nytimes.com/namespaces/">Real Life Magazine</category>
+      <category domain="http://www.nytimes.com/namespaces/">Richardson, Lynda</category>
+      <category domain="http://www.nytimes.com/namespaces/">rock’n’roll</category>
+      <category domain="http://www.nytimes.com/namespaces/">Schwartz, John</category>
+      <category domain="http://www.nytimes.com/namespaces/">The Guardian</category>
+      <category domain="http://www.nytimes.com/namespaces/">Time (Magazine)</category>
+      <category domain="http://www.nytimes.com/namespaces/">White Helmets</category>
+    </item>
+    <item>
+      <title>A New Weapon in Russia’s Arsenal, and It’s Inflatable</title>
+      <link>http://www.nytimes.com/2016/10/13/world/europe/russia-decoy-weapon.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/13/world/europe/russia-decoy-weapon.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/13/world/europe/russia-decoy-weapon.html?partner=rss&amp;emc=rss" />
+      <description>The Russian military is using life-size decoy tanks, jets and missile launchers for disguise and deception.</description>
+      <dc:creator>ANDREW E. KRAMER</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 11:49:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Feature: Generation Adderall</title>
+      <link>http://www.nytimes.com/2016/10/16/magazine/generation-adderall-addiction.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/16/magazine/generation-adderall-addiction.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/16/magazine/generation-adderall-addiction.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/16/magazine/16adderall1/16adderall1-moth.jpg" medium="image" height="151" width="151" />
+      <media:description />
+      <media:credit>Illustration by Chad Wys. Source image from the Getty’s Open Content Program. “Portrait of a Woman,” by Jacob Adriaensz Baker.</media:credit>
+      <description>Like many of my friends, I spent years using prescription stimulants to get through school and start my career. Then I tried to get off them.</description>
+      <dc:creator>CASEY SCHWARTZ</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 09:00:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Adderall (Drug)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Attention Deficit Hyperactivity Disorder</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Productivity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Amphetamines</category>
+    </item>
+    <item>
+      <title>Emerging Climate Accord Could Push A/C Out of Sweltering India’s Reach</title>
+      <link>http://www.nytimes.com/2016/10/13/world/asia/india-air-conditioning.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/13/world/asia/india-air-conditioning.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/13/world/asia/india-air-conditioning.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/13/world/13Aircon-web2/13Aircon-web2-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>Air-conditioning units in New Delhi.</media:description>
+      <media:credit>Roberto Schmidt/Agence France-Presse — Getty Images</media:credit>
+      <description>A phaseout of hydrofluorocarbons could have a major effect on climate change but would make air-conditioning more expensive just as many Indians are becoming able to afford it.</description>
+      <dc:creator>ELLEN BARRY and CORAL DAVENPORT</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 09:00:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+    </item>
+    <item>
+      <title>How Bad Is Your Air-Conditioner for the Planet?</title>
+      <link>http://www.nytimes.com/2016/08/10/science/air-conditioner-global-warming.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/10/science/air-conditioner-global-warming.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/10/science/air-conditioner-global-warming.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/08/10/science/10airconditioner/10airconditioner-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>Monkeys on an air-conditioning unit in New Delhi in 2008.</media:description>
+      <media:credit>Raveendran/Agence France-Presse — Getty Images</media:credit>
+      <description>Governments recently met to limit a chemical with a powerful heat trapping effect, highlighting air-conditioning’s complicated environmental impact.</description>
+      <dc:creator>TATIANA SCHLOSSBERG</dc:creator>
+      <pubDate>Wed, 10 Aug 2016 15:30:55 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hydrofluorocarbons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Regulation and Deregulation of Industry</category>
+    </item>
+    <item>
+      <title>Sports of The Times: In the Cubs’ Clubhouse, No Worries About a Curse or a Goat</title>
+      <link>http://www.nytimes.com/2016/10/13/sports/baseball/chicago-cubs-curse-win-san-francisco-giants.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/13/sports/baseball/chicago-cubs-curse-win-san-francisco-giants.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/13/sports/baseball/chicago-cubs-curse-win-san-francisco-giants.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/13/sports/13powellWEB1/13powellWEB1-moth-v2.jpg" medium="image" height="151" width="151" />
+      <media:description>The Cubs celebrated along with their manager, Joe Maddon, right.</media:description>
+      <media:credit>Ben Margot/Associated Press</media:credit>
+      <description>The Chicago Cubs last won a world championship in 1908, when Teddy Roosevelt was president.</description>
+      <dc:creator>MICHAEL POWELL</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 12:21:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Chicago Cubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">San Francisco Giants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Playoff Games</category>
+    </item>
+    <item>
+      <title>Cubs 6, Giants 5 | Chicago wins series, 3-1: Cubs Oust Giants to Reach N.L.C.S., for Once on Good Side of a Big Rally</title>
+      <link>http://www.nytimes.com/2016/10/12/sports/baseball/chicago-cubs-san-francisco-giants-nlds.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/12/sports/baseball/chicago-cubs-san-francisco-giants-nlds.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/12/sports/baseball/chicago-cubs-san-francisco-giants-nlds.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/12/sports/12subCUBS/12subCUBS-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>The Cubs’ Ben Zobrist, right, with Jason Heyward, left, and Anthony Rizzo after scoring in the ninth inning.</media:description>
+      <media:credit>Marcio Jose Sanchez/Associated Press</media:credit>
+      <description>A remarkable four-run rally in the ninth inning helped Chicago wrap up its division series with San Francisco.</description>
+      <dc:creator>BILLY WITZ</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 07:26:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Chicago Cubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">San Francisco Giants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Playoff Games</category>
+    </item>
+    <item>
+      <title>A Senate Hopeful Veers From Republican Mainstream, and Toward Donald Trump</title>
+      <link>http://www.nytimes.com/2016/10/13/nyregion/as-others-flee-new-yorks-republican-senate-hopeful-sticks-by-donald-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/13/nyregion/as-others-flee-new-yorks-republican-senate-hopeful-sticks-by-donald-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/13/nyregion/as-others-flee-new-yorks-republican-senate-hopeful-sticks-by-donald-trump.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/12/nyregion/13LONG1/13LONG1-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>Wendy E. Long, a Republican, is seeking to unseat Senator Chuck Schumer. She previously ran unsuccessfully against another Democrat, Senator Kirsten E. Gillibrand.</media:description>
+      <media:credit>Alex Wroblewski for The New York Times</media:credit>
+      <description>Wendy E. Long, a former Supreme Court clerk and corporate litigator who is seeking to unseat Senator Charles Schumer, said Mr. Trump had shaped much of her current thinking.</description>
+      <dc:creator>VIVIAN YEE</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 09:00:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Long, Wendy E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schumer, Charles E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+    </item>
+    <item>
+      <title>Worries Over King Bhumibol Adulyadej’s Health Shake Thailand</title>
+      <link>http://www.nytimes.com/2016/10/13/world/asia/thailand-king.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/13/world/asia/thailand-king.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/13/world/asia/thailand-king.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/13/world/13Thailand-web3/13Thailand-web3-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>People gathered on Wednesday to pray for King Bhumibol Adulyadej of Thailand outside the hospital in Bangkok where he was being treated.</media:description>
+      <media:credit>Adam Dean for The New York Times</media:credit>
+      <description>The country’s prime minister returned abruptly to Bangkok and well-wishers waited at the hospital where the 88-year-old monarch was being treated.</description>
+      <dc:creator>RICHARD C. PADDOCK</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 13:27:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bhumibol Adulyadej</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
+    </item>
+    <item>
+      <title>F.B.I. Takes Over Investigation Into Fatal Plane Crash in Connecticut</title>
+      <link>http://www.nytimes.com/2016/10/13/nyregion/connecticut-plane-crash.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/13/nyregion/connecticut-plane-crash.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/13/nyregion/connecticut-plane-crash.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/13/nyregion/13CRASH/13CRASH-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>Firefighters at the scene of the plane crash in East Hartford, Conn., on Tuesday.</media:description>
+      <media:credit>Jim Michaud/Journal Inquirer, via Associated Press</media:credit>
+      <description>The National Transportation Safety Board said on Wednesday that its initial inquiry determined that the crash in East Hartford was the result of an intentional act.</description>
+      <dc:creator>MARC SANTORA</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 16:16:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Connecticut</category>
+    </item>
+    <item>
+      <title>Toyota and Suzuki Say They Are Considering an Alliance</title>
+      <link>http://www.nytimes.com/2016/10/13/business/international/toyota-suzuki-alliance-japan.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/13/business/international/toyota-suzuki-alliance-japan.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/13/business/international/toyota-suzuki-alliance-japan.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/13/world/13TOYOTASUZUKI-web1/13TOYOTASUZIKI-web1-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>A Suzuki Ignis at the Paris Motor Show. Suzuki, which specializes in small cars, would benefit from Toyota’s scale and resources.</media:description>
+      <media:credit>Ian Langsdon/European Pressphoto Agency</media:credit>
+      <description>The Japanese car manufacturers were vague about what might happen but said that they were discussing a wide-ranging business partnership.</description>
+      <dc:creator>JONATHAN SOBLE</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 12:07:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Toyota Motor Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Suzuki Motor Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+    </item>
+    <item>
+      <title>At Wells Fargo, Complaints About Fraudulent Accounts Since 2005</title>
+      <link>http://www.nytimes.com/2016/10/12/business/dealbook/at-wells-fargo-complaints-about-fraudulent-accounts-since-2005.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/12/business/dealbook/at-wells-fargo-complaints-about-fraudulent-accounts-since-2005.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/12/business/dealbook/at-wells-fargo-complaints-about-fraudulent-accounts-since-2005.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/12/business/12DB-WELLSjpSUB/12DB-WELLSjpSUB-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>Yesenia Guitron said she was forced out by Wells Fargo after calling attention to a colleague who she said was opening accounts without customers’ consent.</media:description>
+      <media:credit>Talia Herman for The New York Times</media:credit>
+      <description>Employees tipped off the bank’s ethics hotline, human resources department and even the chief executive, but the problems persisted.</description>
+      <dc:creator>STACY COWLEY</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 00:08:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Wells Fargo &amp; Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stumpf, John G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+    </item>
+    <item>
+      <title>Why Samsung Abandoned Its Galaxy Note 7 Flagship Phone</title>
+      <link>http://www.nytimes.com/2016/10/12/business/international/samsung-galaxy-note7-terminated.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/12/business/international/samsung-galaxy-note7-terminated.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/12/business/international/samsung-galaxy-note7-terminated.html?partner=rss&amp;emc=rss" />
+      <description>The unprecedented move by the South Korean electronics giant is an embarrassing reversal for a respected global brand.</description>
+      <dc:creator>BRIAN X. CHEN and CHOE SANG-HUN</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 00:13:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Samsung Electronics Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defective Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Samsung Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+    </item>
+    <item>
+      <title>Facebook Helped Drive a Voter Registration Surge, Election Officials Say</title>
+      <link>http://www.nytimes.com/2016/10/13/us/politics/facebook-helped-drive-a-voter-registration-surge-election-officials-say.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/13/us/politics/facebook-helped-drive-a-voter-registration-surge-election-officials-say.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/13/us/politics/facebook-helped-drive-a-voter-registration-surge-election-officials-say.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/11/us/facebook-vote-img/facebook-vote-img-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>A voter registration event in Philadelphia in August.</media:description>
+      <media:credit>Ruth Fremson/The New York Times</media:credit>
+      <description>A 17-word reminder displayed for four days in September contributed to substantial increases in online registration across the country.</description>
+      <dc:creator>NIRAJ CHOKSHI</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 12:01:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Registration and Requirements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Connecticut</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nebraska</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Virginia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+    </item>
+    <item>
+      <title>Sinosphere: At Hong Kong Swearing-In, Some Lawmakers Pepper Their Oath With Jabs</title>
+      <link>http://www.nytimes.com/2016/10/13/world/asia/hong-kong-legislative-council.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/13/world/asia/hong-kong-legislative-council.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/13/world/asia/hong-kong-legislative-council.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/13/world/13CHINAHONG-web2/13CHINAHONG-web2-moth-v2.jpg" medium="image" height="151" width="151" />
+      <media:description>Leung Kwok-hung ripped up a copy of the Chinese government’s restrictive ruling on Hong Kong election procedures after taking the oath of office in the Legislative Council on Wednesday. The yellow umbrella is a symbol of the 2014 pro-democracy protests.</media:description>
+      <media:credit>Anthony Wallace/Agence France-Presse — Getty Images</media:credit>
+      <description>The acts of defiance, directed at Beijing as some called for outright independence for the semiautonomous territory, seemed to augur a stormy legislative term.</description>
+      <dc:creator>ALAN WONG</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 11:00:35 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Democratic Alliance for the Betterment and Progress of Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Youngspiration (Hong Kong Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Law Kwun-chung, Nathan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leung Kwok-hung</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wong, Joshua (1996- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Legislative Council (Hong Kong)</category>
+    </item>
+    <item>
+      <title>‘Clown Hysteria’ Spreads to Britain</title>
+      <link>http://www.nytimes.com/2016/10/12/world/europe/clown-hysteria-spreads-to-britain.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/12/world/europe/clown-hysteria-spreads-to-britain.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/12/world/europe/clown-hysteria-spreads-to-britain.html?partner=rss&amp;emc=rss" />
+      <description>A mix of childish pranks and more serious menacing appears to have migrated from the United States, leading to anti-clown patrols in parts of Britain.</description>
+      <dc:creator>DAN BILEFSKY</dc:creator>
+      <pubDate>Tue, 11 Oct 2016 18:31:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clowns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hoaxes and Pranks</category>
+    </item>
+    <item>
+      <title>Tim Tebow Comforts Man Who Collapses After Game</title>
+      <link>http://www.nytimes.com/2016/10/12/sports/baseball/tim-tebow-fan-seizure-arizona-fall-league.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/12/sports/baseball/tim-tebow-fan-seizure-arizona-fall-league.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/12/sports/baseball/tim-tebow-fan-seizure-arizona-fall-league.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/12/sports/12tebow-2/12tebow-2-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>Tim Tebow talking with a man who collapsed after Tebow’s Arizona Fall League game on Tuesday. Tebow stayed with the man for about 15 minutes.</media:description>
+      <media:credit>Rob Schumacher/The Arizona Republic, via Associated Press</media:credit>
+      <description>After his Arizona Fall League debut, Tebow spent time with a man who appeared to have a seizure while waiting for his autograph.</description>
+      <dc:creator>KAREN CROUSE</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 15:39:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Mets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tebow, Tim</category>
+    </item>
+    <item>
+      <title>Central Banks Consider Bitcoin’s Technology, if Not Bitcoin</title>
+      <link>http://www.nytimes.com/2016/10/12/business/dealbook/central-banks-consider-bitcoins-technology-if-not-bitcoin.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/12/business/dealbook/central-banks-consider-bitcoins-technology-if-not-bitcoin.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/12/business/dealbook/central-banks-consider-bitcoins-technology-if-not-bitcoin.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/12/business/12BITCOIN2-web/12BITCOIN2-web-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>Lael Brainard, the Federal Reserve governor overseeing new technology, says the decentralized method of record-keeping introduced by Bitcoin has the potential to transform multiple aspects of the financial system.</media:description>
+      <media:credit>Yuri Gripas/Reuters</media:credit>
+      <description>Central banks view the technology behind the virtual currency as a possible way to compete and record transactions, or to issue their own currencies.</description>
+      <dc:creator>NATHANIEL POPPER</dc:creator>
+      <pubDate>Tue, 11 Oct 2016 20:23:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bitcoin (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Bank of England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">People's Bank of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Bank of Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brainard, Lael</category>
+    </item>
+    <item>
+      <title>Update: TripAdvisor to Stop Selling Tickets to Many Animal Attractions</title>
+      <link>http://www.nytimes.com/2016/10/11/travel/tripadvisor-to-stop-selling-tickets-to-many-animal-attractions.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/11/travel/tripadvisor-to-stop-selling-tickets-to-many-animal-attractions.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/11/travel/tripadvisor-to-stop-selling-tickets-to-many-animal-attractions.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/11/travel/11tripadvisor-animals/11tripadvisor-animals-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>Tourists riding elephants in the Chiang Mai province of Thailand.</media:description>
+      <media:credit>Rungroj Yongrit/European Pressphoto Agency</media:credit>
+      <description>TripAdvisor will no longer sell tickets to attractions like elephant rides and dolphin swims, a decision that could reshape how booking sites approach animal welfare.</description>
+      <dc:creator>JUSTIN SABLICH</dc:creator>
+      <pubDate>Tue, 11 Oct 2016 23:00:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">TripAdvisor.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Viator Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">People for the Ethical Treatment of Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Booking.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Expedia Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Oxford University</category>
+    </item>
+    <item>
+      <title>Glenn Beck Says Opposing Trump Is ‘Moral, Ethical’ Even if It Means Clinton Wins</title>
+      <link>http://www.nytimes.com/2016/10/12/us/politics/glenn-beck-says-opposing-trump-is-moral-ethical-even-if-it-means-clinton-wins.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/12/us/politics/glenn-beck-says-opposing-trump-is-moral-ethical-even-if-it-means-clinton-wins.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/12/us/politics/glenn-beck-says-opposing-trump-is-moral-ethical-even-if-it-means-clinton-wins.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/11/us/12xp-glennbeck/12xp-glennbeck-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>The radio personality Glenn Beck introducing Senator Ted Cruz at a campaign event in Davenport, Iowa, in January.</media:description>
+      <media:credit>Rick Wilking/Reuters</media:credit>
+      <description>“If one helps to elect an immoral man to the highest office, then one is merely validating his immorality, lewdness, and depravity,” the conservative media personality wrote.</description>
+      <dc:creator>LIAM STACK</dc:creator>
+      <pubDate>Tue, 11 Oct 2016 22:50:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Beck, Glenn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Hillary Rodham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Ethics (Personal)</category>
+    </item>
+    <item>
+      <title>The Man Musicians Call When Two Tunes Sound Alike</title>
+      <link>http://www.nytimes.com/2016/10/12/arts/music/the-man-musicians-call-when-two-tunes-sound-alike.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/12/arts/music/the-man-musicians-call-when-two-tunes-sound-alike.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/12/arts/music/the-man-musicians-call-when-two-tunes-sound-alike.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/12/arts/12COPYCAT-COMBO/12COPYCAT-COMBO-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>Ed Sheeran, left, and Robin Thicke, right, have both been accused of copying aspects of musical work by Marvin Gaye, center.</media:description>
+      <media:credit>From left: Chad Batka for The New York Times; Jim Britt/Michael Ochs Archive, via Getty Images; Elizabeth Weinberg for The New York Times</media:credit>
+      <description>Peter Oxendale, considered one of the world’s leading forensic musicologists, got into the profession by accident.</description>
+      <dc:creator>ALEX MARSHALL</dc:creator>
+      <pubDate>Tue, 11 Oct 2016 21:39:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Forensic Science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Copyrights and Copyright Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oxendale, Peter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Protheroe, Guy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Joseph L</category>
+    </item>
+    <item>
+      <title>Review: ‘Tower,’ About 1966, Before Mass Shootings Became Routine</title>
+      <link>http://www.nytimes.com/2016/10/12/movies/tower-review-mass-shootings.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/12/movies/tower-review-mass-shootings.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/12/movies/tower-review-mass-shootings.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/12/arts/12TOWER/12TOWER-moth.jpg" medium="image" height="151" width="151" />
+      <media:description>The documentary “Tower” uses rotoscoping, an animation technique, to depict a time when mass gun violence could still stun America.</media:description>
+      <media:credit>Kino Lorber</media:credit>
+      <description>Keith Maitland’s documentary on the University of Texas tower mass shooting breathes life into victims rather than dissecting the shooter.</description>
+      <dc:creator>MANOHLA DARGIS</dc:creator>
+      <pubDate>Tue, 11 Oct 2016 21:33:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Tower (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">University of Texas at Austin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Whitman, Charles (1941-66)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maitland, Keith</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Colloff, Pamela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+    </item>
+    <item>
+      <title>How ‘The Birth of a Nation’ Silences Black Women</title>
+      <link>http://www.nytimes.com/2016/10/16/movies/how-the-birth-of-a-nation-silences-black-women.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/10/16/movies/how-the-birth-of-a-nation-silences-black-women.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/10/16/movies/how-the-birth-of-a-nation-silences-black-women.html?partner=rss&amp;emc=rss" />
+      <media:content url="https://static01.nyt.com/images/2016/10/16/arts/1016NAT-TURNER1/1016NAT-TURNER1-moth-v2.jpg" medium="image" height="151" width="151" />
+      <media:description>Nate Parker and Aja Naomi King in “The Birth of a Nation.” The film continues the tradition of marginalizing black women in the recounting of Nat Turner’s insurrection.</media:description>
+      <media:credit>Fox Searchlight Pictures/20th Century Fox</media:credit>
+      <description>The film tells of Nat Turner’s slave rebellion by using women’s trauma as motivation for the male hero, casting their victimization as secondary.</description>
+      <dc:creator>SALAMISHAH TILLET</dc:creator>
+      <pubDate>Wed, 12 Oct 2016 10:02:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Birth of a Nation (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Slavery (Historical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Turner, Nat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Union, Gabrielle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Parker, Nate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sex Crimes</category>
+    </item>
+  </channel>
+</rss>

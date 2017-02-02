@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feeds>
+  <feed name="NYT" url="http://feeds.feedburner.com/nytimes/jTLl" />
+  <feed name="Exame Informatica" url="http://feeds.feedburner.com/feedburner/jKuyu" />
+  <feed name="MARCA" url="http://feeds.feedburner.com/uecdn/fvZN" />
+  <feed name="The Guardian" url="https://www.theguardian.com/world/rss" />
+  <feed name="Economic" url="https://www.theguardian.com/business/economics/rss" />
+  <feed name="TechCrunch" url="http://feeds.feedburner.com/TechCrunch/" />
+  <feed name="Sapo Cinema" url="http://feeds.feedburner.com/sapo/ohhv" />
+  <feed name="cinemablend" url="http://feeds.feedburner.com/cinemablend/MUnG" />
+  <feed name="Screen Rant" url="http://feeds.feedburner.com/google/cZkL" />
+  <feed name="Cinema Blend Trailers" url="http://feeds.feedburner.com/cinemablend/NefT" />
+</feeds>

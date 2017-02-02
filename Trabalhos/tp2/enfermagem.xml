@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<curso>
+	<guid>168</guid>
+	<nome><![CDATA[Enfermagem]]></nome>
+	<imagem><![CDATA[http://acesso.ua.pt/upload/imagens/c_168.jpg]]></imagem>
+	<codigo>3013/9500</codigo>
+	<grau><![CDATA[Licenciatura]]></grau>
+	<ciclo>1</ciclo>
+	<duracao>4 anos letivos / 8 Semestres (240 ECTS)</duracao>
+	<ano_inicio>2001/2002</ano_inicio>
+	<regime><![CDATA[diurno / laboral]]></regime>
+	<horario><![CDATA[]]></horario>
+	<propinas><![CDATA[1063,47€/ano (estudantes nacionais)]]></propinas>
+	<subsistema><![CDATA[Politécnico]]></subsistema>
+	<areas>
+		 <area><![CDATA[Enfermagem]]></area>
+	</areas>
+	<director>
+		<nome>Prof.ª Doutora Elsa Maria de Oliveira Pinheiro de Melo</nome>
+		<email>elsamelo@ua.pt</email>
+	</director>
+	<departamentos>
+		<departamento>
+			<nome>Escola Superior de Saúde da Universidade de Aveiro</nome>
+			<url>http://www.ua.pt/essua</url>
+		</departamento>
+	</departamentos>
+	<medias>
+		<fase1>137,4</fase1>
+		<fase2>0</fase2>
+		<fase3>0</fase3>
+	</medias>
+	<vagas>
+		<fase1>81</fase1>
+		<fase2>12</fase2>
+		<fase3>0</fase3>
+	</vagas>
+	<provas><![CDATA[Um dos seguintes conjuntos:<br />
+02 Biologia e Geologia<br />
+      ou<br />
+02 Biologia e Geologia<br />
+07 Física e Química<br /><br /><strong>O cálculo da nota de acesso considera:</strong><ul><li>60% da nota do ensino secundário</li><li>40% da nota da prova de ingresso</li></ul>]]></provas>
+	<ano_info><![CDATA[2016/2017]]></ano_info>
+	<saidas_profissionais><![CDATA[<p>Os licenciados em Enfermagem poder&atilde;o exercer a sua&nbsp;atividade&nbsp;profissional em institui&ccedil;&otilde;es p&uacute;blicas ou privadas, de presta&ccedil;&atilde;o de cuidados de sa&uacute;de,&nbsp;nomeadamente: no &acirc;mbito dos cuidados de sa&uacute;de prim&aacute;rios ou diferenciados, em hospitais, centros de&nbsp;medicina f&iacute;sica e reabilita&ccedil;&atilde;o, maternidades, centros de sa&uacute;de, laborat&oacute;rios, em unidades de cuidados continuados, unidades de cuidados &agrave; pesoa idosa; em unidades de investiga&ccedil;&atilde;o; criar empresas na &aacute;rea da presta&ccedil;&atilde;o de cuidados</p>
+<p>&nbsp;</p>]]></saidas_profissionais>
+	<objectivos><![CDATA[<p>&nbsp;O &acirc;mbito de interven&ccedil;&atilde;o da profiss&atilde;o de enfermagem carateriza-se hoje por novos desafios que implicam uma reconstru&ccedil;&atilde;o do agir profissional.</p>
+<p>Atualmente, a realidade social &eacute; complexa e mut&aacute;vel; a conce&ccedil;&atilde;o da sa&uacute;de &eacute; din&acirc;mica; o desenvolvimento cient&iacute;fico e tecnol&oacute;gico permite novas abordagens; o impacto da cronicidade das doen&ccedil;as, dos efeitos do envelhecimento populacional, dos estilos de vida e comportamentos das pessoas e das doen&ccedil;as emergentes implicam mudan&ccedil;as no paradigma assistencial. O papel dos cidad&atilde;os torna-se progressivamente mais participativo e o dos profissionais mais transdisciplinar, promovendo a adapta&ccedil;&atilde;o da pessoa ao seu processo de vida.</p>
+<p>Neste contexto o objetivo principal deste ciclo de estudos &eacute;:</p>
+<p>Formar profissionais que possam agir de forma competente, nas suas interven&ccedil;&otilde;es aut&oacute;nomas e interdependentes, tendo em conta, n&atilde;o a doen&ccedil;a em si, mas a resposta humana aos problemas de sa&uacute;de e aos processos de vida assim como as transi&ccedil;&otilde;es enfrentadas pelos indiv&iacute;duos, fam&iacute;lias e grupos ao longo do ciclo vital.</p>]]></objectivos>
+	<observacoes><![CDATA[A partir do ano letivo 2015/2016 haverá precedências para as unidades curriculares de Ensino Clínico e Prática Profissional dos cursos de licenciatura da ESSUA - consulte <a href="https://www.ua.pt/sga/ReadObject.aspx?Obj=37302">mais informações</a>]]></observacoes>
+	<testemunho><![CDATA[]]></testemunho>
+	<pre_requisitos><![CDATA[Grupo A - Comunicação Interpessoal <br />Este pré-requisito é de carácter eliminatório e tem um resultado expresso em apto ou não apto. O estudante que seja considerado não apto não poderá concorrer a este curso.]]></pre_requisitos>
+	<local><![CDATA[Campus Universitário de Santiago, Aveiro]]></local>
+	<urlmaisinfo><![CDATA[http://www.ua.pt/sga/PageText.aspx?id=6590]]></urlmaisinfo>
+	<urlcandidaturas><![CDATA[http://]]></urlcandidaturas>
+	<urlmobilidade><![CDATA[http://]]></urlmobilidade>
+	<m23>
+		<provas><![CDATA[biologia 
+<a href="http://www.ua.pt/ensino/PageText.aspx?id=15132" target=_blank>programa</a>]]></provas>
+		<vagas><![CDATA[]]></vagas>
+		<urlinfo><![CDATA[http://www.ua.pt/m23]]></urlinfo>
+		<observacoes><![CDATA[]]></observacoes>
+	</m23>
+	<posgraduacoes>
+		<periodo><![CDATA[]]></periodo>
+		<corpo_docente><![CDATA[]]></corpo_docente>
+		<destinatarios><![CDATA[]]></destinatarios>
+		<vagas><![CDATA[]]></vagas>
+		<vagas_obs><![CDATA[]]></vagas_obs>
+		<urlmobilidade><![CDATA[]]></urlmobilidade>
+		<ano_info><![CDATA[]]></ano_info>
+		<edital><![CDATA[]]></edital>
+		<ata><![CDATA[]]></ata>
+	</posgraduacoes>
+</curso>
+

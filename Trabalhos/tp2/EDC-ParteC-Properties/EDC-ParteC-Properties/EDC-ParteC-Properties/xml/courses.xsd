@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="cursos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="curso" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="guid" type="xs:integer"/>
+              <xs:element name="codigo" type="xs:string">
+              </xs:element>
+              <xs:element name="nome" type="xs:string"/>
+              <xs:element name="grau" type="xs:string"/>
+              <xs:element name="ciclo" type="xs:integer"/>
+              <xs:element name="departamentos">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="departamento" type="xs:string" maxOccurs="unbounded"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="areascientificas">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="areacientifica" type="xs:string" minOccurs="0" maxOccurs="unbounded" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="areasformacao">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="areaformacao" type="xs:string" minOccurs="0" maxOccurs="unbounded" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="regime" type="xs:string"/>
+              <xs:element name="local" type="xs:string"/>
+              <xs:element name="provas"/>
+              <xs:element name="m23" type="xs:string"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<properties>
+  <property land_register="1">
+    <land_register>1</land_register>
+    <address>
+      <city>Lisboa</city>
+      <street>Rua 25 de Abril</street>
+      <port_number>11</port_number>
+    </address>
+    <value>385500</value>
+    <owners>
+      <owner name="Filipe" tax_number="4141" date_purchase="2009/1/11" data_sale="" />
+    </owners>
+  </property>
+  <property land_register="2">
+    <land_register>2</land_register>
+    <address>
+      <city>Aveiro</city>
+      <street>Avenida Lourenço Peixinho</street>
+      <port_number>28</port_number>
+    </address>
+    <value>450200</value>
+    <owners>
+    </owners>
+  </property>
+  <property land_register="3">
+    <land_register>3</land_register>
+    <address>
+      <city>Aveiro</city>
+      <street>Rua da Pega</street>
+      <port_number>3</port_number>
+    </address>
+    <value>30000</value>
+    <owners />
+  </property>
+  <property land_register="4">
+    <land_register>4</land_register>
+    <address>
+      <city>Sever do Vouga</city>
+      <street>Rua da Barraca</street>
+      <port_number>13</port_number>
+    </address>
+    <value>95500</value>
+    <owners>
+      <owner name="Tiago Henriques" tax_number="99" date_purchase="2016/10/6" data_sale="" />
+    </owners>
+  </property>
+  <property land_register="5">
+    <land_register>5</land_register>
+    <address>
+      <city>Aveiro</city>
+      <street>Rua da UA</street>
+      <port_number>27</port_number>
+    </address>
+    <value>5</value>
+    <owners />
+  </property>
+</properties>

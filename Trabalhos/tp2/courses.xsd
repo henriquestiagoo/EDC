@@ -1,0 +1,51 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="">
+  <xs:element name="cursos">
+    <xs:complexType>
+      <xs:all>
+        <xs:element name="curso">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="guid" type="xs:integer"/>
+              <xs:element name="codigo" type="xs:string">
+                <xs:restriction base="xs:integer">
+                  <xs:pattern value="[0-9]{4}(/[0-9]{4})?"/>
+                </xs:restriction>
+              </xs:element>
+              <xs:element name="nome" type="xs:string"/>
+              <xs:element name="grau" type="xs:string"/>
+              <xs:element name="ciclo" type="xs:integer"/>
+              <xs:element name="departamentos">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="departamento" type="xs:string"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="areascientificas" type="xs:string">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="areascientifica" type="xs:string"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="areasformacao" type="xs:string"/>
+              <xs:element name="regime" type="xs:string"/>
+              <xs:element name="local" type="xs:string"/>
+              <xs:element name="provas" type="xs:string">
+
+              </xs:element>
+              <xs:element name="m23" type="xs:boolean"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:all>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
+
+
+
+
+

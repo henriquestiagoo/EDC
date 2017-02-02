@@ -1,0 +1,1881 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sapo="http://videos.sapo.pt/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>SAPO Vídeos RSS: sapocinema</title>
+    <description>Lista dos últimos vídeos do utilizador sapocinema</description>
+    <link>http://videos.sapo.pt/sapocinema</link>
+    <lastBuildDate>Sat, 03 Dec 2016 01:14:10 +0100</lastBuildDate>
+    <opensearch:totalResults>6647</opensearch:totalResults>
+    <opensearch:startIndex>0</opensearch:startIndex>
+    <opensearch:itemsPerPage>60</opensearch:itemsPerPage>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/sapo/ohhv" />
+    <feedburner:info uri="sapo/ohhv" />
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+    <feedburner:browserFriendly>
+    </feedburner:browserFriendly>
+    <item>
+      <guid>http://videos.sapo.pt/d5SYlYZbZhtvCo5NE3Po</guid>
+      <title>Dunkirk</title>
+      <description>
+        &lt;h4&gt;De Christopher Nolan com Tom Hardy, Mark Rylance e Kenneth Branagh. Estreia a 20 de julho de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Dunkirk&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/d5SYlYZbZhtvCo5NE3Po"&gt;
+        &lt;img src="http://videos.sapo.pt/d5SYlYZbZhtvCo5NE3Po/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Christopher Nolan com Tom Hardy, Mark Rylance e Kenneth Branagh. Estreia a 20 de julho de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/d5SYlYZbZhtvCo5NE3Po</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/d5SYlYZbZhtvCo5NE3Po/mov/1</sapo:videoFile>
+      <sapo:views>242</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:00:56</sapo:time>
+      <sapo:lastModified>Thu, 01 Dec 2016 09:33:52 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/d5SYlYZbZhtvCo5NE3Po/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Thu, 01 Dec 2016 10:31:02 +0100</pubDate>
+      <link>http://videos.sapo.pt/d5SYlYZbZhtvCo5NE3Po</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/mPOMQmWhgE1ZvOehiUSm</guid>
+      <title>Renegados</title>
+      <description>
+        &lt;h4&gt;De Steven Quale com J.K. Simmons, Sullivan Stapleton e Ewen Bremner. Estreia a 2 de fevereiro de 2017. &lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Renegados&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/mPOMQmWhgE1ZvOehiUSm"&gt;
+        &lt;img src="http://videos.sapo.pt/mPOMQmWhgE1ZvOehiUSm/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Steven Quale com J.K. Simmons, Sullivan Stapleton e Ewen Bremner. Estreia a 2 de fevereiro de 2017. </sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/mPOMQmWhgE1ZvOehiUSm</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/mPOMQmWhgE1ZvOehiUSm/mov/1</sapo:videoFile>
+      <sapo:views>134</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:09</sapo:time>
+      <sapo:lastModified>Thu, 01 Dec 2016 09:36:59 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/mPOMQmWhgE1ZvOehiUSm/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Thu, 01 Dec 2016 10:26:19 +0100</pubDate>
+      <link>http://videos.sapo.pt/mPOMQmWhgE1ZvOehiUSm</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/qeBVdejGybH6P8RO9wfm</guid>
+      <title>Kong: A Ilha da Caveira</title>
+      <description>
+        &lt;h4&gt;Filme de Jordan Vogt-Roberts com Brie Larson, Tom Hiddleston, Samuel L. Jackson. Estreia a 9 de março de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Kong: A Ilha da Caveira&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/qeBVdejGybH6P8RO9wfm"&gt;
+        &lt;img src="http://videos.sapo.pt/qeBVdejGybH6P8RO9wfm/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>Filme de Jordan Vogt-Roberts com Brie Larson, Tom Hiddleston, Samuel L. Jackson. Estreia a 9 de março de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/qeBVdejGybH6P8RO9wfm</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/qeBVdejGybH6P8RO9wfm/mov/1</sapo:videoFile>
+      <sapo:views>247</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:18</sapo:time>
+      <sapo:lastModified>Tue, 29 Nov 2016 22:55:41 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/qeBVdejGybH6P8RO9wfm/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Tue, 29 Nov 2016 23:48:17 +0100</pubDate>
+      <link>http://videos.sapo.pt/qeBVdejGybH6P8RO9wfm</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/zWn4rFbiBQSKY6G5zQ42</guid>
+      <title>Annabelle 2</title>
+      <description>
+        &lt;h4&gt;De David F. Sandberg com Miranda Otto, Lulu Wilson e Anthony la Paglia. Estreia a 18 de maio de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Annabelle 2&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/zWn4rFbiBQSKY6G5zQ42"&gt;
+        &lt;img src="http://videos.sapo.pt/zWn4rFbiBQSKY6G5zQ42/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De David F. Sandberg com Miranda Otto, Lulu Wilson e Anthony la Paglia. Estreia a 18 de maio de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/zWn4rFbiBQSKY6G5zQ42</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/zWn4rFbiBQSKY6G5zQ42/mov/1</sapo:videoFile>
+      <sapo:views>230</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:05</sapo:time>
+      <sapo:lastModified>Tue, 29 Nov 2016 22:47:36 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/zWn4rFbiBQSKY6G5zQ42/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Tue, 29 Nov 2016 23:44:30 +0100</pubDate>
+      <link>http://videos.sapo.pt/zWn4rFbiBQSKY6G5zQ42</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/GFlC1WGYVOEzIVw8JLi8</guid>
+      <title>Come Together: Uma curta de Wes Anderson com Adrien Brody para a H&amp;M</title>
+      <description>
+        &lt;h4&gt;&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Come Together: Uma curta de Wes Anderson com Adrien Brody para a H&amp;M&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/GFlC1WGYVOEzIVw8JLi8"&gt;
+        &lt;img src="http://videos.sapo.pt/GFlC1WGYVOEzIVw8JLi8/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse />
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/GFlC1WGYVOEzIVw8JLi8</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/GFlC1WGYVOEzIVw8JLi8/mov/1</sapo:videoFile>
+      <sapo:views>959</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:03:52</sapo:time>
+      <sapo:lastModified>Mon, 28 Nov 2016 17:56:14 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/GFlC1WGYVOEzIVw8JLi8/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Mon, 28 Nov 2016 17:58:05 +0100</pubDate>
+      <link>http://videos.sapo.pt/GFlC1WGYVOEzIVw8JLi8</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/tZzpiC9szk6bnAnwDHIe</guid>
+      <title>Festa de Natal da Empresa - T.J. Miller para o SAPO</title>
+      <description>
+        &lt;h4&gt;De Josh Gordon e Will Speck com Olivia Munn, Jennifer Aniston e Jamie Chung. Estreia a 15 de dezembro de 2016.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Festa de Natal da Empresa - T.J. Miller para o SAPO&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/tZzpiC9szk6bnAnwDHIe"&gt;
+        &lt;img src="http://videos.sapo.pt/tZzpiC9szk6bnAnwDHIe/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Josh Gordon e Will Speck com Olivia Munn, Jennifer Aniston e Jamie Chung. Estreia a 15 de dezembro de 2016.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/tZzpiC9szk6bnAnwDHIe</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/tZzpiC9szk6bnAnwDHIe/mov/1</sapo:videoFile>
+      <sapo:views>1580</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:04</sapo:time>
+      <sapo:lastModified>Mon, 28 Nov 2016 10:43:03 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/tZzpiC9szk6bnAnwDHIe/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Mon, 28 Nov 2016 02:33:54 +0100</pubDate>
+      <link>http://videos.sapo.pt/tZzpiC9szk6bnAnwDHIe</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/DJJ6SD9GAZP6HiuRIYoN</guid>
+      <title>Aqui há Gato!</title>
+      <description>
+        &lt;h4&gt;De Barry Sonnenfeld, com Kevin Spacey, Jennifer Garner e Robbie Amell. Estreia a 26 de janeiro de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Aqui há Gato!&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/DJJ6SD9GAZP6HiuRIYoN"&gt;
+        &lt;img src="http://videos.sapo.pt/DJJ6SD9GAZP6HiuRIYoN/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Barry Sonnenfeld, com Kevin Spacey, Jennifer Garner e Robbie Amell. Estreia a 26 de janeiro de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/DJJ6SD9GAZP6HiuRIYoN</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/DJJ6SD9GAZP6HiuRIYoN/mov/1</sapo:videoFile>
+      <sapo:views>485</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:18</sapo:time>
+      <sapo:lastModified>Sat, 26 Nov 2016 09:31:37 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/DJJ6SD9GAZP6HiuRIYoN/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Sat, 26 Nov 2016 10:18:10 +0100</pubDate>
+      <link>http://videos.sapo.pt/DJJ6SD9GAZP6HiuRIYoN</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/dM11VezUvnDWlo2jnaYZ</guid>
+      <title>Até Nunca</title>
+      <description>
+        &lt;h4&gt;De Benoît Jacquot com Mathieu Amalric, Julia Roy e Jeanne Balibar. Estreia a 29 de dezembro de 2016.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Até Nunca&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/dM11VezUvnDWlo2jnaYZ"&gt;
+        &lt;img src="http://videos.sapo.pt/dM11VezUvnDWlo2jnaYZ/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Benoît Jacquot com Mathieu Amalric, Julia Roy e Jeanne Balibar. Estreia a 29 de dezembro de 2016.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/dM11VezUvnDWlo2jnaYZ</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/dM11VezUvnDWlo2jnaYZ/mov/1</sapo:videoFile>
+      <sapo:views>431</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:42</sapo:time>
+      <sapo:lastModified>Sat, 26 Nov 2016 09:22:02 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/dM11VezUvnDWlo2jnaYZ/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Sat, 26 Nov 2016 10:14:48 +0100</pubDate>
+      <link>http://videos.sapo.pt/dM11VezUvnDWlo2jnaYZ</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/BZgzdohpv3bwiO9oy97Z</guid>
+      <title>Ovelhas e Lobos</title>
+      <description>
+        &lt;h4&gt;De Andrei Galat e Maxim Volkov. Estreia a 5 de janeiro de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Ovelhas e Lobos&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/BZgzdohpv3bwiO9oy97Z"&gt;
+        &lt;img src="http://videos.sapo.pt/BZgzdohpv3bwiO9oy97Z/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Andrei Galat e Maxim Volkov. Estreia a 5 de janeiro de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/BZgzdohpv3bwiO9oy97Z</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/BZgzdohpv3bwiO9oy97Z/mov/1</sapo:videoFile>
+      <sapo:views>528</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:56</sapo:time>
+      <sapo:lastModified>Thu, 24 Nov 2016 23:43:15 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/BZgzdohpv3bwiO9oy97Z/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Fri, 25 Nov 2016 00:35:48 +0100</pubDate>
+      <link>http://videos.sapo.pt/BZgzdohpv3bwiO9oy97Z</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/GIisvTRSYF4ySckSyQQ7</guid>
+      <title>Os Belos Dias de Aranjuez</title>
+      <description>
+        &lt;h4&gt;De Wim Wenders com Reda Kateb, Sophie Semin e Nick Cave. Estreia a 15 de dezembro de 2016.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Os Belos Dias de Aranjuez&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/GIisvTRSYF4ySckSyQQ7"&gt;
+        &lt;img src="http://videos.sapo.pt/GIisvTRSYF4ySckSyQQ7/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Wim Wenders com Reda Kateb, Sophie Semin e Nick Cave. Estreia a 15 de dezembro de 2016.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/GIisvTRSYF4ySckSyQQ7</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/GIisvTRSYF4ySckSyQQ7/mov/1</sapo:videoFile>
+      <sapo:views>511</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:01</sapo:time>
+      <sapo:lastModified>Thu, 24 Nov 2016 20:50:44 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/GIisvTRSYF4ySckSyQQ7/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Thu, 24 Nov 2016 21:42:52 +0100</pubDate>
+      <link>http://videos.sapo.pt/GIisvTRSYF4ySckSyQQ7</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/fkHWvzZnv93HdkD1DUvw</guid>
+      <title>Cantar! (trailer 2)</title>
+      <description>
+        &lt;h4&gt;De Garth Jennigs. Estreia a 8 de dezembro de 2016.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Cantar! (trailer 2)&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/fkHWvzZnv93HdkD1DUvw"&gt;
+        &lt;img src="http://videos.sapo.pt/fkHWvzZnv93HdkD1DUvw/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Garth Jennigs. Estreia a 8 de dezembro de 2016.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/fkHWvzZnv93HdkD1DUvw</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/fkHWvzZnv93HdkD1DUvw/mov/1</sapo:videoFile>
+      <sapo:views>729</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:14</sapo:time>
+      <sapo:lastModified>Thu, 24 Nov 2016 18:56:06 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/fkHWvzZnv93HdkD1DUvw/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Thu, 24 Nov 2016 19:31:15 +0100</pubDate>
+      <link>http://videos.sapo.pt/fkHWvzZnv93HdkD1DUvw</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/bOykOEpWB0ekSlLjDEbY</guid>
+      <title>Festa de Natal da Empresa (trailer 2)</title>
+      <description>
+        &lt;h4&gt;De Josh Gordon e Will Speck com Olivia Munn, Jennifer Aniston e Jamie Chung. Estreia a 15 de dezembro de 2016.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Festa de Natal da Empresa (trailer 2)&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/bOykOEpWB0ekSlLjDEbY"&gt;
+        &lt;img src="http://videos.sapo.pt/bOykOEpWB0ekSlLjDEbY/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Josh Gordon e Will Speck com Olivia Munn, Jennifer Aniston e Jamie Chung. Estreia a 15 de dezembro de 2016.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/bOykOEpWB0ekSlLjDEbY</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/bOykOEpWB0ekSlLjDEbY/mov/1</sapo:videoFile>
+      <sapo:views>719</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:10</sapo:time>
+      <sapo:lastModified>Thu, 24 Nov 2016 17:53:31 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/bOykOEpWB0ekSlLjDEbY/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Thu, 24 Nov 2016 18:04:09 +0100</pubDate>
+      <link>http://videos.sapo.pt/bOykOEpWB0ekSlLjDEbY</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/8QYCPKroNgPTZmaGKkJf</guid>
+      <title>Beleza Colateral (trailer 2)</title>
+      <description>
+        &lt;h4&gt;De David Frankel com  Kate Winslet, Keira Knightley e Will Smith. Estreia a 22 de dezembro de 2016.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Beleza Colateral (trailer 2)&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/8QYCPKroNgPTZmaGKkJf"&gt;
+        &lt;img src="http://videos.sapo.pt/8QYCPKroNgPTZmaGKkJf/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De David Frankel com  Kate Winslet, Keira Knightley e Will Smith. Estreia a 22 de dezembro de 2016.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/8QYCPKroNgPTZmaGKkJf</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/8QYCPKroNgPTZmaGKkJf/mov/1</sapo:videoFile>
+      <sapo:views>394</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:18</sapo:time>
+      <sapo:lastModified>Thu, 24 Nov 2016 17:02:42 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/8QYCPKroNgPTZmaGKkJf/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Thu, 24 Nov 2016 17:43:26 +0100</pubDate>
+      <link>http://videos.sapo.pt/8QYCPKroNgPTZmaGKkJf</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/4G8ikObsIyoC0AnzauDw</guid>
+      <title>A Mãe é que Sabe</title>
+      <description>
+        &lt;h4&gt;De Nuno Rocha, com Maria João Abreu, Dalila Carmo e Manuela Maria. Estreia a 8 de dezembro de 2016.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;A Mãe é que Sabe&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/4G8ikObsIyoC0AnzauDw"&gt;
+        &lt;img src="http://videos.sapo.pt/4G8ikObsIyoC0AnzauDw/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Nuno Rocha, com Maria João Abreu, Dalila Carmo e Manuela Maria. Estreia a 8 de dezembro de 2016.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/4G8ikObsIyoC0AnzauDw</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/4G8ikObsIyoC0AnzauDw/mov/1</sapo:videoFile>
+      <sapo:views>482</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:54</sapo:time>
+      <sapo:lastModified>Wed, 23 Nov 2016 21:59:38 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/4G8ikObsIyoC0AnzauDw/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Wed, 23 Nov 2016 21:25:30 +0100</pubDate>
+      <link>http://videos.sapo.pt/4G8ikObsIyoC0AnzauDw</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/Fd9mCZNZHyT9FG2zibNP</guid>
+      <title>Vídeo exclusivo "Elementos Secretos"</title>
+      <description>
+        &lt;h4&gt;&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Vídeo exclusivo "Elementos Secretos"&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/Fd9mCZNZHyT9FG2zibNP"&gt;
+        &lt;img src="http://videos.sapo.pt/Fd9mCZNZHyT9FG2zibNP/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse />
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/Fd9mCZNZHyT9FG2zibNP</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/Fd9mCZNZHyT9FG2zibNP/mov/1</sapo:videoFile>
+      <sapo:views>672</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:14</sapo:time>
+      <sapo:lastModified>Wed, 23 Nov 2016 15:53:55 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/Fd9mCZNZHyT9FG2zibNP/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Wed, 23 Nov 2016 13:56:31 +0100</pubDate>
+      <link>http://videos.sapo.pt/Fd9mCZNZHyT9FG2zibNP</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/3Sd13pdDdwDt8NZ1nZ0G</guid>
+      <title>Kahaani 2</title>
+      <description>
+        &lt;h4&gt;Filme de Sujoy Ghosh com Vidya Balan, Arjun Rampal. Estreia a 1 de dezembro de 2016.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Kahaani 2&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/3Sd13pdDdwDt8NZ1nZ0G"&gt;
+        &lt;img src="http://videos.sapo.pt/3Sd13pdDdwDt8NZ1nZ0G/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>Filme de Sujoy Ghosh com Vidya Balan, Arjun Rampal. Estreia a 1 de dezembro de 2016.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/3Sd13pdDdwDt8NZ1nZ0G</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/3Sd13pdDdwDt8NZ1nZ0G/mov/1</sapo:videoFile>
+      <sapo:views>366</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:22</sapo:time>
+      <sapo:lastModified>Wed, 23 Nov 2016 13:00:05 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/3Sd13pdDdwDt8NZ1nZ0G/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Wed, 23 Nov 2016 13:48:35 +0100</pubDate>
+      <link>http://videos.sapo.pt/3Sd13pdDdwDt8NZ1nZ0G</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/qWBFbhpI3i7a289idhZS</guid>
+      <title>Silêncio (original)</title>
+      <description>
+        &lt;h4&gt;Filme de Martin Scorsese com  Andrew Garfield, Liam Neeson, Adam Driver. Estreia a 19 de janeiro de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Silêncio (original)&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/qWBFbhpI3i7a289idhZS"&gt;
+        &lt;img src="http://videos.sapo.pt/qWBFbhpI3i7a289idhZS/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>Filme de Martin Scorsese com  Andrew Garfield, Liam Neeson, Adam Driver. Estreia a 19 de janeiro de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/qWBFbhpI3i7a289idhZS</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/qWBFbhpI3i7a289idhZS/mov/1</sapo:videoFile>
+      <sapo:views>2851</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:13</sapo:time>
+      <sapo:lastModified>Wed, 23 Nov 2016 09:15:24 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/qWBFbhpI3i7a289idhZS/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Wed, 23 Nov 2016 10:02:57 +0100</pubDate>
+      <link>http://videos.sapo.pt/qWBFbhpI3i7a289idhZS</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/fL1ROVfYblWB5iJzreDE</guid>
+      <title>Saint Amour</title>
+      <description>
+        &lt;h4&gt; De Benoît Delépine e Gustave Kervern, comBenoît Poelvoorde, Gérard Depardieu, Vincent Lacoste e Céline Sallette. Estreia a 8 de dezembro de 2016.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Saint Amour&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/fL1ROVfYblWB5iJzreDE"&gt;
+        &lt;img src="http://videos.sapo.pt/fL1ROVfYblWB5iJzreDE/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse> De Benoît Delépine e Gustave Kervern, comBenoît Poelvoorde, Gérard Depardieu, Vincent Lacoste e Céline Sallette. Estreia a 8 de dezembro de 2016.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/fL1ROVfYblWB5iJzreDE</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/fL1ROVfYblWB5iJzreDE/mov/1</sapo:videoFile>
+      <sapo:views>258</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:49</sapo:time>
+      <sapo:lastModified>Tue, 22 Nov 2016 23:19:46 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/fL1ROVfYblWB5iJzreDE/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Wed, 23 Nov 2016 00:11:57 +0100</pubDate>
+      <link>http://videos.sapo.pt/fL1ROVfYblWB5iJzreDE</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/j3us6z2Izg1VhkqFdtew</guid>
+      <title>Carros 3 (teaser)</title>
+      <description>
+        &lt;h4&gt;Filme de Brian Fee. Estreia a 20 de julho de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Carros 3 (teaser)&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/j3us6z2Izg1VhkqFdtew"&gt;
+        &lt;img src="http://videos.sapo.pt/j3us6z2Izg1VhkqFdtew/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>Filme de Brian Fee. Estreia a 20 de julho de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/j3us6z2Izg1VhkqFdtew</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/j3us6z2Izg1VhkqFdtew/mov/1</sapo:videoFile>
+      <sapo:views>267</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:00:49</sapo:time>
+      <sapo:lastModified>Tue, 22 Nov 2016 13:13:10 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/j3us6z2Izg1VhkqFdtew/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Tue, 22 Nov 2016 14:02:33 +0100</pubDate>
+      <link>http://videos.sapo.pt/j3us6z2Izg1VhkqFdtew</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/LmnyqZHe5H8iTGVVDbRD</guid>
+      <title>Power Rangers </title>
+      <description>
+        &lt;h4&gt;De Dean Israelite com Bryan Cranston, Dacre Montgomery e Elizabeth Banks. Estreia a 23 de março de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Power Rangers &lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/LmnyqZHe5H8iTGVVDbRD"&gt;
+        &lt;img src="http://videos.sapo.pt/LmnyqZHe5H8iTGVVDbRD/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Dean Israelite com Bryan Cranston, Dacre Montgomery e Elizabeth Banks. Estreia a 23 de março de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/LmnyqZHe5H8iTGVVDbRD</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/LmnyqZHe5H8iTGVVDbRD/mov/1</sapo:videoFile>
+      <sapo:views>301</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:06</sapo:time>
+      <sapo:lastModified>Tue, 22 Nov 2016 00:44:17 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/LmnyqZHe5H8iTGVVDbRD/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Tue, 22 Nov 2016 01:33:57 +0100</pubDate>
+      <link>http://videos.sapo.pt/LmnyqZHe5H8iTGVVDbRD</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/3teWKzAZTtyoOzroij25</guid>
+      <title>Nos Limites da Lei</title>
+      <description>
+        &lt;h4&gt;De Baron bo Odar com Jamie Foxx, Michelle Monaghan e Dermot Mulroney. Estreia a 16 de março de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Nos Limites da Lei&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/3teWKzAZTtyoOzroij25"&gt;
+        &lt;img src="http://videos.sapo.pt/3teWKzAZTtyoOzroij25/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Baron bo Odar com Jamie Foxx, Michelle Monaghan e Dermot Mulroney. Estreia a 16 de março de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/3teWKzAZTtyoOzroij25</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/3teWKzAZTtyoOzroij25/mov/1</sapo:videoFile>
+      <sapo:views>238</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:12</sapo:time>
+      <sapo:lastModified>Tue, 22 Nov 2016 00:40:03 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/3teWKzAZTtyoOzroij25/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Tue, 22 Nov 2016 01:30:04 +0100</pubDate>
+      <link>http://videos.sapo.pt/3teWKzAZTtyoOzroij25</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/dLE0fO1BZVU7lZ9h8s8s</guid>
+      <title>Rock Dog - Um Sonho Altamente!</title>
+      <description>
+        &lt;h4&gt;De Ash Brannon. Estreia a 23 de fevereiro de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Rock Dog - Um Sonho Altamente!&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/dLE0fO1BZVU7lZ9h8s8s"&gt;
+        &lt;img src="http://videos.sapo.pt/dLE0fO1BZVU7lZ9h8s8s/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Ash Brannon. Estreia a 23 de fevereiro de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/dLE0fO1BZVU7lZ9h8s8s</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/dLE0fO1BZVU7lZ9h8s8s/mov/1</sapo:videoFile>
+      <sapo:views>197</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:14</sapo:time>
+      <sapo:lastModified>Tue, 22 Nov 2016 00:37:43 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/dLE0fO1BZVU7lZ9h8s8s/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Tue, 22 Nov 2016 01:18:45 +0100</pubDate>
+      <link>http://videos.sapo.pt/dLE0fO1BZVU7lZ9h8s8s</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/AwdkTJz0qrBZJAe4RzY6</guid>
+      <title>Sala Oculta</title>
+      <description>
+        &lt;h4&gt;De D.J.Caruso com Kate Beckinsale, Lucas Till e Mel Raido. Estreia a 5 de janeiro de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Sala Oculta&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/AwdkTJz0qrBZJAe4RzY6"&gt;
+        &lt;img src="http://videos.sapo.pt/AwdkTJz0qrBZJAe4RzY6/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De D.J.Caruso com Kate Beckinsale, Lucas Till e Mel Raido. Estreia a 5 de janeiro de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/AwdkTJz0qrBZJAe4RzY6</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/AwdkTJz0qrBZJAe4RzY6/mov/1</sapo:videoFile>
+      <sapo:views>257</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:56</sapo:time>
+      <sapo:lastModified>Tue, 22 Nov 2016 00:23:11 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/AwdkTJz0qrBZJAe4RzY6/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Tue, 22 Nov 2016 01:15:07 +0100</pubDate>
+      <link>http://videos.sapo.pt/AwdkTJz0qrBZJAe4RzY6</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/EEGQWzHprkMF5izh55Zr</guid>
+      <title>O Benfeitor</title>
+      <description>
+        &lt;h4&gt;De Andrew Renzi com Richard Gere, Dakota Fanning e Theo James. Estreia a 15 de dezembro de 2016. &lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;O Benfeitor&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/EEGQWzHprkMF5izh55Zr"&gt;
+        &lt;img src="http://videos.sapo.pt/EEGQWzHprkMF5izh55Zr/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Andrew Renzi com Richard Gere, Dakota Fanning e Theo James. Estreia a 15 de dezembro de 2016. </sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/EEGQWzHprkMF5izh55Zr</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/EEGQWzHprkMF5izh55Zr/mov/1</sapo:videoFile>
+      <sapo:views>226</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:37</sapo:time>
+      <sapo:lastModified>Tue, 22 Nov 2016 00:23:43 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/EEGQWzHprkMF5izh55Zr/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Tue, 22 Nov 2016 01:08:07 +0100</pubDate>
+      <link>http://videos.sapo.pt/EEGQWzHprkMF5izh55Zr</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/YQfZ64IgCmf3G6ldi3Gy</guid>
+      <title>Hitchcock/Truffaut</title>
+      <description>
+        &lt;h4&gt;De Kent Jones. Estreia a 8 de dezembro.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Hitchcock/Truffaut&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/YQfZ64IgCmf3G6ldi3Gy"&gt;
+        &lt;img src="http://videos.sapo.pt/YQfZ64IgCmf3G6ldi3Gy/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Kent Jones. Estreia a 8 de dezembro.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/YQfZ64IgCmf3G6ldi3Gy</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/YQfZ64IgCmf3G6ldi3Gy/mov/1</sapo:videoFile>
+      <sapo:views>108</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:10</sapo:time>
+      <sapo:lastModified>Tue, 22 Nov 2016 00:12:58 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/YQfZ64IgCmf3G6ldi3Gy/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Tue, 22 Nov 2016 01:05:56 +0100</pubDate>
+      <link>http://videos.sapo.pt/YQfZ64IgCmf3G6ldi3Gy</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/D4SISZkFwnWcklR5NWZl</guid>
+      <title>Versus - A Vida e os Filmes de Ken Loach</title>
+      <description>
+        &lt;h4&gt;De Louise Osmond. Estreia a 1 de dezembro de 2016.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Versus - A Vida e os Filmes de Ken Loach&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/D4SISZkFwnWcklR5NWZl"&gt;
+        &lt;img src="http://videos.sapo.pt/D4SISZkFwnWcklR5NWZl/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Louise Osmond. Estreia a 1 de dezembro de 2016.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/D4SISZkFwnWcklR5NWZl</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/D4SISZkFwnWcklR5NWZl/mov/1</sapo:videoFile>
+      <sapo:views>71</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>false</sapo:HD>
+      <sapo:time>00:01:46</sapo:time>
+      <sapo:lastModified>Tue, 22 Nov 2016 00:05:30 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/D4SISZkFwnWcklR5NWZl/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Tue, 22 Nov 2016 01:03:33 +0100</pubDate>
+      <link>http://videos.sapo.pt/D4SISZkFwnWcklR5NWZl</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/ryvGjO9JqFCpreBPwPVQ</guid>
+      <title>O Número</title>
+      <description>
+        &lt;h4&gt;De Atom Egoyan com  Christopher Plummer, Kim Roberts e Amanda Smith. Estreia a 1 de dezembro de 2016.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;O Número&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/ryvGjO9JqFCpreBPwPVQ"&gt;
+        &lt;img src="http://videos.sapo.pt/ryvGjO9JqFCpreBPwPVQ/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Atom Egoyan com  Christopher Plummer, Kim Roberts e Amanda Smith. Estreia a 1 de dezembro de 2016.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/ryvGjO9JqFCpreBPwPVQ</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/ryvGjO9JqFCpreBPwPVQ/mov/1</sapo:videoFile>
+      <sapo:views>330</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:01</sapo:time>
+      <sapo:lastModified>Tue, 22 Nov 2016 00:10:16 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/ryvGjO9JqFCpreBPwPVQ/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Tue, 22 Nov 2016 00:59:04 +0100</pubDate>
+      <link>http://videos.sapo.pt/ryvGjO9JqFCpreBPwPVQ</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/uE4QcELJZwHkKM8FZ1jT</guid>
+      <title>Smurfs: A Aldeia Perdida (trailer 2)</title>
+      <description>
+        &lt;h4&gt;De Kelly Asbury. Estreia a 30 de março de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Smurfs: A Aldeia Perdida (trailer 2)&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/uE4QcELJZwHkKM8FZ1jT"&gt;
+        &lt;img src="http://videos.sapo.pt/uE4QcELJZwHkKM8FZ1jT/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Kelly Asbury. Estreia a 30 de março de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/uE4QcELJZwHkKM8FZ1jT</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/uE4QcELJZwHkKM8FZ1jT/mov/1</sapo:videoFile>
+      <sapo:views>776</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>false</sapo:HD>
+      <sapo:time>00:01:28</sapo:time>
+      <sapo:lastModified>Mon, 21 Nov 2016 17:51:23 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/uE4QcELJZwHkKM8FZ1jT/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Mon, 21 Nov 2016 17:32:33 +0100</pubDate>
+      <link>http://videos.sapo.pt/uE4QcELJZwHkKM8FZ1jT</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/utmYNr5LfBv04zULWsfK</guid>
+      <title>Smurfs: A Aldeia Perdida</title>
+      <description>
+        &lt;h4&gt;De Kelly Asbury. Estreia a 30 de março de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Smurfs: A Aldeia Perdida&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/utmYNr5LfBv04zULWsfK"&gt;
+        &lt;img src="http://videos.sapo.pt/utmYNr5LfBv04zULWsfK/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Kelly Asbury. Estreia a 30 de março de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/utmYNr5LfBv04zULWsfK</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/utmYNr5LfBv04zULWsfK/mov/1</sapo:videoFile>
+      <sapo:views>291</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:02</sapo:time>
+      <sapo:lastModified>Sun, 20 Nov 2016 18:25:30 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/utmYNr5LfBv04zULWsfK/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Sun, 20 Nov 2016 19:21:06 +0100</pubDate>
+      <link>http://videos.sapo.pt/utmYNr5LfBv04zULWsfK</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/wA757Ej6Lrzm7z0pMI8s</guid>
+      <title>John Wick 2</title>
+      <description>
+        &lt;h4&gt;De Chad Stahelski com Keanu Reeves, Ian McShane e Laurence Fishburne. Estreia a 16 de fevereirp de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;John Wick 2&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/wA757Ej6Lrzm7z0pMI8s"&gt;
+        &lt;img src="http://videos.sapo.pt/wA757Ej6Lrzm7z0pMI8s/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Chad Stahelski com Keanu Reeves, Ian McShane e Laurence Fishburne. Estreia a 16 de fevereirp de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/wA757Ej6Lrzm7z0pMI8s</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/wA757Ej6Lrzm7z0pMI8s/mov/1</sapo:videoFile>
+      <sapo:views>233</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:35</sapo:time>
+      <sapo:lastModified>Sun, 20 Nov 2016 18:25:52 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/wA757Ej6Lrzm7z0pMI8s/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Sun, 20 Nov 2016 19:16:58 +0100</pubDate>
+      <link>http://videos.sapo.pt/wA757Ej6Lrzm7z0pMI8s</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/QGC9AQlfvBujRatW39cE</guid>
+      <title>La La Land - Melodia de Amor - Trailer 2</title>
+      <description>
+        &lt;h4&gt;De Damien Chazelle com Emma Stone, Ryan Gosling e J. K. Simmons. Estreia a 26 de janeiro de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;La La Land - Melodia de Amor - Trailer 2&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/QGC9AQlfvBujRatW39cE"&gt;
+        &lt;img src="http://videos.sapo.pt/QGC9AQlfvBujRatW39cE/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Damien Chazelle com Emma Stone, Ryan Gosling e J. K. Simmons. Estreia a 26 de janeiro de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/QGC9AQlfvBujRatW39cE</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/QGC9AQlfvBujRatW39cE/mov/1</sapo:videoFile>
+      <sapo:views>194</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:07</sapo:time>
+      <sapo:lastModified>Sun, 20 Nov 2016 18:23:04 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/QGC9AQlfvBujRatW39cE/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Sun, 20 Nov 2016 19:10:24 +0100</pubDate>
+      <link>http://videos.sapo.pt/QGC9AQlfvBujRatW39cE</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/gbFPAJTHRZcHzOJ7vKZy</guid>
+      <title>A Desaparecida, o Aleijado e os Trogloditas</title>
+      <description>
+        &lt;h4&gt;De S.Craig Zahler com Kurt Russell, Patrick Wilson e Richard Jenkins. Estreia a 29 de dezembro de 2016.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;A Desaparecida, o Aleijado e os Trogloditas&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/gbFPAJTHRZcHzOJ7vKZy"&gt;
+        &lt;img src="http://videos.sapo.pt/gbFPAJTHRZcHzOJ7vKZy/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De S.Craig Zahler com Kurt Russell, Patrick Wilson e Richard Jenkins. Estreia a 29 de dezembro de 2016.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/gbFPAJTHRZcHzOJ7vKZy</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/gbFPAJTHRZcHzOJ7vKZy/mov/1</sapo:videoFile>
+      <sapo:views>153</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:36</sapo:time>
+      <sapo:lastModified>Sun, 20 Nov 2016 18:15:46 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/gbFPAJTHRZcHzOJ7vKZy/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Sun, 20 Nov 2016 19:07:03 +0100</pubDate>
+      <link>http://videos.sapo.pt/gbFPAJTHRZcHzOJ7vKZy</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/kkMChN8tmrubwN57SZhM</guid>
+      <title>A Mãe é que Sabe</title>
+      <description>
+        &lt;h4&gt;De Nuno Rocha, com Maria João Abreu, Dalila Carmo e Manuela Maria. Estreia a 8 de dezembro de 2016.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;A Mãe é que Sabe&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/kkMChN8tmrubwN57SZhM"&gt;
+        &lt;img src="http://videos.sapo.pt/kkMChN8tmrubwN57SZhM/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Nuno Rocha, com Maria João Abreu, Dalila Carmo e Manuela Maria. Estreia a 8 de dezembro de 2016.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/kkMChN8tmrubwN57SZhM</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/kkMChN8tmrubwN57SZhM/mov/1</sapo:videoFile>
+      <sapo:views>183</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:41</sapo:time>
+      <sapo:lastModified>Sun, 20 Nov 2016 18:11:55 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/kkMChN8tmrubwN57SZhM/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Sun, 20 Nov 2016 19:04:36 +0100</pubDate>
+      <link>http://videos.sapo.pt/kkMChN8tmrubwN57SZhM</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/zNh5oE2u0A6mzz7fulb6</guid>
+      <title>A Bela e o Monstro (primeiro trailer)</title>
+      <description>
+        &lt;h4&gt;Filme de Bill Condon com Emma Watson, Dan Stevens, Luke Evans. Estreia a 16 de março de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;A Bela e o Monstro (primeiro trailer)&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/zNh5oE2u0A6mzz7fulb6"&gt;
+        &lt;img src="http://videos.sapo.pt/zNh5oE2u0A6mzz7fulb6/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>Filme de Bill Condon com Emma Watson, Dan Stevens, Luke Evans. Estreia a 16 de março de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/zNh5oE2u0A6mzz7fulb6</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/zNh5oE2u0A6mzz7fulb6/mov/1</sapo:videoFile>
+      <sapo:views>1150</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:00</sapo:time>
+      <sapo:lastModified>Wed, 16 Nov 2016 09:26:41 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/zNh5oE2u0A6mzz7fulb6/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Wed, 16 Nov 2016 10:22:53 +0100</pubDate>
+      <link>http://videos.sapo.pt/zNh5oE2u0A6mzz7fulb6</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/AOVEmqughPZZ2CEuqype</guid>
+      <title>Vida Activa - O Espírito de Hannah Arendt</title>
+      <description>
+        &lt;h4&gt;De Ada Ushpiz. Estreia a 5 de janeiro de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Vida Activa - O Espírito de Hannah Arendt&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/AOVEmqughPZZ2CEuqype"&gt;
+        &lt;img src="http://videos.sapo.pt/AOVEmqughPZZ2CEuqype/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Ada Ushpiz. Estreia a 5 de janeiro de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/AOVEmqughPZZ2CEuqype</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/AOVEmqughPZZ2CEuqype/mov/1</sapo:videoFile>
+      <sapo:views>93</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>false</sapo:HD>
+      <sapo:time>00:01:41</sapo:time>
+      <sapo:lastModified>Wed, 16 Nov 2016 08:21:33 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/AOVEmqughPZZ2CEuqype/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Wed, 16 Nov 2016 09:19:44 +0100</pubDate>
+      <link>http://videos.sapo.pt/AOVEmqughPZZ2CEuqype</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/JyP7rN2iDNw9ZLsR6Hzl</guid>
+      <title>Life</title>
+      <description>
+        &lt;h4&gt;De Daniel Espinosa com Ryan Reynolds, Jake Gyllenhaal e Rebecca Ferguson. Estreia a 18 de maio de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Life&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/JyP7rN2iDNw9ZLsR6Hzl"&gt;
+        &lt;img src="http://videos.sapo.pt/JyP7rN2iDNw9ZLsR6Hzl/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Daniel Espinosa com Ryan Reynolds, Jake Gyllenhaal e Rebecca Ferguson. Estreia a 18 de maio de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/JyP7rN2iDNw9ZLsR6Hzl</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/JyP7rN2iDNw9ZLsR6Hzl/mov/1</sapo:videoFile>
+      <sapo:views>343</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:16</sapo:time>
+      <sapo:lastModified>Tue, 15 Nov 2016 23:45:29 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/JyP7rN2iDNw9ZLsR6Hzl/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Wed, 16 Nov 2016 00:36:03 +0100</pubDate>
+      <link>http://videos.sapo.pt/JyP7rN2iDNw9ZLsR6Hzl</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/rUOTWA1GtzR314zfaDcG</guid>
+      <title>O Espaço que nos Une</title>
+      <description>
+        &lt;h4&gt;De Peter Chelsom com Asa Butterfield, Gary oldman e Carla Gugino. Estreia a 29 de dezembro de 2016.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;O Espaço que nos Une&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/rUOTWA1GtzR314zfaDcG"&gt;
+        &lt;img src="http://videos.sapo.pt/rUOTWA1GtzR314zfaDcG/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Peter Chelsom com Asa Butterfield, Gary oldman e Carla Gugino. Estreia a 29 de dezembro de 2016.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/rUOTWA1GtzR314zfaDcG</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/rUOTWA1GtzR314zfaDcG/mov/1</sapo:videoFile>
+      <sapo:views>359</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:19</sapo:time>
+      <sapo:lastModified>Tue, 15 Nov 2016 21:52:16 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/rUOTWA1GtzR314zfaDcG/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Tue, 15 Nov 2016 22:44:04 +0100</pubDate>
+      <link>http://videos.sapo.pt/rUOTWA1GtzR314zfaDcG</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/gr1HSLTBLzJwDkj5VYzr</guid>
+      <title>Eis o Admirável Mundo em Rede</title>
+      <description>
+        &lt;h4&gt;De Werner Herzog. Estreia a 24 de novembro de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Eis o Admirável Mundo em Rede&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/gr1HSLTBLzJwDkj5VYzr"&gt;
+        &lt;img src="http://videos.sapo.pt/gr1HSLTBLzJwDkj5VYzr/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Werner Herzog. Estreia a 24 de novembro de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/gr1HSLTBLzJwDkj5VYzr</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/gr1HSLTBLzJwDkj5VYzr/mov/1</sapo:videoFile>
+      <sapo:views>687</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:22</sapo:time>
+      <sapo:lastModified>Mon, 14 Nov 2016 22:40:37 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/gr1HSLTBLzJwDkj5VYzr/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Mon, 14 Nov 2016 23:31:54 +0100</pubDate>
+      <link>http://videos.sapo.pt/gr1HSLTBLzJwDkj5VYzr</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/uYGRvbZlL8Gbz0OMvdT3</guid>
+      <title>A Bela e o Monstro (primeiro trailer, original)</title>
+      <description>
+        &lt;h4&gt;Filme de Bill Condon com Emma Watson, Dan Stevens, Luke Evans. Estreia a 16 de março de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;A Bela e o Monstro (primeiro trailer, original)&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/uYGRvbZlL8Gbz0OMvdT3"&gt;
+        &lt;img src="http://videos.sapo.pt/uYGRvbZlL8Gbz0OMvdT3/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>Filme de Bill Condon com Emma Watson, Dan Stevens, Luke Evans. Estreia a 16 de março de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/uYGRvbZlL8Gbz0OMvdT3</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/uYGRvbZlL8Gbz0OMvdT3/mov/1</sapo:videoFile>
+      <sapo:views>5558</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:59</sapo:time>
+      <sapo:lastModified>Mon, 14 Nov 2016 14:13:00 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/uYGRvbZlL8Gbz0OMvdT3/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Mon, 14 Nov 2016 15:07:11 +0100</pubDate>
+      <link>http://videos.sapo.pt/uYGRvbZlL8Gbz0OMvdT3</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/vI3vis1T2Zr91jbL1425</guid>
+      <title>Tudo Para Ser Feliz</title>
+      <description>
+        &lt;h4&gt;Filme de Cyril Gelblat com Manu Payet, Audrey Lamy, Aure Atika. Estreia a 8 de dezembro de 2016.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Tudo Para Ser Feliz&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/vI3vis1T2Zr91jbL1425"&gt;
+        &lt;img src="http://videos.sapo.pt/vI3vis1T2Zr91jbL1425/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>Filme de Cyril Gelblat com Manu Payet, Audrey Lamy, Aure Atika. Estreia a 8 de dezembro de 2016.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/vI3vis1T2Zr91jbL1425</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/vI3vis1T2Zr91jbL1425/mov/1</sapo:videoFile>
+      <sapo:views>371</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:02</sapo:time>
+      <sapo:lastModified>Mon, 14 Nov 2016 11:05:00 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/vI3vis1T2Zr91jbL1425/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Mon, 14 Nov 2016 11:55:47 +0100</pubDate>
+      <link>http://videos.sapo.pt/vI3vis1T2Zr91jbL1425</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/6qOsPehe2PlooA8SJP0C</guid>
+      <title>Ghost in the Shell: Agente do Futuro</title>
+      <description>
+        &lt;h4&gt;Filme de Rupert Sanders com Scarlett Johansson, Michael Wincott, Michael Pitt e Juliette Binoche. Estreia a 30 de março de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Ghost in the Shell: Agente do Futuro&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/6qOsPehe2PlooA8SJP0C"&gt;
+        &lt;img src="http://videos.sapo.pt/6qOsPehe2PlooA8SJP0C/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>Filme de Rupert Sanders com Scarlett Johansson, Michael Wincott, Michael Pitt e Juliette Binoche. Estreia a 30 de março de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/6qOsPehe2PlooA8SJP0C</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/6qOsPehe2PlooA8SJP0C/mov/1</sapo:videoFile>
+      <sapo:views>7276</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:04</sapo:time>
+      <sapo:lastModified>Mon, 14 Nov 2016 09:36:04 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/6qOsPehe2PlooA8SJP0C/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Mon, 14 Nov 2016 10:14:44 +0100</pubDate>
+      <link>http://videos.sapo.pt/6qOsPehe2PlooA8SJP0C</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/bofDq9CmF170FgvhuCHv</guid>
+      <title>Um Instante de Amor </title>
+      <description>
+        &lt;h4&gt;De Nicole Garcia com Marion Cotillard, Louis Garrel e Alex Brendemühl. Estreia a 5 de janeiro de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Um Instante de Amor &lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/bofDq9CmF170FgvhuCHv"&gt;
+        &lt;img src="http://videos.sapo.pt/bofDq9CmF170FgvhuCHv/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Nicole Garcia com Marion Cotillard, Louis Garrel e Alex Brendemühl. Estreia a 5 de janeiro de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/bofDq9CmF170FgvhuCHv</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/bofDq9CmF170FgvhuCHv/mov/1</sapo:videoFile>
+      <sapo:views>464</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:43</sapo:time>
+      <sapo:lastModified>Sun, 13 Nov 2016 01:19:03 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/bofDq9CmF170FgvhuCHv/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Sun, 13 Nov 2016 02:15:11 +0100</pubDate>
+      <link>http://videos.sapo.pt/bofDq9CmF170FgvhuCHv</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/sdww2NqUNknmuuTORCEo</guid>
+      <title>Eu, Daniel Blake</title>
+      <description>
+        &lt;h4&gt;De Ken Loach com  Dave Johns, Hayley Squires e Sharon Percy. Estreia a 1 de dezembro de 2016.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Eu, Daniel Blake&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/sdww2NqUNknmuuTORCEo"&gt;
+        &lt;img src="http://videos.sapo.pt/sdww2NqUNknmuuTORCEo/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Ken Loach com  Dave Johns, Hayley Squires e Sharon Percy. Estreia a 1 de dezembro de 2016.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/sdww2NqUNknmuuTORCEo</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/sdww2NqUNknmuuTORCEo/mov/1</sapo:videoFile>
+      <sapo:views>359</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>false</sapo:HD>
+      <sapo:time>00:01:54</sapo:time>
+      <sapo:lastModified>Fri, 11 Nov 2016 07:36:52 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/sdww2NqUNknmuuTORCEo/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Fri, 11 Nov 2016 08:34:52 +0100</pubDate>
+      <link>http://videos.sapo.pt/sdww2NqUNknmuuTORCEo</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/GvZUkvhyeugtATFqQCF4</guid>
+      <title>Valerian e a Cidade dos Mil Planetas</title>
+      <description>
+        &lt;h4&gt;Filme de Luc Besson com Cara Delevingne e Dane DeHaan. Estreia no verão de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Valerian e a Cidade dos Mil Planetas&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/GvZUkvhyeugtATFqQCF4"&gt;
+        &lt;img src="http://videos.sapo.pt/GvZUkvhyeugtATFqQCF4/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>Filme de Luc Besson com Cara Delevingne e Dane DeHaan. Estreia no verão de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/GvZUkvhyeugtATFqQCF4</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/GvZUkvhyeugtATFqQCF4/mov/1</sapo:videoFile>
+      <sapo:views>2958</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:32</sapo:time>
+      <sapo:lastModified>Thu, 10 Nov 2016 16:11:18 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/GvZUkvhyeugtATFqQCF4/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Thu, 10 Nov 2016 16:35:56 +0100</pubDate>
+      <link>http://videos.sapo.pt/GvZUkvhyeugtATFqQCF4</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/cjCJBlsSQZ6kH2Nm7BjL</guid>
+      <title>Vídeo mostra super-heróis preocupados com eleição de Donald Trump</title>
+      <description>
+        &lt;h4&gt;Vídeo da autoria de Dr. Machakil.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Vídeo mostra super-heróis preocupados com eleição de Donald Trump&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/cjCJBlsSQZ6kH2Nm7BjL"&gt;
+        &lt;img src="http://videos.sapo.pt/cjCJBlsSQZ6kH2Nm7BjL/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>Vídeo da autoria de Dr. Machakil.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/cjCJBlsSQZ6kH2Nm7BjL</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/cjCJBlsSQZ6kH2Nm7BjL/mov/1</sapo:videoFile>
+      <sapo:views>1416</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:10</sapo:time>
+      <sapo:lastModified>Thu, 10 Nov 2016 12:14:47 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/cjCJBlsSQZ6kH2Nm7BjL/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Thu, 10 Nov 2016 12:07:16 +0100</pubDate>
+      <link>http://videos.sapo.pt/cjCJBlsSQZ6kH2Nm7BjL</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/JLlD7FQKnRMvCQTwUNhP</guid>
+      <title>O Vendedor</title>
+      <description>
+        &lt;h4&gt;De Asgar Farhadi com Shahab Hosseini, Taraneh Alidoosti e Babak Karimi. Estreia a 22 de dezembro de 2016.
+&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;O Vendedor&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/JLlD7FQKnRMvCQTwUNhP"&gt;
+        &lt;img src="http://videos.sapo.pt/JLlD7FQKnRMvCQTwUNhP/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Asgar Farhadi com Shahab Hosseini, Taraneh Alidoosti e Babak Karimi. Estreia a 22 de dezembro de 2016.
+</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/JLlD7FQKnRMvCQTwUNhP</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/JLlD7FQKnRMvCQTwUNhP/mov/1</sapo:videoFile>
+      <sapo:views>433</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:39</sapo:time>
+      <sapo:lastModified>Wed, 09 Nov 2016 23:33:01 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/JLlD7FQKnRMvCQTwUNhP/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Thu, 10 Nov 2016 00:27:01 +0100</pubDate>
+      <link>http://videos.sapo.pt/JLlD7FQKnRMvCQTwUNhP</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/vOdgJoiYfb48D35Ye8Bi</guid>
+      <title>Fatima (teaser)</title>
+      <description>
+        &lt;h4&gt;Animação de Bartek Kik. Estreia em maio de 2018.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Fatima (teaser)&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/vOdgJoiYfb48D35Ye8Bi"&gt;
+        &lt;img src="http://videos.sapo.pt/vOdgJoiYfb48D35Ye8Bi/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>Animação de Bartek Kik. Estreia em maio de 2018.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/vOdgJoiYfb48D35Ye8Bi</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/vOdgJoiYfb48D35Ye8Bi/mov/1</sapo:videoFile>
+      <sapo:views>1465</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:22</sapo:time>
+      <sapo:lastModified>Wed, 09 Nov 2016 15:19:16 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/vOdgJoiYfb48D35Ye8Bi/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Wed, 09 Nov 2016 15:13:48 +0100</pubDate>
+      <link>http://videos.sapo.pt/vOdgJoiYfb48D35Ye8Bi</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/n9OROb9gBEbFu66JfMo6</guid>
+      <title>Um Pai Natal Para Esquecer</title>
+      <description>
+        &lt;h4&gt;Filme de Mark Waters com Billy Bob Thornton, Kathy Bates, Tony Cox. Estreia a 1 de dezembro de 2016.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Um Pai Natal Para Esquecer&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/n9OROb9gBEbFu66JfMo6"&gt;
+        &lt;img src="http://videos.sapo.pt/n9OROb9gBEbFu66JfMo6/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>Filme de Mark Waters com Billy Bob Thornton, Kathy Bates, Tony Cox. Estreia a 1 de dezembro de 2016.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/n9OROb9gBEbFu66JfMo6</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/n9OROb9gBEbFu66JfMo6/mov/1</sapo:videoFile>
+      <sapo:views>954</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:39</sapo:time>
+      <sapo:lastModified>Wed, 09 Nov 2016 11:19:51 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/n9OROb9gBEbFu66JfMo6/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Wed, 09 Nov 2016 12:09:21 +0100</pubDate>
+      <link>http://videos.sapo.pt/n9OROb9gBEbFu66JfMo6</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/2uZEOm3j9UqdeA8kiPMq</guid>
+      <title>Rings </title>
+      <description>
+        &lt;h4&gt;De F. Javier Gutiérrez com Aimee Teegarden, Vincent D'Onofrio e Lizzie Brocheré. Estreia a &lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Rings &lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/2uZEOm3j9UqdeA8kiPMq"&gt;
+        &lt;img src="http://videos.sapo.pt/2uZEOm3j9UqdeA8kiPMq/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De F. Javier Gutiérrez com Aimee Teegarden, Vincent D'Onofrio e Lizzie Brocheré. Estreia a </sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/2uZEOm3j9UqdeA8kiPMq</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/2uZEOm3j9UqdeA8kiPMq/mov/1</sapo:videoFile>
+      <sapo:views>469</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:27</sapo:time>
+      <sapo:lastModified>Wed, 09 Nov 2016 09:11:43 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/2uZEOm3j9UqdeA8kiPMq/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Wed, 09 Nov 2016 08:46:28 +0100</pubDate>
+      <link>http://videos.sapo.pt/2uZEOm3j9UqdeA8kiPMq</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/gk0pYQMG7ThZElfrB7WR</guid>
+      <title>Rock On 2 </title>
+      <description>
+        &lt;h4&gt;De Shujaat Saudagar com Farhan Akhtar, Shraddha Kapoor e Arjun Rampal. Estreia a 11 de novembro de 2016.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Rock On 2 &lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/gk0pYQMG7ThZElfrB7WR"&gt;
+        &lt;img src="http://videos.sapo.pt/gk0pYQMG7ThZElfrB7WR/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Shujaat Saudagar com Farhan Akhtar, Shraddha Kapoor e Arjun Rampal. Estreia a 11 de novembro de 2016.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/gk0pYQMG7ThZElfrB7WR</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/gk0pYQMG7ThZElfrB7WR/mov/1</sapo:videoFile>
+      <sapo:views>395</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:03</sapo:time>
+      <sapo:lastModified>Wed, 09 Nov 2016 07:48:43 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/gk0pYQMG7ThZElfrB7WR/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Wed, 09 Nov 2016 08:43:10 +0100</pubDate>
+      <link>http://videos.sapo.pt/gk0pYQMG7ThZElfrB7WR</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/T5zG4JfqGdI03fmpPdSS</guid>
+      <title>Saca - O Filme de Tiago Pires</title>
+      <description>
+        &lt;h4&gt;De Júlio Adler. Estreia a 10 de novembro de 2016.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Saca - O Filme de Tiago Pires&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/T5zG4JfqGdI03fmpPdSS"&gt;
+        &lt;img src="http://videos.sapo.pt/T5zG4JfqGdI03fmpPdSS/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Júlio Adler. Estreia a 10 de novembro de 2016.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/T5zG4JfqGdI03fmpPdSS</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/T5zG4JfqGdI03fmpPdSS/mov/1</sapo:videoFile>
+      <sapo:views>492</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:49</sapo:time>
+      <sapo:lastModified>Wed, 09 Nov 2016 07:45:44 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/T5zG4JfqGdI03fmpPdSS/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Wed, 09 Nov 2016 08:40:53 +0100</pubDate>
+      <link>http://videos.sapo.pt/T5zG4JfqGdI03fmpPdSS</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/9CW3ntAcrkW5oz4irleP</guid>
+      <title>Gimme Danger</title>
+      <description>
+        &lt;h4&gt;De Jim Jarmusch. Estreia a 17 de novembro de 2016.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Gimme Danger&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/9CW3ntAcrkW5oz4irleP"&gt;
+        &lt;img src="http://videos.sapo.pt/9CW3ntAcrkW5oz4irleP/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Jim Jarmusch. Estreia a 17 de novembro de 2016.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/9CW3ntAcrkW5oz4irleP</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/9CW3ntAcrkW5oz4irleP/mov/1</sapo:videoFile>
+      <sapo:views>324</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:14</sapo:time>
+      <sapo:lastModified>Tue, 08 Nov 2016 20:34:28 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/9CW3ntAcrkW5oz4irleP/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Tue, 08 Nov 2016 21:24:33 +0100</pubDate>
+      <link>http://videos.sapo.pt/9CW3ntAcrkW5oz4irleP</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/Zdy7AgGjwm12mfOl6SGT</guid>
+      <title>Estive em Lisboa e Lembrei de Você</title>
+      <description>
+        &lt;h4&gt;De José Barahona com Paulo Azevedo, Renata Ferraz e Amanda Fontoura. Estreia a 1 de dezembro de 2016.  &lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Estive em Lisboa e Lembrei de Você&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/Zdy7AgGjwm12mfOl6SGT"&gt;
+        &lt;img src="http://videos.sapo.pt/Zdy7AgGjwm12mfOl6SGT/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De José Barahona com Paulo Azevedo, Renata Ferraz e Amanda Fontoura. Estreia a 1 de dezembro de 2016.  </sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/Zdy7AgGjwm12mfOl6SGT</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/Zdy7AgGjwm12mfOl6SGT/mov/1</sapo:videoFile>
+      <sapo:views>314</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:16</sapo:time>
+      <sapo:lastModified>Tue, 08 Nov 2016 20:25:34 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/Zdy7AgGjwm12mfOl6SGT/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Tue, 08 Nov 2016 21:20:26 +0100</pubDate>
+      <link>http://videos.sapo.pt/Zdy7AgGjwm12mfOl6SGT</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/zVUiMmftEPOPjpwdpSvy</guid>
+      <title>São Jorge</title>
+      <description>
+        &lt;h4&gt;Filme de Marco Martins com Nuno Lopes, Mariana Nunes, David Semedo. Estreia em março de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;São Jorge&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/zVUiMmftEPOPjpwdpSvy"&gt;
+        &lt;img src="http://videos.sapo.pt/zVUiMmftEPOPjpwdpSvy/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>Filme de Marco Martins com Nuno Lopes, Mariana Nunes, David Semedo. Estreia em março de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/zVUiMmftEPOPjpwdpSvy</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/zVUiMmftEPOPjpwdpSvy/mov/1</sapo:videoFile>
+      <sapo:views>261</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:09</sapo:time>
+      <sapo:lastModified>Mon, 07 Nov 2016 20:44:45 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/zVUiMmftEPOPjpwdpSvy/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Mon, 07 Nov 2016 21:07:12 +0100</pubDate>
+      <link>http://videos.sapo.pt/zVUiMmftEPOPjpwdpSvy</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/fHy9lch9j5JjWfWMIz9J</guid>
+      <title>Ozzy </title>
+      <description>
+        &lt;h4&gt;De Alberto Rodríguez. Estreia a 12 de janeiro de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Ozzy &lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/fHy9lch9j5JjWfWMIz9J"&gt;
+        &lt;img src="http://videos.sapo.pt/fHy9lch9j5JjWfWMIz9J/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Alberto Rodríguez. Estreia a 12 de janeiro de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/fHy9lch9j5JjWfWMIz9J</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/fHy9lch9j5JjWfWMIz9J/mov/1</sapo:videoFile>
+      <sapo:views>459</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:20</sapo:time>
+      <sapo:lastModified>Sat, 05 Nov 2016 12:05:10 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/fHy9lch9j5JjWfWMIz9J/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Sat, 05 Nov 2016 13:01:40 +0100</pubDate>
+      <link>http://videos.sapo.pt/fHy9lch9j5JjWfWMIz9J</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/SAe6ILkZAOoVeVenCsEo</guid>
+      <title>xXx: O Regresso de Xander Cage</title>
+      <description>
+        &lt;h4&gt;Filme de D.J. Caruso com Vin Diesel, Nina Dobrev, Ruby Rose. Estreia a 19 de janeiro de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;xXx: O Regresso de Xander Cage&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/SAe6ILkZAOoVeVenCsEo"&gt;
+        &lt;img src="http://videos.sapo.pt/SAe6ILkZAOoVeVenCsEo/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>Filme de D.J. Caruso com Vin Diesel, Nina Dobrev, Ruby Rose. Estreia a 19 de janeiro de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/SAe6ILkZAOoVeVenCsEo</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/SAe6ILkZAOoVeVenCsEo/mov/1</sapo:videoFile>
+      <sapo:views>780</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:24</sapo:time>
+      <sapo:lastModified>Fri, 04 Nov 2016 12:29:49 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/SAe6ILkZAOoVeVenCsEo/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Fri, 04 Nov 2016 13:15:30 +0100</pubDate>
+      <link>http://videos.sapo.pt/SAe6ILkZAOoVeVenCsEo</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/ANPBdZKD22qycKbaVr3o</guid>
+      <title>Mulher Maravilha </title>
+      <description>
+        &lt;h4&gt;De Patty Jenkins com Gal Gadot, Chris Pine e Robin Wright. Estreia em 2017. &lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Mulher Maravilha &lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/ANPBdZKD22qycKbaVr3o"&gt;
+        &lt;img src="http://videos.sapo.pt/ANPBdZKD22qycKbaVr3o/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Patty Jenkins com Gal Gadot, Chris Pine e Robin Wright. Estreia em 2017. </sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/ANPBdZKD22qycKbaVr3o</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/ANPBdZKD22qycKbaVr3o/mov/1</sapo:videoFile>
+      <sapo:views>4176</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:02:18</sapo:time>
+      <sapo:lastModified>Thu, 03 Nov 2016 22:29:49 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/ANPBdZKD22qycKbaVr3o/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Thu, 03 Nov 2016 23:23:52 +0100</pubDate>
+      <link>http://videos.sapo.pt/ANPBdZKD22qycKbaVr3o</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/haECksIJQZNezz0WTcnr</guid>
+      <title>T2: Trainspotting (1º trailer)</title>
+      <description>
+        &lt;h4&gt;De Danny Boyle com Ewan McGregor, Robert Carlyle e Jonny Lee Miller. Estreia a 2 de fevereiro de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;T2: Trainspotting (1º trailer)&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/haECksIJQZNezz0WTcnr"&gt;
+        &lt;img src="http://videos.sapo.pt/haECksIJQZNezz0WTcnr/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Danny Boyle com Ewan McGregor, Robert Carlyle e Jonny Lee Miller. Estreia a 2 de fevereiro de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/haECksIJQZNezz0WTcnr</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/haECksIJQZNezz0WTcnr/mov/1</sapo:videoFile>
+      <sapo:views>2573</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:55</sapo:time>
+      <sapo:lastModified>Thu, 03 Nov 2016 09:34:33 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/haECksIJQZNezz0WTcnr/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Thu, 03 Nov 2016 10:24:21 +0100</pubDate>
+      <link>http://videos.sapo.pt/haECksIJQZNezz0WTcnr</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/c4jw2LE2DLqhqkWQdzmu</guid>
+      <title>A Toca do Lobo (2º trailer)</title>
+      <description>
+        &lt;h4&gt;Documentário de Catarina Mourão.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;A Toca do Lobo (2º trailer)&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/c4jw2LE2DLqhqkWQdzmu"&gt;
+        &lt;img src="http://videos.sapo.pt/c4jw2LE2DLqhqkWQdzmu/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>Documentário de Catarina Mourão.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/c4jw2LE2DLqhqkWQdzmu</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/c4jw2LE2DLqhqkWQdzmu/mov/1</sapo:videoFile>
+      <sapo:views>684</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:19</sapo:time>
+      <sapo:lastModified>Thu, 03 Nov 2016 09:23:44 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/c4jw2LE2DLqhqkWQdzmu/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Thu, 03 Nov 2016 10:16:26 +0100</pubDate>
+      <link>http://videos.sapo.pt/c4jw2LE2DLqhqkWQdzmu</link>
+    </item>
+    <item>
+      <guid>http://videos.sapo.pt/NOaRnRghsHzuAZUZDuID</guid>
+      <title>Unidos por Boston</title>
+      <description>
+        &lt;h4&gt;De Peter Berg com Mark Wahlberg, John Goodman e Kevin Bacon. Estreia a 12 de janeiro de 2017.&lt;/h4&gt;
+        &lt;h3&gt;Autor: sapocinema&lt;/h3&gt;
+        &lt;h4&gt;Unidos por Boston&lt;/h4&gt;
+        &lt;a href="http://videos.sapo.pt/NOaRnRghsHzuAZUZDuID"&gt;
+        &lt;img src="http://videos.sapo.pt/NOaRnRghsHzuAZUZDuID/pic/320x240" width="320" height="240" border="0"/&gt;
+        &lt;/a&gt;
+        &lt;p&gt;
+        Visite os vídeos de &lt;a href="http://videos.sapo.pt/sapocinema"&gt;sapocinema&lt;/a&gt;
+        &lt;/p&gt;
+    </description>
+      <sapo:synopse>De Peter Berg com Mark Wahlberg, John Goodman e Kevin Bacon. Estreia a 12 de janeiro de 2017.</sapo:synopse>
+      <sapo:author>sapocinema</sapo:author>
+      <sapo:default_playlist />
+      <sapo:videoURL>http://videos.sapo.pt/NOaRnRghsHzuAZUZDuID</sapo:videoURL>
+      <sapo:videoType>VIDEO</sapo:videoType>
+      <sapo:videoFile>http://rd3.videos.sapo.pt/NOaRnRghsHzuAZUZDuID/mov/1</sapo:videoFile>
+      <sapo:views>403</sapo:views>
+      <sapo:rate>0</sapo:rate>
+      <sapo:comment_count>0</sapo:comment_count>
+      <sapo:m18>false</sapo:m18>
+      <sapo:HD>true</sapo:HD>
+      <sapo:time>00:01:51</sapo:time>
+      <sapo:lastModified>Thu, 03 Nov 2016 00:09:01 +0100</sapo:lastModified>
+      <media:content url="http://videos.sapo.pt/NOaRnRghsHzuAZUZDuID/pic/320x240" type="image/jpeg" width="320" height="240" />
+      <pubDate>Thu, 03 Nov 2016 01:00:27 +0100</pubDate>
+      <link>http://videos.sapo.pt/NOaRnRghsHzuAZUZDuID</link>
+    </item>
+  </channel>
+</rss>

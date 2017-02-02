@@ -1,0 +1,197 @@
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\csc.exe
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\System.Collections.Immutable.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\vbc.exe
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\VBCSCompiler.exe
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\VBCSCompiler.exe.config
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\EDC-ParteC-Properties.dll.config
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\EDC-ParteC-Properties.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\EDC-ParteC-Properties.pdb
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Antlr3.Runtime.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\EntityFramework.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\EntityFramework.SqlServer.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Google.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Web.Infrastructure.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Newtonsoft.Json.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Owin.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\System.Web.Optimization.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\System.Web.Providers.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\WebGrease.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\System.Web.Optimization.xml
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Antlr3.Runtime.pdb
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Newtonsoft.Json.xml
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\EntityFramework.xml
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\EntityFramework.SqlServer.xml
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\System.Web.Providers.xml
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.xml
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.xml
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Google.xml
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\obj\Debug\EDC-ParteC-Properties.csprojResolveAssemblyReference.cache
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\obj\Debug\EDC-ParteC-Properties.dll
+c:\users\tiago\documents\visual studio 2015\Projects\EDC-ParteC-Properties\EDC-ParteC-Properties\obj\Debug\EDC-ParteC-Properties.pdb
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\csc.exe
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\System.Collections.Immutable.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\vbc.exe
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\VBCSCompiler.exe
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\VBCSCompiler.exe.config
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\EDC-ParteC-Properties.dll.config
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\EDC-ParteC-Properties.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\EDC-ParteC-Properties.pdb
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Antlr3.Runtime.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\AspNet.ScriptManager.jQuery.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\EntityFramework.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\EntityFramework.SqlServer.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Google.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Web.Infrastructure.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Newtonsoft.Json.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Owin.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\System.Web.Optimization.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\System.Web.Providers.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\WebGrease.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\System.Web.Optimization.xml
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Antlr3.Runtime.pdb
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Newtonsoft.Json.xml
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\EntityFramework.xml
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\EntityFramework.SqlServer.xml
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\System.Web.Providers.xml
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.xml
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.xml
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Google.xml
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\obj\Debug\EDC-ParteC-Properties.csprojResolveAssemblyReference.cache
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\obj\Debug\EDC-ParteC-Properties.dll
+D:\Dropbox\EDC - TP2\EDC-ParteC-Properties\EDC-ParteC-Properties\obj\Debug\EDC-ParteC-Properties.pdb
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\csc.exe
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\vbc.exe
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\VBCSCompiler.exe
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\EDC-ParteC-Properties.dll.config
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\EDC-ParteC-Properties.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\EDC-ParteC-Properties.pdb
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Antlr3.Runtime.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\EntityFramework.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\EntityFramework.SqlServer.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Newtonsoft.Json.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Owin.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\System.Web.Optimization.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\System.Web.Providers.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\WebGrease.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\System.Web.Optimization.xml
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Antlr3.Runtime.pdb
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Newtonsoft.Json.xml
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\EntityFramework.xml
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\EntityFramework.SqlServer.xml
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\System.Web.Providers.xml
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.xml
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.xml
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\obj\Debug\EDC-ParteC-Properties.dll
+C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\EDC\Práticas\Trabalho2\EDC-ParteC-Properties\EDC-ParteC-Properties\EDC-ParteC-Properties\obj\Debug\EDC-ParteC-Properties.pdb

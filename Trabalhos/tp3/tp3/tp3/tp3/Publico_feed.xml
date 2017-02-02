@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>Publico.pt - Geral</title>
+    <link>//www.publico.pt</link>
+    <description>Descrição</description>
+    <copyright>© 2016 PÚBLICO Comunicação Social SA</copyright>
+    <language>pt-pt</language>
+    <lastBuildDate>Thu, 24 Nov 2016 14:25:11 GMT</lastBuildDate>
+    <category>Geral</category>
+    <ttl>5</ttl>
+    <managingEditor>ultimahora@publico.pt (Última Hora)</managingEditor>
+    <webMaster>webmaster@publico.pt (Webmaster)</webMaster>
+    <image>
+      <url>http://static.publico.pt/files/header/img/publico.png</url>
+      <title>Publico.pt - Escolha do Editor</title>
+      <link>//www.publico.pt</link>
+      <width>85</width>
+    </image>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/PublicoRSS" />
+    <feedburner:info uri="publicorss" />
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+    <item>
+      <title>Nova aplicação agrega informações sobre todos os postos de combustível</title>
+      <description>O projecto integra o programa Simplex, promovido pelo Governo.&lt;img src="http://feeds.feedburner.com/~r/PublicoRSS/~4/NBtsku_oz10" height="1" width="1" alt=""/&gt;</description>
+      <link>https://www.publico.pt/tecnologia/noticia/nova-aplicacao-agrega-informacoes-sobre-todos-os-postos-de-combustivel-1752424</link>
+      <category>Tecnologia</category>
+      <pubDate>Thu, 24 Nov 2016 14:23:00 GMT</pubDate>
+      <dc:creator>Lusa</dc:creator>
+      <guid>//www.publico.pt/tecnologia/noticia/nova-aplicacao-agrega-informacoes-sobre-todos-os-postos-de-combustivel-1752424</guid>
+    </item>
+    <item>
+      <title>Jenson Button deixa Fórmula 1</title>
+      <description>Britânico despede-se em Abu Dhabi.&lt;img src="http://feeds.feedburner.com/~r/PublicoRSS/~4/iFJVBvdWfa8" height="1" width="1" alt=""/&gt;</description>
+      <link>https://www.publico.pt/desporto/noticia/jenson-button-deixa-formula-1-1752420</link>
+      <category>Desporto</category>
+      <pubDate>Thu, 24 Nov 2016 13:55:49 GMT</pubDate>
+      <dc:creator>Lusa</dc:creator>
+      <guid>//www.publico.pt/desporto/noticia/jenson-button-deixa-formula-1-1752420</guid>
+    </item>
+    <item>
+      <title>Common continua precioso</title>
+      <description>Numa América pós-Obama, a música do homem de Chicago continua a ser tão ou mais relevante do que nos anos 90.&lt;img src="http://feeds.feedburner.com/~r/PublicoRSS/~4/jepcFWMcLB8" height="1" width="1" alt=""/&gt;</description>
+      <link>https://www.publico.pt/culturaipsilon/noticia/common-continua-precioso-1752236</link>
+      <category>Cultura-Ípsilon</category>
+      <pubDate>Thu, 24 Nov 2016 13:49:56 GMT</pubDate>
+      <dc:creator>Francisco Noronha</dc:creator>
+      <guid>//www.publico.pt/culturaipsilon/noticia/common-continua-precioso-1752236</guid>
+    </item>
+    <item>
+      <title>O alfaiate de São Bento</title>
+      <description>Os problemas na educação, saúde, justiça ou transportes, não se resolvem com fatos à medida dos amigos ou dos cúmplices. Resolvem-se com visão estratégica e rigor, sem dogmatismos ou preconceitos ideológicos.&lt;img src="http://feeds.feedburner.com/~r/PublicoRSS/~4/-bjMtjfYbVk" height="1" width="1" alt=""/&gt;</description>
+      <link>https://www.publico.pt/politica/noticia/o-alfaiate-de-sao-bento-1752416</link>
+      <category>Política</category>
+      <pubDate>Thu, 24 Nov 2016 13:29:55 GMT</pubDate>
+      <dc:creator>Miguel Pinto Luz</dc:creator>
+      <guid>//www.publico.pt/politica/noticia/o-alfaiate-de-sao-bento-1752416</guid>
+    </item>
+    <item>
+      <title>Ministério Público acusa dois homens de atear fogos no distrito de Aveiro</title>
+      <description>Os dois homens estão em prisão preventiva.&lt;img src="http://feeds.feedburner.com/~r/PublicoRSS/~4/U__FD4hu8PY" height="1" width="1" alt=""/&gt;</description>
+      <link>https://www.publico.pt/sociedade/noticia/ministerio-publico-acusa-dois-homens-de-atear-fogos-no-distrito-de-aveiro-1752417</link>
+      <category>Sociedade</category>
+      <pubDate>Thu, 24 Nov 2016 13:27:18 GMT</pubDate>
+      <dc:creator>Lusa</dc:creator>
+      <guid>//www.publico.pt/sociedade/noticia/ministerio-publico-acusa-dois-homens-de-atear-fogos-no-distrito-de-aveiro-1752417</guid>
+    </item>
+    <item>
+      <title>Portugueses trabalham cada vez mais horas, colocando saúde e família em risco</title>
+      <description>Num debate organizado esta quinta-feira, foram apontadas algumas consequências: hipertensão, doenças cardiovasculares, diabetes e depressão.&lt;img src="http://feeds.feedburner.com/~r/PublicoRSS/~4/EAAuyQIg2Ks" height="1" width="1" alt=""/&gt;</description>
+      <link>https://www.publico.pt/sociedade/noticia/portugueses-trabalham-cada-vez-mais-horas-colocando-saude-e-familia-em-risco-1752415</link>
+      <category>Sociedade</category>
+      <pubDate>Thu, 24 Nov 2016 13:26:38 GMT</pubDate>
+      <dc:creator>Lusa</dc:creator>
+      <guid>//www.publico.pt/sociedade/noticia/portugueses-trabalham-cada-vez-mais-horas-colocando-saude-e-familia-em-risco-1752415</guid>
+    </item>
+    <item>
+      <title>Câmara tem 60 dias para abrir caixas e conferir espólio de Salazar</title>
+      <description>Caixas com centenas de documentos e objectos doadas à Câmara de Santa Comba Dão nunca foram abertas. O espólio vai agora ser avaliado para estipular o valor a entregar ao herdeiro do chefe do Estado Novo.&lt;img src="http://feeds.feedburner.com/~r/PublicoRSS/~4/bdNZcikUbgE" height="1" width="1" alt=""/&gt;</description>
+      <link>https://www.publico.pt/sociedade/noticia/camara-tem-60-dias-para-abrir-caixas-e-conferir-espolio-de-salazar-1752412</link>
+      <category>Sociedade</category>
+      <pubDate>Thu, 24 Nov 2016 13:26:18 GMT</pubDate>
+      <dc:creator>Sandra Rodrigues</dc:creator>
+      <guid>//www.publico.pt/sociedade/noticia/camara-tem-60-dias-para-abrir-caixas-e-conferir-espolio-de-salazar-1752412</guid>
+    </item>
+    <item>
+      <title>Marcelo: há “um consenso nacional para que o futuro corra bem para a Caixa”</title>
+      <description>&lt;img src="http://feeds.feedburner.com/~r/PublicoRSS/~4/Ur3J0smABeE" height="1" width="1" alt=""/&gt;</description>
+      <link>https://www.publico.pt/politica/noticia/marcelo-ha-um-consenso-nacional-para-que-o-futuro-corra-bem-para-a-caixa-1752414</link>
+      <category>Política</category>
+      <pubDate>Thu, 24 Nov 2016 13:22:03 GMT</pubDate>
+      <dc:creator>Lusa</dc:creator>
+      <guid>//www.publico.pt/politica/noticia/marcelo-ha-um-consenso-nacional-para-que-o-futuro-corra-bem-para-a-caixa-1752414</guid>
+    </item>
+    <item>
+      <title>Barcelona aplica à Airbnb a multa mais alta que lhe é possível: 600 mil euros</title>
+      <description>Esta é a segunda multa que o município espanhol aplica à plataforma por não cumprir as regras locais para alojamento temporário.&lt;img src="http://feeds.feedburner.com/~r/PublicoRSS/~4/T0zbdZi5vPc" height="1" width="1" alt=""/&gt;</description>
+      <link>https://www.publico.pt/economia/noticia/barcelona-volta-a-multar-airbnb-agora-em-600000-euros-1752409</link>
+      <category>Economia</category>
+      <pubDate>Thu, 24 Nov 2016 13:21:36 GMT</pubDate>
+      <dc:creator>Liliana Borges</dc:creator>
+      <guid>//www.publico.pt/economia/noticia/barcelona-volta-a-multar-airbnb-agora-em-600000-euros-1752409</guid>
+    </item>
+    <item>
+      <title>Hiper de Isabel dos Santos fornece cabaz de Natal a trabalhadores da Sonangol</title>
+      <description>Candando foi lançado pela filha do presidente angolano, e que lidera agora a petrolífera estatal.&lt;img src="http://feeds.feedburner.com/~r/PublicoRSS/~4/cjytC5SjtMs" height="1" width="1" alt=""/&gt;</description>
+      <link>https://www.publico.pt/economia/noticia/hiper-de-isabel-dos-santos-fornece-cabaz-de-natal-a-trabalhadores-da-sonangol-1752413</link>
+      <category>Economia</category>
+      <pubDate>Thu, 24 Nov 2016 13:18:55 GMT</pubDate>
+      <dc:creator>Lusa</dc:creator>
+      <guid>//www.publico.pt/economia/noticia/hiper-de-isabel-dos-santos-fornece-cabaz-de-natal-a-trabalhadores-da-sonangol-1752413</guid>
+    </item>
+  </channel>
+</rss>

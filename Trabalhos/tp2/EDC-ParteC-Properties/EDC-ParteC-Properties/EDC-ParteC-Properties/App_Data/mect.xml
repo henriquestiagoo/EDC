@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<curso>
+	<guid>23</guid>
+	<nome><![CDATA[Engenharia de Computadores e Telemática]]></nome>
+	<imagem><![CDATA[http://acesso.ua.pt/upload/imagens/c_23.jpg]]></imagem>
+	<codigo>0300/9361</codigo>
+	<grau><![CDATA[Mestrado Integrado]]></grau>
+	<ciclo>1</ciclo>
+	<duracao>5 anos letivos / 10 semestres (300 ECTS)</duracao>
+	<ano_inicio>2006/2007</ano_inicio>
+	<regime><![CDATA[diurno / laboral]]></regime>
+	<horario><![CDATA[]]></horario>
+	<propinas><![CDATA[1063,47€/ano (estudantes nacionais)]]></propinas>
+	<subsistema><![CDATA[Universitário]]></subsistema>
+	<areas>
+		 <area><![CDATA[Informática]]></area>
+	</areas>
+	<director>
+		<nome>Prof. Doutor Joaquim João Estrela Ribeiro Silvestre Madeira</nome>
+		<email>jmadeira@ua.pt</email>
+	</director>
+	<departamentos>
+		<departamento>
+			<nome>Departamento de Eletrónica, Telecomunicações e Informática</nome>
+			<url>http://www.ua.pt/deti</url>
+		</departamento>
+	</departamentos>
+	<medias>
+		<fase1>138,6</fase1>
+		<fase2>0</fase2>
+		<fase3>0</fase3>
+	</medias>
+	<vagas>
+		<fase1>76</fase1>
+		<fase2>2</fase2>
+		<fase3>0</fase3>
+	</vagas>
+	<provas><![CDATA[Um dos seguintes conjuntos:<br />
+19 Matemática A <br />ou<br />
+02 Biologia e Geologia <br />
+19 Matemática A <br />ou<br />
+07 Física e Química <br />
+19 Matemática A <br />
+<br /><br /><strong>O cálculo da nota de acesso considera:</strong><ul><li>60% da nota do ensino secundário</li><li>40% da nota da prova de ingresso</li></ul>]]></provas>
+	<ano_info><![CDATA[2016/2017]]></ano_info>
+	<saidas_profissionais><![CDATA[<p>Os Mestres em Engenharia de Computadores e Telem&aacute;tica est&atilde;o preparados para intervir nas novas &aacute;reas que integram as tecnologias de informa&ccedil;&atilde;o, a ci&ecirc;ncia e engenharia de computadores e as telecomunica&ccedil;&otilde;es.</p>
+<p>Assim, poder&atilde;o desempenhar fun&ccedil;&otilde;es em organiza&ccedil;&otilde;es p&uacute;blicas e privadas que realizem projetos de investiga&ccedil;&atilde;o, desenvolvimento e integra&ccedil;&atilde;o/utiliza&ccedil;&atilde;o de novas tecnologias da informa&ccedil;&atilde;o e comunica&ccedil;&atilde;o para a cria&ccedil;&atilde;o de novos servi&ccedil;os ligados &agrave; economia digital, de sistemas de informa&ccedil;&atilde;o ou para o projeto de equipamento.</p>
+<p>Ser&atilde;o assim respons&aacute;veis tecnicamente por projetar, adaptar ou gerir solu&ccedil;&otilde;es, sistemas e redes inform&aacute;ticas complexas. As sa&iacute;das profissionais s&atilde;o m&uacute;ltiplas desde o setor dos servi&ccedil;os - onde &eacute; de real&ccedil;ar a banca, os seguros, o turismo, a cultura, o multim&eacute;dia - ao setor industrial, passando pela Administra&ccedil;&atilde;o P&uacute;blica Central, Local e Regional.</p>]]></saidas_profissionais>
+	<objectivos><![CDATA[<p>&Eacute; indiscut&iacute;vel, hoje, que a independ&ecirc;ncia e o desenvolvimento de um pa&iacute;s passa grandemente pela capacidade de se autonomizar do ponto de vista tecnol&oacute;gico. Mat&eacute;rias como os Computadores, Telem&aacute;tica e Inform&aacute;tica s&atilde;o inevitavelmente de import&acirc;ncia primordial, quer pela sua relev&acirc;ncia como elementos coadjuvantes de outras t&eacute;cnicas, quer pela sua interven&ccedil;&atilde;o direta em sistemas que condicionam cada vez mais a vida das pessoas. Computadores, redes de telecomunica&ccedil;&otilde;es, sistemas embutidos, telem&oacute;veis s&atilde;o alguns dos exemplos importantes.</p>
+<p>O curso de Mestrado Integrado em Computadores e Telem&aacute;tica da Universidade de Aveiro (MIECT-UA) tem por finalidade fornecer uma forma&ccedil;&atilde;o s&oacute;lida em ci&ecirc;ncias de base e de espetro largo nas &aacute;reas das tecnologias da computa&ccedil;&atilde;o, informa&ccedil;&atilde;o e das telecomunica&ccedil;&otilde;es, as quais t&ecirc;m vindo a assumir um papel dominante no setor industrial e o principal motor de desenvolvimento nas economias avan&ccedil;adas.</p>
+<p>A tradi&ccedil;&atilde;o da Universidade de Aveiro neste dom&iacute;nio &eacute; forte. Aqui nasceu, por exemplo, o Servi&ccedil;o de Apontadores Portugueses (SAPO). A escolha de Aveiro como primeira Cidade Digital reflete tamb&eacute;m o capital de conhecimentos adquiridos nesta &aacute;rea, n&atilde;o s&oacute; pela Universidade como tamb&eacute;m por outras institui&ccedil;&otilde;es da cidade. Nos pr&oacute;ximos anos, os projetos que, no &acirc;mbito do programa Cidades Digitais, aqui se forem desenvolvendo dar&atilde;o, por certo, um excelente enquadramento &agrave; forma&ccedil;&atilde;o fornecida pela Mestrado Integrado em Computadores e Telem&aacute;tica.</p>
+<p>A responsabilidade por esta licenciatura &eacute; assumida pelo Departamento de Eletr&oacute;nica, Telecomunica&ccedil;&otilde;es e Inform&aacute;tica da Universidade de Aveiro. Fundado em 1974, este departamento &eacute; detentor de um prestigiante historial nas &aacute;reas dos computadores e das telecomunica&ccedil;&otilde;es. O curr&iacute;culo do curso recorre, pois, &agrave;s compet&ecirc;ncias adquiridas para construir um perfil que fornece uma s&oacute;lida forma&ccedil;&atilde;o geral nas &aacute;reas da Engenharia Inform&aacute;tica.</p>]]></objectivos>
+	<observacoes><![CDATA[É conferido o grau de licenciado em Ciências da Engenharia de Computadores e Telemática aos alunos que tenham realizado os 180 ECTS correspondentes aos primeiros seis semestres curriculares de trabalho.]]></observacoes>
+	<testemunho><![CDATA[]]></testemunho>
+	<pre_requisitos><![CDATA[]]></pre_requisitos>
+	<local><![CDATA[Campus Universitário de Santiago, Aveiro]]></local>
+	<urlmaisinfo><![CDATA[http://]]></urlmaisinfo>
+	<urlcandidaturas><![CDATA[http://]]></urlcandidaturas>
+	<urlmobilidade><![CDATA[http://]]></urlmobilidade>
+	<m23>
+		<provas><![CDATA[matemática
+<a href="http://www.ua.pt/ensino/PageText.aspx?id=15132" target=_blank>programa</a>]]></provas>
+		<vagas><![CDATA[]]></vagas>
+		<urlinfo><![CDATA[http://www.ua.pt/m23/]]></urlinfo>
+		<observacoes><![CDATA[]]></observacoes>
+	</m23>
+	<posgraduacoes>
+		<periodo><![CDATA[]]></periodo>
+		<corpo_docente><![CDATA[]]></corpo_docente>
+		<destinatarios><![CDATA[]]></destinatarios>
+		<vagas><![CDATA[]]></vagas>
+		<vagas_obs><![CDATA[]]></vagas_obs>
+		<urlmobilidade><![CDATA[]]></urlmobilidade>
+		<ano_info><![CDATA[]]></ano_info>
+		<edital><![CDATA[http://acesso.ua.pt/upload/editais/e_1830.pdf]]></edital>
+		<ata><![CDATA[]]></ata>
+	</posgraduacoes>
+</curso>
+

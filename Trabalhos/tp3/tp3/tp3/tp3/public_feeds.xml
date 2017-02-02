@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>Publico.pt - Geral</title>
+    <link>//www.publico.pt</link>
+    <description>Descrição</description>
+    <copyright>© 2016 PÚBLICO Comunicação Social SA</copyright>
+    <language>pt-pt</language>
+    <lastBuildDate>Wed, 16 Nov 2016 16:05:32 GMT</lastBuildDate>
+    <category>Geral</category>
+    <ttl>5</ttl>
+    <managingEditor>ultimahora@publico.pt (Última Hora)</managingEditor>
+    <webMaster>webmaster@publico.pt (Webmaster)</webMaster>
+    <image>
+      <url>http://static.publico.pt/files/header/img/publico.png</url>
+      <title>Publico.pt - Escolha do Editor</title>
+      <link>//www.publico.pt</link>
+      <width>85</width>
+    </image>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/PublicoRSS" />
+    <feedburner:info uri="publicorss" />
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+    <item>
+      <title>Bob Dylan não vai receber o Nobel: "Tem outros compromissos"</title>
+      <description>A atribuição do Nobel da Literatura a Bob Dylan foi recebida com alguma controvérsia.&lt;img src="http://feeds.feedburner.com/~r/PublicoRSS/~4/hCRDFCZyVkI" height="1" width="1" alt=""/&gt;</description>
+      <link>https://www.publico.pt/culturaipsilon/noticia/bob-dylan-tem-outros-compromissos-e-nao-vai-receber-o-nobel-1751385</link>
+      <category>Cultura-Ípsilon</category>
+      <pubDate>Wed, 16 Nov 2016 16:00:05 GMT</pubDate>
+      <dc:creator>PÚBLICO</dc:creator>
+      <guid>//www.publico.pt/culturaipsilon/noticia/bob-dylan-tem-outros-compromissos-e-nao-vai-receber-o-nobel-1751385</guid>
+    </item>
+    <item>
+      <title>Marine Le Pen inaugura sede de campanha ao pé do Eliseu</title>
+      <description>Provocação antecipa eleições presidenciais francesas de 2017.&lt;img src="http://feeds.feedburner.com/~r/PublicoRSS/~4/GbjHy7gNuHU" height="1" width="1" alt=""/&gt;</description>
+      <link>https://www.publico.pt/mundo/noticia/marine-le-pen-inaugura-sede-de-campanha-ao-pe-do-eliseu-1751382</link>
+      <category>Mundo</category>
+      <pubDate>Wed, 16 Nov 2016 15:51:46 GMT</pubDate>
+      <dc:creator>Clara Barata</dc:creator>
+      <guid>//www.publico.pt/mundo/noticia/marine-le-pen-inaugura-sede-de-campanha-ao-pe-do-eliseu-1751382</guid>
+    </item>
+    <item>
+      <title>Nikias Skapinakis, uma pintura que vence o quotidiano</title>
+      <description>Entre figuração e abstracção, sem escolher uma ou outra, as pinturas de Nikias Skapinakis privilegiam a densidade cromática, a expressividade das cores, a força das camada lisas.&lt;img src="http://feeds.feedburner.com/~r/PublicoRSS/~4/n9HappAMPaM" height="1" width="1" alt=""/&gt;</description>
+      <link>https://www.publico.pt/culturaipsilon/noticia/uma-pintura-que-vence-o-quotidiano-1751095</link>
+      <category>Cultura-Ípsilon</category>
+      <pubDate>Wed, 16 Nov 2016 15:43:37 GMT</pubDate>
+      <dc:creator>José Marmeleira</dc:creator>
+      <guid>//www.publico.pt/culturaipsilon/noticia/uma-pintura-que-vence-o-quotidiano-1751095</guid>
+    </item>
+    <item>
+      <title>Merkel deverá candidatar-se a um quarto mandato</title>
+      <description>Deputado conservador alemão faz declaração na estação de televisão norte-americana CNN quando se discute se a chegada de Trump ao poder deixará a chanceler alemã na posição da “líder do mundo livre”.&lt;img src="http://feeds.feedburner.com/~r/PublicoRSS/~4/Uhypr61bGg8" height="1" width="1" alt=""/&gt;</description>
+      <link>https://www.publico.pt/mundo/noticia/merkel-devera-candidatarse-a-quarto-mandato-1751380</link>
+      <category>Mundo</category>
+      <pubDate>Wed, 16 Nov 2016 15:42:36 GMT</pubDate>
+      <dc:creator>Maria João Guimarães</dc:creator>
+      <guid>//www.publico.pt/mundo/noticia/merkel-devera-candidatarse-a-quarto-mandato-1751380</guid>
+    </item>
+    <item>
+      <title>O pássaro que é parecido com Trump</title>
+      <description>Um faisão chinês está a fazer furor por ter um "penteado" semelhante do Presidente eleito dos EUA.&lt;img src="http://feeds.feedburner.com/~r/PublicoRSS/~4/AqEdwFJvbRk" height="1" width="1" alt=""/&gt;</description>
+      <link>https://www.publico.pt/mundo/noticia/o-passaro-que-e-parecido-com-trump-1751363</link>
+      <category>Mundo</category>
+      <pubDate>Wed, 16 Nov 2016 15:28:57 GMT</pubDate>
+      <dc:creator>PÚBLICO</dc:creator>
+      <guid>//www.publico.pt/mundo/noticia/o-passaro-que-e-parecido-com-trump-1751363</guid>
+    </item>
+    <item>
+      <title>Como António Costa vê 2017? Com confiança e expectativa de juros mais baixos</title>
+      <description>As afirmações do primeiro-ministro vêm na sequência da mensagem de confiança da União Europeia relativamente à evolução orçamental portuguesa.&lt;img src="http://feeds.feedburner.com/~r/PublicoRSS/~4/r7_Fi_zgMbY" height="1" width="1" alt=""/&gt;</description>
+      <link>https://www.publico.pt/politica/noticia/antonio-costa-fala-de-confianca-e-de-ajustamento-dos-juros-da-divida-para-2017-1751376</link>
+      <category>Política</category>
+      <pubDate>Wed, 16 Nov 2016 15:18:11 GMT</pubDate>
+      <dc:creator>Lusa</dc:creator>
+      <guid>//www.publico.pt/politica/noticia/antonio-costa-fala-de-confianca-e-de-ajustamento-dos-juros-da-divida-para-2017-1751376</guid>
+    </item>
+    <item>
+      <title>BBC vai emitir em 11 línguas e uma é a da Coreia do Norte</title>
+      <description>As redes sociais e os conteúdos digitais vão ser outra das apostas da cadeia britânica.&lt;img src="http://feeds.feedburner.com/~r/PublicoRSS/~4/zxe4eFvi4XM" height="1" width="1" alt=""/&gt;</description>
+      <link>https://www.publico.pt/tecnologia/noticia/bbc-preparase-para-emitir-em-11-linguas-novas-1751348</link>
+      <category>Tecnologia</category>
+      <pubDate>Wed, 16 Nov 2016 15:17:43 GMT</pubDate>
+      <dc:creator>PÚBLICO</dc:creator>
+      <guid>//www.publico.pt/tecnologia/noticia/bbc-preparase-para-emitir-em-11-linguas-novas-1751348</guid>
+    </item>
+    <item>
+      <title>Alunos com necessidades especiais também têm direito ao Erasmus</title>
+      <description>Programa prevê ajudas financeiras para comparticipar despesas com acompanhantes ou deslocações de táxis, se necessárias.&lt;img src="http://feeds.feedburner.com/~r/PublicoRSS/~4/JnDI1RlJf04" height="1" width="1" alt=""/&gt;</description>
+      <link>https://www.publico.pt/sociedade/noticia/alunos-com-necessidades-especiais-tambem-tem-direito-ao-erasmus-1751375</link>
+      <category>Sociedade</category>
+      <pubDate>Wed, 16 Nov 2016 15:01:48 GMT</pubDate>
+      <dc:creator>Lusa</dc:creator>
+      <guid>//www.publico.pt/sociedade/noticia/alunos-com-necessidades-especiais-tambem-tem-direito-ao-erasmus-1751375</guid>
+    </item>
+    <item>
+      <title>Jesus e o túnel: "Como diz o filósofo chinês, uma imagem vale por mil palavras"</title>
+      <description>"Isto não tem história nenhuma", defende o técnico do Sporting.&lt;img src="http://feeds.feedburner.com/~r/PublicoRSS/~4/-Wl04dwSOwk" height="1" width="1" alt=""/&gt;</description>
+      <link>https://www.publico.pt/desporto/noticia/jesus-diz-que-imagens-do-tunel-valem-mais-que-mil-palavras-1751374</link>
+      <category>Desporto</category>
+      <pubDate>Wed, 16 Nov 2016 14:58:53 GMT</pubDate>
+      <dc:creator>Lusa</dc:creator>
+      <guid>//www.publico.pt/desporto/noticia/jesus-diz-que-imagens-do-tunel-valem-mais-que-mil-palavras-1751374</guid>
+    </item>
+    <item>
+      <title>Socialistas portugueses no Parlamento Europeu felicitam fim da suspensão de fundos</title>
+      <description>“Comissão conclui agora que o Governo do PS adoptou medidas efectivas suficientes para cumprir as regras do euro em 2016”, escrevem os socialistas.&lt;img src="http://feeds.feedburner.com/~r/PublicoRSS/~4/9XyTfhfK2Jo" height="1" width="1" alt=""/&gt;</description>
+      <link>https://www.publico.pt/politica/noticia/socialistas-portugueses-no-parlamento-europeu-felicitam-fim-da-suspensao-de-fundos-1751366</link>
+      <category>Política</category>
+      <pubDate>Wed, 16 Nov 2016 14:52:13 GMT</pubDate>
+      <dc:creator>Maria João Lopes</dc:creator>
+      <guid>//www.publico.pt/politica/noticia/socialistas-portugueses-no-parlamento-europeu-felicitam-fim-da-suspensao-de-fundos-1751366</guid>
+    </item>
+  </channel>
+</rss>

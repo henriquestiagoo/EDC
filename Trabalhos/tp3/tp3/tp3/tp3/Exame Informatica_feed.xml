@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:impresa="http://rss.impresa.pt/impresa.xsd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>Exame Informática</title>
+    <description><![CDATA[Exame Informática]]></description>
+    <link>http://exameinformatica.sapo.pt/</link>
+    <language>pt-PT</language>
+    <pubDate>Thu, 1 Dec 2016 15:44:57 +0000</pubDate>
+    <image>
+      <url>http://images.cdn.impresa.pt/exameinformatica/2015-01-09-exameinformatica_google_news.png/original</url>
+      <title>Exame Informática</title>
+      <link>http://exameinformatica.sapo.pt</link>
+    </image>
+    <copyright>Exame Informática 2016</copyright>
+    <feedburner:info uri="exameinformatica-geral" />
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/feedburner/jKuyu" />
+    <feedburner:info uri="feedburner/jkuyu" />
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+    <feedburner:browserFriendly>
+    </feedburner:browserFriendly>
+    <item>
+      <media:content url="http://images-cdn.impresa.pt/exameinformatica/2016-12-01-20161130_EPORO-Robots.jpg/w300h225" medium="image" type="image/jpeg" />
+      <title>Condução autónoma vai representar 17 biliões de euros no PIB europeu</title>
+      <description>Um estudo revelado pela Nissan indica que o desenvolvimento da condução autónoma vai aumentar o PIB da União Europeia em mais de 5% em 2050.&lt;img src="http://feeds.feedburner.com/~r/ExameInformatica-geral/~4/NOK-3lGBiDA" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 1 Dec 2016 14:31:50 +0000</pubDate>
+      <category>Mercados</category>
+      <link>http://exameinformatica.sapo.pt/noticias/mercados/2016-12-01-Conducao-autonoma-vai-representar-17-bilioes-de-euros-no-PIB-europeu</link>
+      <guid isPermaLink="false">c54950ea-cb49-43b0-bc60-1742ff4c10aa</guid>
+      <impresa:contentUri>2016-12-01-Conducao-autonoma-vai-representar-17-bilioes-de-euros-no-PIB-europeu</impresa:contentUri>
+    </item>
+    <item>
+      <media:content url="http://images-cdn.impresa.pt/exameinformatica/2016-12-01-20161130_175658.jpg/w300h225" medium="image" type="image/jpeg" />
+      <title>Nissan aumenta portfólio de baterias residenciais xStorage, mas Portugal fica de fora</title>
+      <description>As xStorage são baterias desenvolvidas pela Nissan e pela Eaton com base nas células usadas nos Nissan Leaf. Agora há modelos a partir dos 3500 euros que podem ser reservados na Alemanha, Reino Unido e Noruega.As xStorage são baterias desenvolvidas pela Nissan e pela Eaton com base nas células usadas nos Nissan Leaf. Agora há modelos a partir dos 3500 euros que podem ser reservados na Alemanha, Reino Unido e Noruega.&lt;img src="http://feeds.feedburner.com/~r/ExameInformatica-geral/~4/70ejDY8_SFY" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 1 Dec 2016 13:21:43 +0000</pubDate>
+      <category>Eco</category>
+      <link>http://exameinformatica.sapo.pt/lifestyle/eco/2016-12-01-Nissan-aumenta-portfolio-de-baterias-residenciais-xStorage-mas-Portugal-fica-de-fora</link>
+      <guid isPermaLink="false">98c3e9d1-a236-4a9d-bd10-83089b029ebf</guid>
+      <impresa:contentUri>2016-12-01-Nissan-aumenta-portfolio-de-baterias-residenciais-xStorage-mas-Portugal-fica-de-fora</impresa:contentUri>
+    </item>
+    <item>
+      <media:content url="http://images-cdn.impresa.pt/exameinformatica/2016-12-01-moon-watching-night-100916-02.jpg/w300h225" medium="image" type="image/jpeg" />
+      <title>Portugal vai criar uma agência espacial</title>
+      <description>O Ministro da Ciência, Tecnologia e do Ensino Superior anunciou a intenção de avançar com a criação de uma Agência Espacial portuguesa. O investimento para a ESA vai aumentar em 30 milhões de euros.&lt;img src="http://feeds.feedburner.com/~r/ExameInformatica-geral/~4/iHg9NnMrecQ" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 1 Dec 2016 12:35:00 +0000</pubDate>
+      <category>Ciência</category>
+      <link>http://exameinformatica.sapo.pt/noticias/ciencia/2016-12-01-Portugal-vai-criar-uma-agencia-espacial</link>
+      <guid isPermaLink="false">ef3dcc61-2aeb-445c-8737-31c0b37ab745</guid>
+      <impresa:contentUri>2016-12-01-Portugal-vai-criar-uma-agencia-espacial</impresa:contentUri>
+    </item>
+    <item>
+      <media:content url="http://images-cdn.impresa.pt/exameinformatica/2016-08-23-buzz-aldrin-moon-apollo-11.jpg/w300h225" medium="image" type="image/jpeg" />
+      <title>Cientistas alemães querem ir à Lua revisitar o ponto de aterragem do Apollo 17</title>
+      <description>Há várias organizações privadas na corrida da Google Lunar Xprize. Um dos grupos participantes pretende chegar ao local onde o Homem aterrou na Lua e analisar um carrinho deixado para trás.&lt;img src="http://feeds.feedburner.com/~r/ExameInformatica-geral/~4/q5ws1MjRV6w" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 1 Dec 2016 12:19:44 +0000</pubDate>
+      <category>Ciência</category>
+      <link>http://exameinformatica.sapo.pt/noticias/ciencia/2016-12-01-Cientistas-alemaes-querem-ir-a-Lua-revisitar-o-ponto-de-aterragem-do-Apollo-17</link>
+      <guid isPermaLink="false">501e64e8-5666-4655-8e88-38aaa9b5caf0</guid>
+      <impresa:contentUri>2016-12-01-Cientistas-alemaes-querem-ir-a-Lua-revisitar-o-ponto-de-aterragem-do-Apollo-17</impresa:contentUri>
+    </item>
+    <item>
+      <media:content url="http://images-cdn.impresa.pt/exameinformatica/2016-03-11-hackers-620x395xffffff.jpg/w300h225" medium="image" type="image/jpeg" />
+      <title>Europol atacada por hackers?</title>
+      <description>A polícia europeia terá deixado desencriptados alguns ficheiros sobre terroristas. Estes conteúdos apareceram agora online e a Europol explica que foi um erro humano.&lt;img src="http://feeds.feedburner.com/~r/ExameInformatica-geral/~4/4r51RGa3VIw" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 1 Dec 2016 12:18:44 +0000</pubDate>
+      <category>Mercados</category>
+      <link>http://exameinformatica.sapo.pt/noticias/mercados/2016-12-01-Europol-atacada-por-hackers-</link>
+      <guid isPermaLink="false">25a4480f-c1af-45b5-a0f7-78f0f0763f11</guid>
+      <impresa:contentUri>2016-12-01-Europol-atacada-por-hackers-</impresa:contentUri>
+    </item>
+    <item>
+      <media:content url="http://images-cdn.impresa.pt/exameinformatica/2012-01-06-users_0_15_www-internet-dominio-32a1.jpg/w300h225" medium="image" type="image/jpeg" />
+      <title>Internet Archive copia dados para o Canadá, devido a Trump</title>
+      <description>A organização que guarda cópias de milhões de sites todos os anos anunciou que, com a eleição de Trump, vai mover uma cópia de segurança do arquivo para o Canadá.&lt;img src="http://feeds.feedburner.com/~r/ExameInformatica-geral/~4/ARyOtcxEM-o" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 1 Dec 2016 12:18:31 +0000</pubDate>
+      <category>Internet</category>
+      <link>http://exameinformatica.sapo.pt/noticias/internet/2016-12-01-Internet-Archive-copia-dados-para-o-Canada-devido-a-Trump</link>
+      <guid isPermaLink="false">3cf8d972-1a2c-4127-a7a9-c00ce074a6d8</guid>
+      <impresa:contentUri>2016-12-01-Internet-Archive-copia-dados-para-o-Canada-devido-a-Trump</impresa:contentUri>
+    </item>
+    <item>
+      <media:content url="http://images-cdn.impresa.pt/exameinformatica/2014-12-15-GoPro-Hero-3-White-Edition.jpg/w300h225" medium="image" type="image/jpeg" />
+      <title>GoPro vai despedir 200 funcionários</title>
+      <description>Apesar de uma recuperação registada agora com a Black Friday, os resultados financeiros da GoPro continuam a não agradar e sabe-se que a empresa vai despedir 200 funcionários.&lt;img src="http://feeds.feedburner.com/~r/ExameInformatica-geral/~4/B5dy9il8J3A" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 1 Dec 2016 00:13:05 +0000</pubDate>
+      <category>Mercados</category>
+      <link>http://exameinformatica.sapo.pt/noticias/mercados/2016-12-01-GoPro-vai-despedir-200-funcionarios</link>
+      <guid isPermaLink="false">c3d16a7d-b68f-407d-9d34-70c86112aebe</guid>
+      <impresa:contentUri>2016-12-01-GoPro-vai-despedir-200-funcionarios</impresa:contentUri>
+    </item>
+    <item>
+      <media:content url="http://images-cdn.impresa.pt/exameinformatica/2016-06-27-android.jpg/w300h225" medium="image" type="image/jpeg" />
+      <title>Gooligan, o malware que afeta mais de um milhão de contas Google</title>
+      <description>Uma empresa de segurança descobriu um malware encontrado em lojas de aplicações que não a Play Store e que é capaz de infetar 74% dos Android existentes atualmente.&lt;img src="http://feeds.feedburner.com/~r/ExameInformatica-geral/~4/z3ps0Ptoc2E" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 1 Dec 2016 00:12:57 +0000</pubDate>
+      <category>Mercados</category>
+      <link>http://exameinformatica.sapo.pt/noticias/mercados/2016-12-01-Gooligan-o-malware-que-afeta-mais-de-um-milhao-de-contas-Google</link>
+      <guid isPermaLink="false">27d68084-7f08-43cd-a84f-c8de21de93ef</guid>
+      <impresa:contentUri>2016-12-01-Gooligan-o-malware-que-afeta-mais-de-um-milhao-de-contas-Google</impresa:contentUri>
+    </item>
+    <item>
+      <media:content url="http://images-cdn.impresa.pt/exameinformatica/2016-11-30-Screenshot_20161130-155605.png/w300h225" medium="image" type="image/jpeg" />
+      <title>Já é possível ver Netflix offline. Em Portugal, também!</title>
+      <description>A partir de hoje os subscritores do Netflix vão poder descarregar conteúdos para ver offline. Para já, a funcionalidade só está disponível nas apps iOS e Android e apenas para alguns conteúdos.&lt;img src="http://feeds.feedburner.com/~r/ExameInformatica-geral/~4/Ro6oK2lMoPY" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Wed, 30 Nov 2016 16:06:00 +0000</pubDate>
+      <category>Mercados</category>
+      <link>http://exameinformatica.sapo.pt/noticias/mercados/2016-11-30-Ja-e-possivel-ver-Netflix-offline.-Em-Portugal-tambem</link>
+      <guid isPermaLink="false">d7b6350a-583a-4998-83f2-b784eb363c5c</guid>
+      <impresa:contentUri>2016-11-30-Ja-e-possivel-ver-Netflix-offline.-Em-Portugal-tambem</impresa:contentUri>
+    </item>
+    <item>
+      <media:content url="http://images-cdn.impresa.pt/exameinformatica/2016-08-31-BMW_i3_charging_port.jpg/w300h225" medium="image" type="image/jpeg" />
+      <title>BMW, Volkswagen, e Daimler vão criar rede de carregamento de carros elétricos na Europa</title>
+      <description>Quatro das maiores fabricantes automóveis juntaram-se para dar um impulso aos carros elétricos e a estratégia passa por construir uma rede de postos de abastecimento mais rápidos que que os atuais.&lt;img src="http://feeds.feedburner.com/~r/ExameInformatica-geral/~4/jdz-ijWCqdM" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Wed, 30 Nov 2016 11:10:11 +0000</pubDate>
+      <category>Mercados</category>
+      <link>http://exameinformatica.sapo.pt/noticias/mercados/2016-11-30-BMW-Volkswagen-e-Daimler-vao-criar-rede-de-carregamento-de-carros-eletricos-na-Europa</link>
+      <guid isPermaLink="false">d2f41634-e1a6-4f38-a621-a8cf753e32b6</guid>
+      <impresa:contentUri>2016-11-30-BMW-Volkswagen-e-Daimler-vao-criar-rede-de-carregamento-de-carros-eletricos-na-Europa</impresa:contentUri>
+    </item>
+  </channel>
+</rss>

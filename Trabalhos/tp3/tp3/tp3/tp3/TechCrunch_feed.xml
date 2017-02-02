@@ -1,0 +1,744 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>TechCrunch</title>
+    <link>https://techcrunch.com</link>
+    <description>TechCrunch is a group-edited blog that profiles the companies, products and events defining and transforming the new web.</description>
+    <lastBuildDate>Thu, 17 Nov 2016 17:00:47 +0000</lastBuildDate>
+    <language>en</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>http://wordpress.com/</generator>
+    <cloud domain="techcrunch.com" port="80" path="/?rsscloud=notify" registerProcedure="" protocol="http-post" />
+    <image>
+      <link>http://www.techcrunch.com</link>
+      <url>http://www.techcrunch.com/wp-content/themes/techcrunchmu/images/techcrunch_logo.png</url>
+      <title>TechCrunch</title>
+    </image>
+    <atom:link rel="search" type="application/opensearchdescription+xml" href="https://techcrunch.com/osd.xml" title="TechCrunch" />
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/Techcrunch" />
+    <feedburner:info uri="techcrunch" />
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://techcrunch.com/?pushpress=hub" />
+    <feedburner:feedFlare href="https://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://feeds.my.aol.com/add.jsp?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://o.aolcdn.com/favorites.my.aol.com/webmaster/ffclient/webroot/locale/en-US/images/myAOLButtonSmall.gif">Subscribe with My AOL</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://www.bloglines.com/sub/http://feeds.feedburner.com/Techcrunch" src="http://www.bloglines.com/images/sub_modern11.gif">Subscribe with Bloglines</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="//www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare>
+    <feedburner:browserFriendly>This is an XML content feed. It is intended to be viewed in a newsreader or syndicated to another site.</feedburner:browserFriendly>
+    <item>
+      <title>Niantic’s new invite-only “Portal Recon” tool lets players vote real-world locations into Ingress</title>
+      <link>http://feedproxy.google.com/~r/Techcrunch/~3/gxS60XLr_q8/</link>
+      <comments>https://techcrunch.com/2016/11/17/niantics-invite-only-portal-recon-tool-lets-players-vote-new-real-world-locations-into-ingress/#respond</comments>
+      <pubDate>Thu, 17 Nov 2016 17:00:35 +0000</pubDate>
+      <dc:creator><![CDATA[Greg Kumparak]]></dc:creator>
+      <category><![CDATA[TC]]></category>
+      <guid isPermaLink="false">http://techcrunch.com/?p=1417696</guid>
+      <description>&lt;img width="680" height="516" src="https://tctechcrunch2011.files.wordpress.com/2016/11/portal.png?w=680" class="attachment-large size-large wp-post-image" alt="portal" srcset="https://tctechcrunch2011.files.wordpress.com/2016/11/portal.png 680w, https://tctechcrunch2011.files.wordpress.com/2016/11/portal.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/11/portal.png?w=300 300w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;While most people might know Niantic for building the hype-monster that is Pokemon GO, GO wasn&amp;#8217;t the company&amp;#8217;s first big release. That title goes to Ingress, an equally (if not more) location-centric game. Just days after Ingress&amp;#8217; fourth birthday, Niantic is shaking things up with the introduction of a feature they&amp;#8217;ve been working on for months: the ability for players&amp;hellip; &lt;a href="https://techcrunch.com/2016/11/17/niantics-invite-only-portal-recon-tool-lets-players-vote-new-real-world-locations-into-ingress/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=gxS60XLr_q8:_c1C7CzbOxk:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=gxS60XLr_q8:_c1C7CzbOxk:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=gxS60XLr_q8:_c1C7CzbOxk:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=gxS60XLr_q8:_c1C7CzbOxk:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=gxS60XLr_q8:_c1C7CzbOxk:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=gxS60XLr_q8:_c1C7CzbOxk:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=gxS60XLr_q8:_c1C7CzbOxk:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=gxS60XLr_q8:_c1C7CzbOxk:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/gxS60XLr_q8" height="1" width="1" alt=""/&gt;</description>
+      <wfw:commentRss>https://techcrunch.com/2016/11/17/niantics-invite-only-portal-recon-tool-lets-players-vote-new-real-world-locations-into-ingress/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/portal.png?w=210&amp;h=158&amp;crop=1" />
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/portal.png" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/portal.png" medium="image">
+        <media:title type="html">portal</media:title>
+      </media:content>
+      <media:content url="http://0.gravatar.com/avatar/9b107c9f9a43a21d8c93fcdefcc97dcd?s=96&amp;d=identicon&amp;r=G" medium="image">
+        <media:title type="html">gregkumparak</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/portal.png" medium="image">
+        <media:title type="html">portal</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/recon1.png" medium="image">
+        <media:title type="html">recon</media:title>
+      </media:content>
+      <feedburner:origLink>https://techcrunch.com/2016/11/17/niantics-invite-only-portal-recon-tool-lets-players-vote-new-real-world-locations-into-ingress/?ncid=rss</feedburner:origLink>
+    </item>
+    <item>
+      <title>Cloud Foundry Foundation CEO Sam Ramji departs for Google</title>
+      <link>http://feedproxy.google.com/~r/Techcrunch/~3/CX1OkqTplII/</link>
+      <comments>https://techcrunch.com/2016/11/17/cloud-foundry-foundation-ceo-sam-ramji-departs-for-google/#respond</comments>
+      <pubDate>Thu, 17 Nov 2016 17:00:12 +0000</pubDate>
+      <dc:creator><![CDATA[Frederic Lardinois]]></dc:creator>
+      <category><![CDATA[TC]]></category>
+      <category><![CDATA[cloud foundry]]></category>
+      <category><![CDATA[Sam Ramji]]></category>
+      <category><![CDATA[Abby Kearns]]></category>
+      <category><![CDATA[Chip Childers]]></category>
+      <category><![CDATA[open source]]></category>
+      <guid isPermaLink="false">http://techcrunch.com/?p=1417390</guid>
+      <description>&lt;img width="680" height="453" src="https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-554307297.jpg?w=680" class="attachment-large size-large wp-post-image" alt="Transparent Factory is the English name of an automobile production plant in Dresden, Germany, owned by German carmaker Volkswagen, designed by architect Gunter Henn, and opened in 2002. The original German name is Gl?serne Manufaktur (meaning factory made of glass, literally vitreous manufactory)." srcset="https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-554307297.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-554307297.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-554307297.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-554307297.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-554307297.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;Sam Ramji, the founding CEO of the open source platform as a service Cloud Foundry foundation, is joining Google in a yet-to-be-disclosed executive role. Abby Kearns, the current VP of Industry at the Cloud Foundry Foundation and an industry veteran, will take over as CEO while Chip Childers will become the organization&amp;#8217;s CTO. Ramji is leaving Cloud Foundry at a time when open source&amp;hellip; &lt;a href="https://techcrunch.com/2016/11/17/cloud-foundry-foundation-ceo-sam-ramji-departs-for-google/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=CX1OkqTplII:CRuklwrf5qg:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=CX1OkqTplII:CRuklwrf5qg:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=CX1OkqTplII:CRuklwrf5qg:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=CX1OkqTplII:CRuklwrf5qg:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=CX1OkqTplII:CRuklwrf5qg:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=CX1OkqTplII:CRuklwrf5qg:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=CX1OkqTplII:CRuklwrf5qg:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=CX1OkqTplII:CRuklwrf5qg:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/CX1OkqTplII" height="1" width="1" alt=""/&gt;</description>
+      <wfw:commentRss>https://techcrunch.com/2016/11/17/cloud-foundry-foundation-ceo-sam-ramji-departs-for-google/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-554307297.jpg?w=210&amp;h=158&amp;crop=1" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-554307297.jpg" type="image/jpeg" medium="image">
+        <media:title type="html">Cloud%20Foundry%20Foundation%20CEO%20Sam%20Ramji%20departs%20for%26nbsp%3BGoogle</media:title>
+      </media:content>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-554307297.jpg" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-554307297.jpg" medium="image">
+        <media:title type="html">Transparent Factory in Dresden</media:title>
+      </media:content>
+      <media:content url="http://2.gravatar.com/avatar/55542aa717199728948f628edc1170b1?s=96&amp;d=identicon&amp;r=G" medium="image">
+        <media:title type="html">fredericlardinois</media:title>
+      </media:content>
+      <feedburner:origLink>https://techcrunch.com/2016/11/17/cloud-foundry-foundation-ceo-sam-ramji-departs-for-google/?ncid=rss</feedburner:origLink>
+    </item>
+    <item>
+      <title>Mozilla launches Firefox Focus, a private web browser for iPhone</title>
+      <link>http://feedproxy.google.com/~r/Techcrunch/~3/1YPiC9APlAs/</link>
+      <comments>https://techcrunch.com/2016/11/17/mozilla-launches-firefox-focus-a-private-web-browser-for-iphone/#respond</comments>
+      <pubDate>Thu, 17 Nov 2016 16:05:46 +0000</pubDate>
+      <dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+      <category><![CDATA[Apps]]></category>
+      <category><![CDATA[Mobile]]></category>
+      <category><![CDATA[Privacy]]></category>
+      <category><![CDATA[Firefox]]></category>
+      <category><![CDATA[firefox focus]]></category>
+      <category><![CDATA[browsers]]></category>
+      <category><![CDATA[iOS apps]]></category>
+      <category><![CDATA[privacy]]></category>
+      <guid isPermaLink="false">http://techcrunch.com/?p=1417636</guid>
+      <description>&lt;img width="680" height="382" src="https://tctechcrunch2011.files.wordpress.com/2016/11/firefox-focus-ios.jpg?w=680" class="attachment-large size-large wp-post-image" alt="firefox-focus-ios" srcset="https://tctechcrunch2011.files.wordpress.com/2016/11/firefox-focus-ios.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/11/firefox-focus-ios.jpg?w=1358 1358w, https://tctechcrunch2011.files.wordpress.com/2016/11/firefox-focus-ios.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/11/firefox-focus-ios.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/11/firefox-focus-ios.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;The makers of Firefox are today introducing a new mobile web browser for iOS users that puts private browsing at the forefront of the user experience. Called Firefox Focus, the mobile browser by default blocks ad trackers, and erases your browsing history, including also your passwords and cookies. The end result is simplified browser that may load web pages more quickly, the company&amp;hellip; &lt;a href="https://techcrunch.com/2016/11/17/mozilla-launches-firefox-focus-a-private-web-browser-for-iphone/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1YPiC9APlAs:r72ubrPhpc4:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1YPiC9APlAs:r72ubrPhpc4:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1YPiC9APlAs:r72ubrPhpc4:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1YPiC9APlAs:r72ubrPhpc4:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=1YPiC9APlAs:r72ubrPhpc4:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1YPiC9APlAs:r72ubrPhpc4:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=1YPiC9APlAs:r72ubrPhpc4:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1YPiC9APlAs:r72ubrPhpc4:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/1YPiC9APlAs" height="1" width="1" alt=""/&gt;</description>
+      <wfw:commentRss>https://techcrunch.com/2016/11/17/mozilla-launches-firefox-focus-a-private-web-browser-for-iphone/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/firefox-focus-ios.jpg?w=210&amp;h=158&amp;crop=1" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/firefox-focus-ios.jpg" type="image/jpeg" medium="image">
+        <media:title type="html">Mozilla%20launches%20Firefox%20Focus%2C%20a%20private%20web%20browser%20for%26nbsp%3BiPhone</media:title>
+      </media:content>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/firefox-focus-ios.jpg" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/firefox-focus-ios.jpg" medium="image">
+        <media:title type="html">firefox-focus-ios</media:title>
+      </media:content>
+      <media:content url="http://2.gravatar.com/avatar/5225bb627e112543aa03bf3b2958be3f?s=96&amp;d=identicon&amp;r=G" medium="image">
+        <media:title type="html">sarahintampa</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/firefox-focus-screenshot-1-1-600x1067.png?w=84" medium="image">
+        <media:title type="html">firefox-focus-screenshot-1-1-600x1067</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/ios-focus_appstore-iphoneplus-600x871.png?w=103" medium="image">
+        <media:title type="html">ios-focus_appstore-iphoneplus-600x871</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-10-57-11-am.png?w=680" medium="image">
+        <media:title type="html">screen-shot-2016-11-17-at-10-57-11-am</media:title>
+      </media:content>
+      <feedburner:origLink>https://techcrunch.com/2016/11/17/mozilla-launches-firefox-focus-a-private-web-browser-for-iphone/?ncid=rss</feedburner:origLink>
+    </item>
+    <item>
+      <title>Dog Parker, because even your dogs deserve a smart home</title>
+      <link>http://feedproxy.google.com/~r/Techcrunch/~3/RmsNMHqj6rE/</link>
+      <comments>https://techcrunch.com/2016/11/17/dog-parker-because-even-your-dogs-deserve-a-smart-home/#respond</comments>
+      <pubDate>Thu, 17 Nov 2016 16:00:38 +0000</pubDate>
+      <dc:creator><![CDATA[Jordan Crook]]></dc:creator>
+      <category><![CDATA[Apps]]></category>
+      <category><![CDATA[Hardware]]></category>
+      <category><![CDATA[Startups]]></category>
+      <category><![CDATA[TC]]></category>
+      <category><![CDATA[Pets]]></category>
+      <category><![CDATA[Dogs]]></category>
+      <category><![CDATA[dog park]]></category>
+      <category><![CDATA[Parker]]></category>
+      <category><![CDATA[New York]]></category>
+      <category><![CDATA[dog parker]]></category>
+      <category><![CDATA[era]]></category>
+      <guid isPermaLink="false">http://techcrunch.com/?p=1417587</guid>
+      <description>&lt;img width="680" height="413" src="https://tctechcrunch2011.files.wordpress.com/2016/11/dog-parker_july2016_brooklynnyc_08.jpg?w=680" class="attachment-large size-large wp-post-image" alt="dog-parker_july2016_brooklynnyc_08" srcset="https://tctechcrunch2011.files.wordpress.com/2016/11/dog-parker_july2016_brooklynnyc_08.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/11/dog-parker_july2016_brooklynnyc_08.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2016/11/dog-parker_july2016_brooklynnyc_08.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/11/dog-parker_july2016_brooklynnyc_08.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/11/dog-parker_july2016_brooklynnyc_08.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;Everyone says that dogs are a huge responsibility, but it&amp;#8217;s hard to feel the weight of that responsibility until you own one. Dog Parker, a new startup out of ERA, is looking to take out some of the stress of owning a dog in New York. As you might imagine from the name, Dog Parker is a service that lets you park your dog outside of a grocery store or coffee shop while you are inside.&amp;hellip; &lt;a href="https://techcrunch.com/2016/11/17/dog-parker-because-even-your-dogs-deserve-a-smart-home/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=RmsNMHqj6rE:zPSmT5IZUI0:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=RmsNMHqj6rE:zPSmT5IZUI0:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=RmsNMHqj6rE:zPSmT5IZUI0:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=RmsNMHqj6rE:zPSmT5IZUI0:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=RmsNMHqj6rE:zPSmT5IZUI0:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=RmsNMHqj6rE:zPSmT5IZUI0:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=RmsNMHqj6rE:zPSmT5IZUI0:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=RmsNMHqj6rE:zPSmT5IZUI0:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/RmsNMHqj6rE" height="1" width="1" alt=""/&gt;</description>
+      <wfw:commentRss>https://techcrunch.com/2016/11/17/dog-parker-because-even-your-dogs-deserve-a-smart-home/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/dog-parker_july2016_brooklynnyc_08.jpg?w=210&amp;h=158&amp;crop=1" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/dog-parker_july2016_brooklynnyc_08.jpg" type="image/jpeg" medium="image">
+        <media:title type="html">Dog%20Parker%2C%20because%20even%20your%20dogs%20deserve%20a%20smart%26nbsp%3Bhome</media:title>
+      </media:content>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/dog-parker_july2016_brooklynnyc_08.jpg" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/dog-parker_july2016_brooklynnyc_08.jpg" medium="image">
+        <media:title type="html">dog-parker_july2016_brooklynnyc_08</media:title>
+      </media:content>
+      <media:content url="http://1.gravatar.com/avatar/123a4c264172746af556b0c74c72b308?s=96&amp;d=identicon&amp;r=G" medium="image">
+        <media:title type="html">jordanrcrook</media:title>
+      </media:content>
+      <feedburner:origLink>https://techcrunch.com/2016/11/17/dog-parker-because-even-your-dogs-deserve-a-smart-home/?ncid=rss</feedburner:origLink>
+    </item>
+    <item>
+      <title>Eero’s WiFi system adds Alexa commands</title>
+      <link>http://feedproxy.google.com/~r/Techcrunch/~3/Xcjv52wvO8s/</link>
+      <comments>https://techcrunch.com/2016/11/17/eero-2/#respond</comments>
+      <pubDate>Thu, 17 Nov 2016 15:42:31 +0000</pubDate>
+      <dc:creator><![CDATA[Brian Heater]]></dc:creator>
+      <category><![CDATA[Hardware]]></category>
+      <category><![CDATA[Eero]]></category>
+      <category><![CDATA[Amazon]]></category>
+      <category><![CDATA[Alexa]]></category>
+      <category><![CDATA[echo]]></category>
+      <guid isPermaLink="false">http://techcrunch.com/?p=1417639</guid>
+      <description>&lt;img width="680" height="414" src="https://tctechcrunch2011.files.wordpress.com/2016/05/screen-shot-2016-05-24-at-11-28-02-am1.png?w=680" class="attachment-large size-large wp-post-image" alt="eero" srcset="https://tctechcrunch2011.files.wordpress.com/2016/05/screen-shot-2016-05-24-at-11-28-02-am1.png?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/05/screen-shot-2016-05-24-at-11-28-02-am1.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/05/screen-shot-2016-05-24-at-11-28-02-am1.png?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/05/screen-shot-2016-05-24-at-11-28-02-am1.png?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2016/05/screen-shot-2016-05-24-at-11-28-02-am1.png 801w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;A week or so after Luma announced Alexa integration, it&amp;#8217;s Eero&amp;#8217;s turn. It&amp;#8217;s not really all that surprising that the former got the head start here, of course &amp;#8211; after all, the company lists Amazon among its big investors, but in the push to make its AI assistant a ubiquitous presence in high tech homes, the retail giant isn&amp;#8217;t likely to turn down too many&amp;hellip; &lt;a href="https://techcrunch.com/2016/11/17/eero-2/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Xcjv52wvO8s:-xEGbs3i9ng:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Xcjv52wvO8s:-xEGbs3i9ng:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Xcjv52wvO8s:-xEGbs3i9ng:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Xcjv52wvO8s:-xEGbs3i9ng:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=Xcjv52wvO8s:-xEGbs3i9ng:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Xcjv52wvO8s:-xEGbs3i9ng:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=Xcjv52wvO8s:-xEGbs3i9ng:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Xcjv52wvO8s:-xEGbs3i9ng:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/Xcjv52wvO8s" height="1" width="1" alt=""/&gt;</description>
+      <wfw:commentRss>https://techcrunch.com/2016/11/17/eero-2/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/05/screen-shot-2016-05-24-at-11-28-02-am1.png?w=210&amp;h=158&amp;crop=1" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/05/screen-shot-2016-05-24-at-11-28-02-am1.png" type="image/png" medium="image">
+        <media:title type="html">Eero%E2%80%99s%20WiFi%20system%20adds%20Alexa%26nbsp%3Bcommands</media:title>
+      </media:content>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/05/screen-shot-2016-05-24-at-11-28-02-am1.png" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/05/screen-shot-2016-05-24-at-11-28-02-am1.png" medium="image">
+        <media:title type="html">eero</media:title>
+      </media:content>
+      <media:content url="http://0.gravatar.com/avatar/69b6dc548d05dedd0132f12e075bf7de?s=96&amp;d=identicon&amp;r=G" medium="image">
+        <media:title type="html">bheater</media:title>
+      </media:content>
+      <feedburner:origLink>https://techcrunch.com/2016/11/17/eero-2/?ncid=rss</feedburner:origLink>
+    </item>
+    <item>
+      <title>Apple to offer free ‘Hour of Code’ workshops for full week</title>
+      <link>http://feedproxy.google.com/~r/Techcrunch/~3/txd2XjiV1sE/</link>
+      <comments>https://techcrunch.com/2016/11/17/apple-hour-of-code-2016/#respond</comments>
+      <pubDate>Thu, 17 Nov 2016 15:37:36 +0000</pubDate>
+      <dc:creator><![CDATA[Megan Rose Dickey]]></dc:creator>
+      <category><![CDATA[Education]]></category>
+      <category><![CDATA[TC]]></category>
+      <category><![CDATA[coding]]></category>
+      <category><![CDATA[Hour of Code]]></category>
+      <guid isPermaLink="false">http://techcrunch.com/?p=1417570</guid>
+      <description>&lt;img width="680" height="453" src="https://tctechcrunch2011.files.wordpress.com/2015/11/476363156.jpg?w=680" class="attachment-large size-large wp-post-image" alt="tim cook" srcset="https://tctechcrunch2011.files.wordpress.com/2015/11/476363156.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2015/11/476363156.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2015/11/476363156.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2015/11/476363156.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2015/11/476363156.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;Apple has opened up registration for its Hour of Code workshops in partnership with Code.org. This year, Apple will host Hour of Code workshops every day for one week &amp;#8212; in conjunction with Computer Science Education Week &amp;#8212; from December 5 to December 11 at all of its nearly 500 Apple retail stores across the world. In the past, Apple offered just one day&amp;#8217;s worth of&amp;#8230; &lt;a href="https://techcrunch.com/2016/11/17/apple-hour-of-code-2016/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=txd2XjiV1sE:f6SQQydXR4Q:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=txd2XjiV1sE:f6SQQydXR4Q:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=txd2XjiV1sE:f6SQQydXR4Q:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=txd2XjiV1sE:f6SQQydXR4Q:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=txd2XjiV1sE:f6SQQydXR4Q:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=txd2XjiV1sE:f6SQQydXR4Q:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=txd2XjiV1sE:f6SQQydXR4Q:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=txd2XjiV1sE:f6SQQydXR4Q:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/txd2XjiV1sE" height="1" width="1" alt=""/&gt;</description>
+      <wfw:commentRss>https://techcrunch.com/2016/11/17/apple-hour-of-code-2016/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2015/11/476363156.jpg?w=210&amp;h=158&amp;crop=1" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2015/11/476363156.jpg" type="image/jpeg" medium="image">
+        <media:title type="html">Apple%20to%20offer%20free%20%26%238216%3BHour%20of%20Code%26%238217%3B%20workshops%20for%20full%26nbsp%3Bweek</media:title>
+      </media:content>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2015/11/476363156.jpg" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2015/11/476363156.jpg" medium="image">
+        <media:title type="html">tim cook</media:title>
+      </media:content>
+      <media:content url="http://2.gravatar.com/avatar/e64a35398ab7fb3ff0de4f0817dc1c78?s=96&amp;d=identicon&amp;r=G" medium="image">
+        <media:title type="html">mdickey</media:title>
+      </media:content>
+      <feedburner:origLink>https://techcrunch.com/2016/11/17/apple-hour-of-code-2016/?ncid=rss</feedburner:origLink>
+    </item>
+    <item>
+      <title>Mi Box is an affordable 4K HDR streamer, but dragged down by Android TV</title>
+      <link>http://feedproxy.google.com/~r/Techcrunch/~3/NqVUR-vljfY/</link>
+      <comments>https://techcrunch.com/2016/11/17/mi-box-is-an-affordable-4k-hdr-streamer-but-dragged-down-by-android-tv/#respond</comments>
+      <pubDate>Thu, 17 Nov 2016 15:21:01 +0000</pubDate>
+      <dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+      <category><![CDATA[Gadgets]]></category>
+      <category><![CDATA[Media]]></category>
+      <category><![CDATA[TC]]></category>
+      <category><![CDATA[Xiaomi]]></category>
+      <category><![CDATA[mi box]]></category>
+      <category><![CDATA[cord cutting]]></category>
+      <category><![CDATA[media players]]></category>
+      <category><![CDATA[Streaming Media]]></category>
+      <category><![CDATA[streaming media players]]></category>
+      <category><![CDATA[connected tv]]></category>
+      <category><![CDATA[streamer]]></category>
+      <category><![CDATA[Android TV]]></category>
+      <guid isPermaLink="false">http://techcrunch.com/?p=1417051</guid>
+      <description>&lt;img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2016/11/mi-box_09.png?w=680" class="attachment-large size-large wp-post-image" alt="mi-box_09" srcset="https://tctechcrunch2011.files.wordpress.com/2016/11/mi-box_09.png?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/11/mi-box_09.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/11/mi-box_09.png?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/11/mi-box_09.png?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2016/11/mi-box_09.png 1294w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;The Mi Box is Chinese smartphone company Xiaomi&amp;#8217;s play to take on devices like Roku, Apple TV, Android TV, and Fire TV. Priced at only $69, and sporting features like integrated Google Cast and voice search, the 4K- and HDR-supporting device seems worth a look. But at the end of the day, Mi Box is still an Android TV player, and subject to limitations of that platform, which are&amp;#8230; &lt;a href="https://techcrunch.com/2016/11/17/mi-box-is-an-affordable-4k-hdr-streamer-but-dragged-down-by-android-tv/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=NqVUR-vljfY:Sm8erUooITY:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=NqVUR-vljfY:Sm8erUooITY:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=NqVUR-vljfY:Sm8erUooITY:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=NqVUR-vljfY:Sm8erUooITY:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=NqVUR-vljfY:Sm8erUooITY:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=NqVUR-vljfY:Sm8erUooITY:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=NqVUR-vljfY:Sm8erUooITY:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=NqVUR-vljfY:Sm8erUooITY:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/NqVUR-vljfY" height="1" width="1" alt=""/&gt;</description>
+      <wfw:commentRss>https://techcrunch.com/2016/11/17/mi-box-is-an-affordable-4k-hdr-streamer-but-dragged-down-by-android-tv/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/mi-box_09.png?w=210&amp;h=158&amp;crop=1" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/mi-box_09.png" type="image/png" medium="image">
+        <media:title type="html">Mi%20Box%20is%20an%20affordable%204K%20HDR%20streamer%2C%20but%20dragged%20down%20by%20Android%26nbsp%3BTV</media:title>
+      </media:content>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/mi-box_09.png" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/mi-box_09.png" medium="image">
+        <media:title type="html">mi-box_09</media:title>
+      </media:content>
+      <media:content url="http://2.gravatar.com/avatar/5225bb627e112543aa03bf3b2958be3f?s=96&amp;d=identicon&amp;r=G" medium="image">
+        <media:title type="html">sarahintampa</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/img_1307.jpg?w=510" medium="image">
+        <media:title type="html">img_1307</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/img_1312.jpg?w=680" medium="image">
+        <media:title type="html">img_1312</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/img_1230.jpg?w=150" medium="image">
+        <media:title type="html">img_1230</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/img_1231.jpg?w=150" medium="image">
+        <media:title type="html">img_1231</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/img_1269.png?w=383" medium="image">
+        <media:title type="html">img_1269</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/mi-box_02.png?w=441" medium="image">
+        <media:title type="html">mi-box_02</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/img_1254.jpg?w=680" medium="image">
+        <media:title type="html">img_1254</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/mi-box_10.png?w=150" medium="image">
+        <media:title type="html">mi-box_10</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/mi-box_01.png?w=72" medium="image">
+        <media:title type="html">mi-box_01</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/mi-box_05.png?w=150" medium="image">
+        <media:title type="html">mi-box_05</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/mi-box_02.png?w=97" medium="image">
+        <media:title type="html">mi-box_02</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/mi-box_04.jpg?w=150" medium="image">
+        <media:title type="html">mi-box_04</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/mi-box_08.png?w=150" medium="image">
+        <media:title type="html">mi-box_08</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/mi-box_03.png?w=139" medium="image">
+        <media:title type="html">mi-box_03</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/mi-box_06.png?w=150" medium="image">
+        <media:title type="html">mi-box_06</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/mi-box_09.png?w=150" medium="image">
+        <media:title type="html">mi-box_09</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/img_1245-1.jpg?w=680" medium="image">
+        <media:title type="html">img_1245-1</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/img_1257.jpg?w=680" medium="image">
+        <media:title type="html">img_1257</media:title>
+      </media:content>
+      <feedburner:origLink>https://techcrunch.com/2016/11/17/mi-box-is-an-affordable-4k-hdr-streamer-but-dragged-down-by-android-tv/?ncid=rss</feedburner:origLink>
+    </item>
+    <item>
+      <title>Sprinklr acquires LittleBird, a tool for finding experts on anything via Twitter</title>
+      <link>http://feedproxy.google.com/~r/Techcrunch/~3/C2i_WjvhnT4/</link>
+      <comments>https://techcrunch.com/2016/11/17/sprinklr-acquires-littlebird-a-tool-for-finding-experts-on-anything-via-twitter/#respond</comments>
+      <pubDate>Thu, 17 Nov 2016 15:09:47 +0000</pubDate>
+      <dc:creator><![CDATA[Lora Kolodny]]></dc:creator>
+      <category><![CDATA[Advertising Tech]]></category>
+      <category><![CDATA[Enterprise]]></category>
+      <category><![CDATA[Fundings & Exits]]></category>
+      <category><![CDATA[Social]]></category>
+      <category><![CDATA[Startups]]></category>
+      <category><![CDATA[TC]]></category>
+      <category><![CDATA[Venture Capital]]></category>
+      <category><![CDATA[acquisition]]></category>
+      <category><![CDATA[marshall kirkpatrick]]></category>
+      <category><![CDATA[Oregon Angel Fund]]></category>
+      <category><![CDATA[Sprinklr]]></category>
+      <category><![CDATA[LittleBird]]></category>
+      <category><![CDATA[Ragy Thomas]]></category>
+      <category><![CDATA[mark cuban]]></category>
+      <category><![CDATA[Jason Calacanis]]></category>
+      <category><![CDATA[social media]]></category>
+      <category><![CDATA[social media management]]></category>
+      <category><![CDATA[Influencer Marketing]]></category>
+      <guid isPermaLink="false">http://techcrunch.com/?p=1417596</guid>
+      <description>&lt;img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2016/08/twitter-impressionist.jpg?w=680" class="attachment-large size-large wp-post-image" alt="twitter-impressionist" srcset="https://tctechcrunch2011.files.wordpress.com/2016/08/twitter-impressionist.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/08/twitter-impressionist.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2016/08/twitter-impressionist.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/08/twitter-impressionist.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/08/twitter-impressionist.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;New York marketing tech firm Sprinklr has acquired Portland-based LittleBird, according to Sprinklr founder and CEO Ragy Thomas. LittleBird was founded in 2011 to help researchers quickly find the top experts and influencers on any given subject via Twitter. It raised $4.8 million in venture capital to build its analytics platform from Mark Cuban, Jason Calacanis, Oregon Angel Fund and&amp;hellip; &lt;a href="https://techcrunch.com/2016/11/17/sprinklr-acquires-littlebird-a-tool-for-finding-experts-on-anything-via-twitter/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=C2i_WjvhnT4:ZDdOjTgcTFg:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=C2i_WjvhnT4:ZDdOjTgcTFg:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=C2i_WjvhnT4:ZDdOjTgcTFg:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=C2i_WjvhnT4:ZDdOjTgcTFg:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=C2i_WjvhnT4:ZDdOjTgcTFg:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=C2i_WjvhnT4:ZDdOjTgcTFg:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=C2i_WjvhnT4:ZDdOjTgcTFg:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=C2i_WjvhnT4:ZDdOjTgcTFg:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/C2i_WjvhnT4" height="1" width="1" alt=""/&gt;</description>
+      <wfw:commentRss>https://techcrunch.com/2016/11/17/sprinklr-acquires-littlebird-a-tool-for-finding-experts-on-anything-via-twitter/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/08/twitter-impressionist.jpg?w=210&amp;h=158&amp;crop=1" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/08/twitter-impressionist.jpg" type="image/jpeg" medium="image">
+        <media:title type="html">Sprinklr%20acquires%20LittleBird%2C%20a%20tool%20for%20finding%20experts%20on%20anything%20via%26nbsp%3BTwitter</media:title>
+      </media:content>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/08/twitter-impressionist.jpg" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/08/twitter-impressionist.jpg" medium="image">
+        <media:title type="html">twitter-impressionist</media:title>
+      </media:content>
+      <media:content url="http://0.gravatar.com/avatar/6669b82c456f152e55fac86f56e5c248?s=96&amp;d=identicon&amp;r=G" medium="image">
+        <media:title type="html">lorakolodnytc</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/marshallsxsw2012.jpg?w=271" medium="image">
+        <media:title type="html">marshall kirkpatrick</media:title>
+      </media:content>
+      <feedburner:origLink>https://techcrunch.com/2016/11/17/sprinklr-acquires-littlebird-a-tool-for-finding-experts-on-anything-via-twitter/?ncid=rss</feedburner:origLink>
+    </item>
+    <item>
+      <title>Snapchat’s Spectacles vending machine lands in Santa Monica</title>
+      <link>http://feedproxy.google.com/~r/Techcrunch/~3/i1zAW0PMn1I/</link>
+      <comments>https://techcrunch.com/2016/11/17/snapchats-spectacles-vending-machine-lands-in-santa-monica/#respond</comments>
+      <pubDate>Thu, 17 Nov 2016 15:03:20 +0000</pubDate>
+      <dc:creator><![CDATA[Darrell Etherington]]></dc:creator>
+      <category><![CDATA[Apps]]></category>
+      <category><![CDATA[Gadgets]]></category>
+      <category><![CDATA[Social]]></category>
+      <category><![CDATA[TC]]></category>
+      <guid isPermaLink="false">http://techcrunch.com/?p=1417559</guid>
+      <description>&lt;img width="680" height="515" src="https://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-10-00-17-am.png?w=680" class="attachment-large size-large wp-post-image" alt="screen-shot-2016-11-17-at-10-00-17-am" srcset="https://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-10-00-17-am.png?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-10-00-17-am.png?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-10-00-17-am.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-10-00-17-am.png?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-10-00-17-am.png?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;Another day, another seemingly random location drop for Snapbot, your friendly neighborhood Snapchat Spectacles vending machine. Today&amp;#8217;s lucky destination is Santa Monica, bucking the recent trend of out-of-the-way spots for one just up the coast a bit from its original Venice Beach location in LA. Snap, Inc. began selling Spectacles without much in the way of warning last Friday,&amp;hellip; &lt;a href="https://techcrunch.com/2016/11/17/snapchats-spectacles-vending-machine-lands-in-santa-monica/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=i1zAW0PMn1I:Kzaau-BI1Qk:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=i1zAW0PMn1I:Kzaau-BI1Qk:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=i1zAW0PMn1I:Kzaau-BI1Qk:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=i1zAW0PMn1I:Kzaau-BI1Qk:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=i1zAW0PMn1I:Kzaau-BI1Qk:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=i1zAW0PMn1I:Kzaau-BI1Qk:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=i1zAW0PMn1I:Kzaau-BI1Qk:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=i1zAW0PMn1I:Kzaau-BI1Qk:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/i1zAW0PMn1I" height="1" width="1" alt=""/&gt;</description>
+      <wfw:commentRss>https://techcrunch.com/2016/11/17/snapchats-spectacles-vending-machine-lands-in-santa-monica/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-10-00-17-am.png?w=210&amp;h=158&amp;crop=1" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-10-00-17-am.png" type="image/png" medium="image">
+        <media:title type="html">Snapchat%26%238217%3Bs%20Spectacles%20vending%20machine%20lands%20in%20Santa%26nbsp%3BMonica</media:title>
+      </media:content>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-10-00-17-am.png" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-10-00-17-am.png" medium="image">
+        <media:title type="html">screen-shot-2016-11-17-at-10-00-17-am</media:title>
+      </media:content>
+      <media:content url="http://1.gravatar.com/avatar/188039e12983eb749171a75cfd01378d?s=96&amp;d=identicon&amp;r=G" medium="image">
+        <media:title type="html">etherin</media:title>
+      </media:content>
+      <feedburner:origLink>https://techcrunch.com/2016/11/17/snapchats-spectacles-vending-machine-lands-in-santa-monica/?ncid=rss</feedburner:origLink>
+    </item>
+    <item>
+      <title>Apple patent shows Siri inside iMessage to help with scheduling, payments and more</title>
+      <link>http://feedproxy.google.com/~r/Techcrunch/~3/s_GIjtf71CQ/</link>
+      <comments>https://techcrunch.com/2016/11/17/apple-patent-shows-siri-inside-imessage-to-help-with-scheduling-payments-and-more/#respond</comments>
+      <pubDate>Thu, 17 Nov 2016 15:01:44 +0000</pubDate>
+      <dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+      <category><![CDATA[Mobile]]></category>
+      <category><![CDATA[Apple]]></category>
+      <category><![CDATA[bots]]></category>
+      <category><![CDATA[imessage]]></category>
+      <category><![CDATA[siri]]></category>
+      <category><![CDATA[patent]]></category>
+      <guid isPermaLink="false">http://techcrunch.com/?p=1417564</guid>
+      <description>&lt;img width="680" height="425" src="https://tctechcrunch2011.files.wordpress.com/2016/11/siri.jpg?w=680" class="attachment-large size-large wp-post-image" alt="siri" srcset="https://tctechcrunch2011.files.wordpress.com/2016/11/siri.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/11/siri.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2016/11/siri.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/11/siri.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/11/siri.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;Google&amp;#8217;s smart virtual helper Google Assistant is finding its way into everything from the company&amp;#8217;s chat app Allo to Pixel smartphones and its Amazon Echo rival, Google Home. Now it appears that Apple is considering following suit in at least one of those areas. A newly unearthed Apple patent indicates the company is looking into integrating Siri into its own messaging platform&amp;#8230; &lt;a href="https://techcrunch.com/2016/11/17/apple-patent-shows-siri-inside-imessage-to-help-with-scheduling-payments-and-more/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=s_GIjtf71CQ:Xz6moGIPF-8:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=s_GIjtf71CQ:Xz6moGIPF-8:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=s_GIjtf71CQ:Xz6moGIPF-8:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=s_GIjtf71CQ:Xz6moGIPF-8:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=s_GIjtf71CQ:Xz6moGIPF-8:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=s_GIjtf71CQ:Xz6moGIPF-8:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=s_GIjtf71CQ:Xz6moGIPF-8:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=s_GIjtf71CQ:Xz6moGIPF-8:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/s_GIjtf71CQ" height="1" width="1" alt=""/&gt;</description>
+      <wfw:commentRss>https://techcrunch.com/2016/11/17/apple-patent-shows-siri-inside-imessage-to-help-with-scheduling-payments-and-more/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/siri.jpg?w=210&amp;h=158&amp;crop=1" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/siri.jpg" type="image/jpeg" medium="image">
+        <media:title type="html">Apple%20patent%20shows%20Siri%20inside%20iMessage%20to%20help%20with%20scheduling%2C%20payments%20and%26nbsp%3Bmore</media:title>
+      </media:content>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/siri.jpg" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/siri.jpg" medium="image">
+        <media:title type="html">siri</media:title>
+      </media:content>
+      <media:content url="http://2.gravatar.com/avatar/5225bb627e112543aa03bf3b2958be3f?s=96&amp;d=identicon&amp;r=G" medium="image">
+        <media:title type="html">sarahintampa</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-9-54-26-am.png?w=480" medium="image">
+        <media:title type="html">screen-shot-2016-11-17-at-9-54-26-am</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-9-54-46-am.png?w=456" medium="image">
+        <media:title type="html">screen-shot-2016-11-17-at-9-54-46-am</media:title>
+      </media:content>
+      <feedburner:origLink>https://techcrunch.com/2016/11/17/apple-patent-shows-siri-inside-imessage-to-help-with-scheduling-payments-and-more/?ncid=rss</feedburner:origLink>
+    </item>
+    <item>
+      <title>Tray.io raises a $5m Series A, led by Mosaic Ventures, to sort out the mess in the Cloud</title>
+      <link>http://feedproxy.google.com/~r/Techcrunch/~3/2_eJyUBh-DU/</link>
+      <comments>https://techcrunch.com/2016/11/17/tray-io-raises-a-5m-series-a-led-by-mosaic-ventures-to-sort-out-the-mess-in-the-cloud/#respond</comments>
+      <pubDate>Thu, 17 Nov 2016 15:00:46 +0000</pubDate>
+      <dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+      <category><![CDATA[Europe]]></category>
+      <category><![CDATA[TC]]></category>
+      <guid isPermaLink="false">http://techcrunch.com/?p=1417602</guid>
+      <description>The adoption of the Cloud is booming (of course). But at the same time SaaS services are exploding. That means companies need developer resources to integrate all these inter-locking services. But there&amp;#8217;s a problem. They spend huge amounts of time and money manually transferring data between services and are, once again, hamstrung by a lack of developer resources. Playing in this&amp;hellip; &lt;a href="https://techcrunch.com/2016/11/17/tray-io-raises-a-5m-series-a-led-by-mosaic-ventures-to-sort-out-the-mess-in-the-cloud/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=2_eJyUBh-DU:yCsrtzZpSlQ:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=2_eJyUBh-DU:yCsrtzZpSlQ:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=2_eJyUBh-DU:yCsrtzZpSlQ:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=2_eJyUBh-DU:yCsrtzZpSlQ:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=2_eJyUBh-DU:yCsrtzZpSlQ:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=2_eJyUBh-DU:yCsrtzZpSlQ:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=2_eJyUBh-DU:yCsrtzZpSlQ:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=2_eJyUBh-DU:yCsrtzZpSlQ:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/2_eJyUBh-DU" height="1" width="1" alt=""/&gt;</description>
+      <wfw:commentRss>https://techcrunch.com/2016/11/17/tray-io-raises-a-5m-series-a-led-by-mosaic-ventures-to-sort-out-the-mess-in-the-cloud/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tray.io/video/hp-video.m4v" length="1944685" type="video/mp4" />
+      <media:content url="http://2.gravatar.com/avatar/ef4a4ab87c72738ed187e21de55b2fc6?s=96&amp;d=identicon&amp;r=G" medium="image">
+        <media:title type="html">mike-butcher</media:title>
+      </media:content>
+      <feedburner:origLink>https://techcrunch.com/2016/11/17/tray-io-raises-a-5m-series-a-led-by-mosaic-ventures-to-sort-out-the-mess-in-the-cloud/?ncid=rss</feedburner:origLink>
+    </item>
+    <item>
+      <title>Uber’s new restaurant guide uses trip data to tell you where to eat</title>
+      <link>http://feedproxy.google.com/~r/Techcrunch/~3/KtNNENmeOj4/</link>
+      <comments>https://techcrunch.com/2016/11/17/ubers-new-restaurant-guide-uses-trip-data-to-tell-you-where-to-eat/#respond</comments>
+      <pubDate>Thu, 17 Nov 2016 15:00:27 +0000</pubDate>
+      <dc:creator><![CDATA[Darrell Etherington]]></dc:creator>
+      <category><![CDATA[TC]]></category>
+      <category><![CDATA[Transportation]]></category>
+      <guid isPermaLink="false">http://techcrunch.com/?p=1417536</guid>
+      <description>&lt;img width="680" height="431" src="https://tctechcrunch2011.files.wordpress.com/2016/11/1479234307-italian_horizontal_r_1.jpg?w=680" class="attachment-large size-large wp-post-image" alt="1479234307-italian_horizontal_r_1" srcset="https://tctechcrunch2011.files.wordpress.com/2016/11/1479234307-italian_horizontal_r_1.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/11/1479234307-italian_horizontal_r_1.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/11/1479234307-italian_horizontal_r_1.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/11/1479234307-italian_horizontal_r_1.jpg?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2016/11/1479234307-italian_horizontal_r_1.jpg 900w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;Uber&amp;#8217;s trip data tells it a lot about how to optimize its services, including routing and pickup spots, but the info also reveals incidental patterns that don&amp;#8217;t necessarily apply to its core goals of delivering transportation services, but that are useful nonetheless. That&amp;#8217;s why it&amp;#8217;s putting some of its data to work with its new Uber Restaurant Guide, a Michelin for&amp;hellip; &lt;a href="https://techcrunch.com/2016/11/17/ubers-new-restaurant-guide-uses-trip-data-to-tell-you-where-to-eat/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=KtNNENmeOj4:rgbQroKk3JY:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=KtNNENmeOj4:rgbQroKk3JY:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=KtNNENmeOj4:rgbQroKk3JY:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=KtNNENmeOj4:rgbQroKk3JY:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=KtNNENmeOj4:rgbQroKk3JY:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=KtNNENmeOj4:rgbQroKk3JY:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=KtNNENmeOj4:rgbQroKk3JY:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=KtNNENmeOj4:rgbQroKk3JY:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/KtNNENmeOj4" height="1" width="1" alt=""/&gt;</description>
+      <wfw:commentRss>https://techcrunch.com/2016/11/17/ubers-new-restaurant-guide-uses-trip-data-to-tell-you-where-to-eat/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/1479234307-italian_horizontal_r_1.jpg?w=210&amp;h=158&amp;crop=1" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/1479234307-italian_horizontal_r_1.jpg" type="image/jpeg" medium="image">
+        <media:title type="html">Uber%26%238217%3Bs%20new%20restaurant%20guide%20uses%20trip%20data%20to%20tell%20you%20where%20to%26nbsp%3Beat</media:title>
+      </media:content>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/1479234307-italian_horizontal_r_1.jpg" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/1479234307-italian_horizontal_r_1.jpg" medium="image">
+        <media:title type="html">1479234307-italian_horizontal_r_1</media:title>
+      </media:content>
+      <media:content url="http://1.gravatar.com/avatar/188039e12983eb749171a75cfd01378d?s=96&amp;d=identicon&amp;r=G" medium="image">
+        <media:title type="html">etherin</media:title>
+      </media:content>
+      <feedburner:origLink>https://techcrunch.com/2016/11/17/ubers-new-restaurant-guide-uses-trip-data-to-tell-you-where-to-eat/?ncid=rss</feedburner:origLink>
+    </item>
+    <item>
+      <title>Slow Ventures launches a new $145M fund and adds Scott Marlette as a partner</title>
+      <link>http://feedproxy.google.com/~r/Techcrunch/~3/_FxLNlNiVX0/</link>
+      <comments>https://techcrunch.com/2016/11/17/slow-ventures-launches-a-new-145m-fund-and-adds-scott-marlette-as-a-partner/#respond</comments>
+      <pubDate>Thu, 17 Nov 2016 15:00:25 +0000</pubDate>
+      <dc:creator><![CDATA[Matthew Lynley]]></dc:creator>
+      <category><![CDATA[TC]]></category>
+      <guid isPermaLink="false">http://techcrunch.com/?p=1417267</guid>
+      <description>&lt;img width="450" height="320" src="https://tctechcrunch2011.files.wordpress.com/2015/04/unnamed-copy.jpg?w=450" class="attachment-large size-large wp-post-image" alt="kevincollerandavemorin" srcset="https://tctechcrunch2011.files.wordpress.com/2015/04/unnamed-copy.jpg 450w, https://tctechcrunch2011.files.wordpress.com/2015/04/unnamed-copy.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2015/04/unnamed-copy.jpg?w=300 300w" sizes="(max-width: 450px) 100vw, 450px" /&gt;&amp;nbsp;Slow Ventures &amp;#8212; a previously small-ish fund founded by former Facebook employees &amp;#8212; is raising a much larger fund as it looks to grow into something more like a traditional venture firm. Founded by Kevin Colleran and Dave Morin &amp;#8212; with former Facebooker Sam Lessin also recently joining &amp;#8212; Slow Ventures has raised $145 million for its latest fund. While Slow will continue&amp;hellip; &lt;a href="https://techcrunch.com/2016/11/17/slow-ventures-launches-a-new-145m-fund-and-adds-scott-marlette-as-a-partner/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=_FxLNlNiVX0:Pd29TqW55-M:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=_FxLNlNiVX0:Pd29TqW55-M:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=_FxLNlNiVX0:Pd29TqW55-M:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=_FxLNlNiVX0:Pd29TqW55-M:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=_FxLNlNiVX0:Pd29TqW55-M:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=_FxLNlNiVX0:Pd29TqW55-M:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=_FxLNlNiVX0:Pd29TqW55-M:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=_FxLNlNiVX0:Pd29TqW55-M:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/_FxLNlNiVX0" height="1" width="1" alt=""/&gt;</description>
+      <wfw:commentRss>https://techcrunch.com/2016/11/17/slow-ventures-launches-a-new-145m-fund-and-adds-scott-marlette-as-a-partner/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2015/04/unnamed-copy.jpg?w=210&amp;h=158&amp;crop=1" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2015/04/unnamed-copy.jpg" type="image/jpeg" medium="image">
+        <media:title type="html">Slow%20Ventures%20launches%20a%20new%20%24145M%20fund%20and%20adds%20Scott%20Marlette%20as%20a%26nbsp%3Bpartner</media:title>
+      </media:content>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2015/04/unnamed-copy.jpg" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2015/04/unnamed-copy.jpg" medium="image">
+        <media:title type="html">kevincollerandavemorin</media:title>
+      </media:content>
+      <media:content url="http://0.gravatar.com/avatar/fb80ccc18c4fecace4405aebe8fbedbc?s=96&amp;d=identicon&amp;r=G" medium="image">
+        <media:title type="html">matthewlynley</media:title>
+      </media:content>
+      <feedburner:origLink>https://techcrunch.com/2016/11/17/slow-ventures-launches-a-new-145m-fund-and-adds-scott-marlette-as-a-partner/?ncid=rss</feedburner:origLink>
+    </item>
+    <item>
+      <title>Managed By Q inks exclusive deal with Staples</title>
+      <link>http://feedproxy.google.com/~r/Techcrunch/~3/gmjNWRGdxrY/</link>
+      <comments>https://techcrunch.com/2016/11/17/managed-by-q-inks-exclusive-deal-with-staples/#respond</comments>
+      <pubDate>Thu, 17 Nov 2016 15:00:06 +0000</pubDate>
+      <dc:creator><![CDATA[Jordan Crook]]></dc:creator>
+      <category><![CDATA[Startups]]></category>
+      <category><![CDATA[TC]]></category>
+      <category><![CDATA[managed by q]]></category>
+      <category><![CDATA[staples]]></category>
+      <guid isPermaLink="false">http://techcrunch.com/?p=1417553</guid>
+      <description>&lt;img width="680" height="414" src="https://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-9-46-09-am.png?w=680" class="attachment-large size-large wp-post-image" alt="screen-shot-2016-11-17-at-9-46-09-am" srcset="https://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-9-46-09-am.png?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-9-46-09-am.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-9-46-09-am.png?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-9-46-09-am.png?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-9-46-09-am.png 1064w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;Managed By Q, the office management platform for products and services, has today inked a new deal with Staples. As part of the partnership. Staples customers will now have access to Managed By Q&amp;#8217;s full suite of services, including IT specialists, handyman, cleaning services and even workplace yoga. The idea here is two-fold: Staples&amp;#8217; small- and medium-sized business clients will&amp;hellip; &lt;a href="https://techcrunch.com/2016/11/17/managed-by-q-inks-exclusive-deal-with-staples/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=gmjNWRGdxrY:1URcl3aOOhc:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=gmjNWRGdxrY:1URcl3aOOhc:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=gmjNWRGdxrY:1URcl3aOOhc:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=gmjNWRGdxrY:1URcl3aOOhc:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=gmjNWRGdxrY:1URcl3aOOhc:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=gmjNWRGdxrY:1URcl3aOOhc:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=gmjNWRGdxrY:1URcl3aOOhc:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=gmjNWRGdxrY:1URcl3aOOhc:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/gmjNWRGdxrY" height="1" width="1" alt=""/&gt;</description>
+      <wfw:commentRss>https://techcrunch.com/2016/11/17/managed-by-q-inks-exclusive-deal-with-staples/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-9-46-09-am.png?w=210&amp;h=158&amp;crop=1" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-9-46-09-am.png" type="image/png" medium="image">
+        <media:title type="html">Managed%20By%20Q%20inks%20exclusive%20deal%20with%26nbsp%3BStaples</media:title>
+      </media:content>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-9-46-09-am.png" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/screen-shot-2016-11-17-at-9-46-09-am.png" medium="image">
+        <media:title type="html">screen-shot-2016-11-17-at-9-46-09-am</media:title>
+      </media:content>
+      <media:content url="http://1.gravatar.com/avatar/123a4c264172746af556b0c74c72b308?s=96&amp;d=identicon&amp;r=G" medium="image">
+        <media:title type="html">jordanrcrook</media:title>
+      </media:content>
+      <feedburner:origLink>https://techcrunch.com/2016/11/17/managed-by-q-inks-exclusive-deal-with-staples/?ncid=rss</feedburner:origLink>
+    </item>
+    <item>
+      <title>CodeFights raises $10M Series A round for its skills-based recruiting platform</title>
+      <link>http://feedproxy.google.com/~r/Techcrunch/~3/7aUAaWGWtoo/</link>
+      <comments>https://techcrunch.com/2016/11/17/codefights-raises-10m-series-a-round-for-its-skills-based-recruiting-platform/#respond</comments>
+      <pubDate>Thu, 17 Nov 2016 15:00:05 +0000</pubDate>
+      <dc:creator><![CDATA[Frederic Lardinois]]></dc:creator>
+      <category><![CDATA[Fundings & Exits]]></category>
+      <category><![CDATA[TC]]></category>
+      <category><![CDATA[codefights]]></category>
+      <category><![CDATA[e.ventures]]></category>
+      <category><![CDATA[recruiting]]></category>
+      <category><![CDATA[competitive coding]]></category>
+      <category><![CDATA[coding challenges]]></category>
+      <guid isPermaLink="false">http://techcrunch.com/?p=1417383</guid>
+      <description>&lt;img width="680" height="453" src="https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-483083054.jpg?w=680" class="attachment-large size-large wp-post-image" alt="Software developer programming code on computer. Abstract computer script source code." srcset="https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-483083054.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-483083054.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-483083054.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-483083054.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-483083054.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;CodeFights brings together coding challenges and skills-based recruiting. The company, which competes with the likes of HackerRank, today announced that it has raised a $10 million Series A round led by e.ventures. As CodeFights CEO and founder Tigran Sloyan told me, the company&amp;#8217;s user base has grown 10x since it announced its $2.4 million seed funding round last April. He attributes&amp;hellip; &lt;a href="https://techcrunch.com/2016/11/17/codefights-raises-10m-series-a-round-for-its-skills-based-recruiting-platform/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=7aUAaWGWtoo:VWtsq5iWMLA:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=7aUAaWGWtoo:VWtsq5iWMLA:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=7aUAaWGWtoo:VWtsq5iWMLA:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=7aUAaWGWtoo:VWtsq5iWMLA:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=7aUAaWGWtoo:VWtsq5iWMLA:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=7aUAaWGWtoo:VWtsq5iWMLA:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=7aUAaWGWtoo:VWtsq5iWMLA:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=7aUAaWGWtoo:VWtsq5iWMLA:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/7aUAaWGWtoo" height="1" width="1" alt=""/&gt;</description>
+      <wfw:commentRss>https://techcrunch.com/2016/11/17/codefights-raises-10m-series-a-round-for-its-skills-based-recruiting-platform/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-483083054.jpg?w=210&amp;h=158&amp;crop=1" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-483083054.jpg" type="image/jpeg" medium="image">
+        <media:title type="html">CodeFights%20raises%20%2410M%20Series%20A%20round%20for%20its%20skills-based%20recruiting%26nbsp%3Bplatform</media:title>
+      </media:content>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-483083054.jpg" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-483083054.jpg" medium="image">
+        <media:title type="html">Software developer programming code on computer</media:title>
+      </media:content>
+      <media:content url="http://2.gravatar.com/avatar/55542aa717199728948f628edc1170b1?s=96&amp;d=identicon&amp;r=G" medium="image">
+        <media:title type="html">fredericlardinois</media:title>
+      </media:content>
+      <feedburner:origLink>https://techcrunch.com/2016/11/17/codefights-raises-10m-series-a-round-for-its-skills-based-recruiting-platform/?ncid=rss</feedburner:origLink>
+    </item>
+    <item>
+      <title>AOL lays off 500 employees after adding 1,500 employees over the last 12 months</title>
+      <link>http://feedproxy.google.com/~r/Techcrunch/~3/Wdc2K4EthCs/</link>
+      <comments>https://techcrunch.com/2016/11/17/aol-announces-layoffs-following/#respond</comments>
+      <pubDate>Thu, 17 Nov 2016 14:25:05 +0000</pubDate>
+      <dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+      <category><![CDATA[Advertising Tech]]></category>
+      <category><![CDATA[Media]]></category>
+      <category><![CDATA[TC]]></category>
+      <category><![CDATA[AOL]]></category>
+      <category><![CDATA[Verizon]]></category>
+      <category><![CDATA[Yahoo]]></category>
+      <guid isPermaLink="false">http://tctechcrunch2011.wordpress.com/?p=1417556</guid>
+      <description>&lt;img width="680" height="450" src="https://tctechcrunch2011.files.wordpress.com/2016/05/tcdisrupt_ny16-4806.jpg?w=680" class="attachment-large size-large wp-post-image" alt="tcdisrupt_NY16-4806" srcset="https://tctechcrunch2011.files.wordpress.com/2016/05/tcdisrupt_ny16-4806.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/05/tcdisrupt_ny16-4806.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2016/05/tcdisrupt_ny16-4806.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/05/tcdisrupt_ny16-4806.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/05/tcdisrupt_ny16-4806.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;AOL CEO Tim Armstrong just announced internally that there will be layoffs across AOL&amp;#8217;s global workforce (AOL is TechCrunch&amp;#8217;s parent company). The company will focus on mobile, video and data across two business units &amp;#8212; media and platforms. While the company doesn&amp;#8217;t say exactly how many people will be affected by these layoffs, it is going to impact different teams&amp;hellip; &lt;a href="https://techcrunch.com/2016/11/17/aol-announces-layoffs-following/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Wdc2K4EthCs:5t7nUrZfE80:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Wdc2K4EthCs:5t7nUrZfE80:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Wdc2K4EthCs:5t7nUrZfE80:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Wdc2K4EthCs:5t7nUrZfE80:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=Wdc2K4EthCs:5t7nUrZfE80:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Wdc2K4EthCs:5t7nUrZfE80:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=Wdc2K4EthCs:5t7nUrZfE80:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Wdc2K4EthCs:5t7nUrZfE80:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/Wdc2K4EthCs" height="1" width="1" alt=""/&gt;</description>
+      <wfw:commentRss>https://techcrunch.com/2016/11/17/aol-announces-layoffs-following/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/05/tcdisrupt_ny16-4806.jpg?w=210&amp;h=158&amp;crop=1" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/05/tcdisrupt_ny16-4806.jpg" type="image/jpeg" medium="image">
+        <media:title type="html">AOL%20lays%20off%20500%20employees%20after%20adding%201%2C500%20employees%20over%20the%20last%2012%26nbsp%3Bmonths</media:title>
+      </media:content>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/05/tcdisrupt_ny16-4806.jpg" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/05/tcdisrupt_ny16-4806.jpg" medium="image">
+        <media:title type="html">tcdisrupt_NY16-4806</media:title>
+      </media:content>
+      <media:content url="http://2.gravatar.com/avatar/2e71de62bf8a99d74a58f1546494fe82?s=96&amp;d=identicon&amp;r=G" medium="image">
+        <media:title type="html">romaindillet</media:title>
+      </media:content>
+      <feedburner:origLink>https://techcrunch.com/2016/11/17/aol-announces-layoffs-following/?ncid=rss</feedburner:origLink>
+    </item>
+    <item>
+      <title>Qualcomm’s Snapdragon 835 will be built with Samsung, featuring faster and safer charging</title>
+      <link>http://feedproxy.google.com/~r/Techcrunch/~3/IJNXZI3ztnU/</link>
+      <comments>https://techcrunch.com/2016/11/17/qualcomm-2/#respond</comments>
+      <pubDate>Thu, 17 Nov 2016 14:16:18 +0000</pubDate>
+      <dc:creator><![CDATA[Brian Heater]]></dc:creator>
+      <category><![CDATA[Hardware]]></category>
+      <category><![CDATA[Qualcomm]]></category>
+      <category><![CDATA[snapdragon 835]]></category>
+      <guid isPermaLink="false">http://techcrunch.com/?p=1417560</guid>
+      <description>&lt;img width="680" height="460" src="https://tctechcrunch2011.files.wordpress.com/2016/07/gettyimages-460993663.jpg?w=680" class="attachment-large size-large wp-post-image" alt="LAS VEGAS, NV - JANUARY 06:  Qualcomm CEO Steve Mollenkopf speaks during a press event at the Mandalay Bay Convention Center for the 2014 International CES on January 6, 2014 in Las Vegas, Nevada. CES, the world&amp;#039;s largest annual consumer technology trade show, runs from January 7-10 and is expected to feature 3,200 exhibitors showing off their latest products and services to about 150,000 attendees.  (Photo by Justin Sullivan/Getty Images)" srcset="https://tctechcrunch2011.files.wordpress.com/2016/07/gettyimages-460993663.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/07/gettyimages-460993663.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2016/07/gettyimages-460993663.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/07/gettyimages-460993663.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/07/gettyimages-460993663.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;Qualcomm&amp;#8217;s got a new chip just over the horizon, built in collaboration with Samsung, utilizing the electronics giant&amp;#8217;s 10-nanometer FinFET process that promises to improve performance and energy over the Snapdragon 820 and 821&amp;#8217;s 14nm FinFE. The new chip will replace the 821 as Qualcomm&amp;#8217;s flagship when it starts arriving in devices at some point during the first half&amp;hellip; &lt;a href="https://techcrunch.com/2016/11/17/qualcomm-2/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=IJNXZI3ztnU:fZGZyZGnYnI:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=IJNXZI3ztnU:fZGZyZGnYnI:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=IJNXZI3ztnU:fZGZyZGnYnI:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=IJNXZI3ztnU:fZGZyZGnYnI:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=IJNXZI3ztnU:fZGZyZGnYnI:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=IJNXZI3ztnU:fZGZyZGnYnI:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=IJNXZI3ztnU:fZGZyZGnYnI:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=IJNXZI3ztnU:fZGZyZGnYnI:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/IJNXZI3ztnU" height="1" width="1" alt=""/&gt;</description>
+      <wfw:commentRss>https://techcrunch.com/2016/11/17/qualcomm-2/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/07/gettyimages-460993663.jpg?w=210&amp;h=158&amp;crop=1" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/07/gettyimages-460993663.jpg" type="image/jpeg" medium="image">
+        <media:title type="html">Qualcomm%E2%80%99s%20Snapdragon%20835%20will%20be%20built%20with%20Samsung%2C%20featuring%20faster%20and%20safer%26nbsp%3Bcharging</media:title>
+      </media:content>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/07/gettyimages-460993663.jpg" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/07/gettyimages-460993663.jpg" medium="image">
+        <media:title type="html">Newest Innovations In Consumer Technology On Display At 2014 International CES</media:title>
+      </media:content>
+      <media:content url="http://0.gravatar.com/avatar/69b6dc548d05dedd0132f12e075bf7de?s=96&amp;d=identicon&amp;r=G" medium="image">
+        <media:title type="html">bheater</media:title>
+      </media:content>
+      <feedburner:origLink>https://techcrunch.com/2016/11/17/qualcomm-2/?ncid=rss</feedburner:origLink>
+    </item>
+    <item>
+      <title>Coca-Cola made a selfie bottle but luckily humans only have 1,000 years left</title>
+      <link>http://feedproxy.google.com/~r/Techcrunch/~3/Zclfsoq5x8E/</link>
+      <comments>https://techcrunch.com/2016/11/17/coca-cola-made-a-selfie-bottle-but-luckily-humans-only-have-1000-years-left/#respond</comments>
+      <pubDate>Thu, 17 Nov 2016 14:02:58 +0000</pubDate>
+      <dc:creator><![CDATA[Darrell Etherington]]></dc:creator>
+      <category><![CDATA[Apps]]></category>
+      <category><![CDATA[Gadgets]]></category>
+      <category><![CDATA[TC]]></category>
+      <guid isPermaLink="false">http://techcrunch.com/?p=1417546</guid>
+      <description>&lt;img width="680" height="680" src="https://tctechcrunch2011.files.wordpress.com/2016/11/cw-twtwukaqpiac.jpg?w=680" class="attachment-large size-large wp-post-image" alt="cw-twtwukaqpiac" srcset="https://tctechcrunch2011.files.wordpress.com/2016/11/cw-twtwukaqpiac.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/11/cw-twtwukaqpiac.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/11/cw-twtwukaqpiac.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/11/cw-twtwukaqpiac.jpg?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2016/11/cw-twtwukaqpiac.jpg 800w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;Coca-Cola may be thinking of Snapchat Spectacles with its latest marketing ploy, a selfie snapping bottle that features a camera in what can only be described as a bottle boot with USB out for transferring your images. The red bootie shoots a selfie whenever it tips past a 70-degree angle, giving you a down-angle image of your face as you slurp that sweet sugar sauce down your gullet. The&amp;hellip; &lt;a href="https://techcrunch.com/2016/11/17/coca-cola-made-a-selfie-bottle-but-luckily-humans-only-have-1000-years-left/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Zclfsoq5x8E:W48ag-YXhfk:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Zclfsoq5x8E:W48ag-YXhfk:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Zclfsoq5x8E:W48ag-YXhfk:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Zclfsoq5x8E:W48ag-YXhfk:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=Zclfsoq5x8E:W48ag-YXhfk:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Zclfsoq5x8E:W48ag-YXhfk:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=Zclfsoq5x8E:W48ag-YXhfk:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Zclfsoq5x8E:W48ag-YXhfk:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/Zclfsoq5x8E" height="1" width="1" alt=""/&gt;</description>
+      <wfw:commentRss>https://techcrunch.com/2016/11/17/coca-cola-made-a-selfie-bottle-but-luckily-humans-only-have-1000-years-left/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/cw-twtwukaqpiac.jpg?w=210&amp;h=158&amp;crop=1" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/cw-twtwukaqpiac.jpg" type="image/jpeg" medium="image">
+        <media:title type="html">Coca-Cola%20made%20a%20selfie%20bottle%20but%20luckily%20humans%20only%20have%201%2C000%20years%26nbsp%3Bleft</media:title>
+      </media:content>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/cw-twtwukaqpiac.jpg" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/cw-twtwukaqpiac.jpg" medium="image">
+        <media:title type="html">cw-twtwukaqpiac</media:title>
+      </media:content>
+      <media:content url="http://1.gravatar.com/avatar/188039e12983eb749171a75cfd01378d?s=96&amp;d=identicon&amp;r=G" medium="image">
+        <media:title type="html">etherin</media:title>
+      </media:content>
+      <feedburner:origLink>https://techcrunch.com/2016/11/17/coca-cola-made-a-selfie-bottle-but-luckily-humans-only-have-1000-years-left/?ncid=rss</feedburner:origLink>
+    </item>
+    <item>
+      <title>Kubernetes founders launch Heptio with $8.5M in funding to help bring containers to the enterprise</title>
+      <link>http://feedproxy.google.com/~r/Techcrunch/~3/eO0DguBDvjM/</link>
+      <pubDate>Thu, 17 Nov 2016 14:00:06 +0000</pubDate>
+      <dc:creator><![CDATA[Frederic Lardinois]]></dc:creator>
+      <category><![CDATA[Enterprise]]></category>
+      <category><![CDATA[Fundings & Exits]]></category>
+      <category><![CDATA[TC]]></category>
+      <category><![CDATA[technology]]></category>
+      <category><![CDATA[Kubernetes]]></category>
+      <category><![CDATA[Accel]]></category>
+      <category><![CDATA[Google]]></category>
+      <category><![CDATA[madrona venture partners]]></category>
+      <category><![CDATA[containers]]></category>
+      <guid isPermaLink="false">http://techcrunch.com/?p=1417313</guid>
+      <description>&lt;img width="680" height="453" src="https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-530070099.jpg?w=680" class="attachment-large size-large wp-post-image" alt="Kepple Terminal with cityscape" srcset="https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-530070099.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-530070099.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-530070099.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-530070099.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-530070099.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;For years, the public face of Kubernetes was one of project&amp;#8217;s founders: Google group product manager Craig McLuckie. He started the open source container management project together with Joe Beda, Brendan Burns and a few other engineers inside of Google, which has since brought it under the guidance of the newly formed Cloud Native Computing Foundation.
+Beda became an entrepreneur in&amp;#8230; &lt;a href="https://techcrunch.com/2016/11/17/kubernetes-founders-launch-heptio-with-8-5m-in-funding-to-help-bring-containers-to-the-enterprise/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=eO0DguBDvjM:yTEc6mNyCxc:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=eO0DguBDvjM:yTEc6mNyCxc:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=eO0DguBDvjM:yTEc6mNyCxc:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=eO0DguBDvjM:yTEc6mNyCxc:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=eO0DguBDvjM:yTEc6mNyCxc:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=eO0DguBDvjM:yTEc6mNyCxc:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/eO0DguBDvjM" height="1" width="1" alt=""/&gt;</description>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-530070099.jpg?w=210&amp;h=158&amp;crop=1" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-530070099.jpg" type="image/jpeg" medium="image">
+        <media:title type="html">Kubernetes%20founders%20launch%20Heptio%20with%20%248.5M%20in%20funding%20to%20help%20bring%20containers%20to%20the%26nbsp%3Benterprise</media:title>
+      </media:content>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-530070099.jpg" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-530070099.jpg" medium="image">
+        <media:title type="html">Kepple Terminal with cityscape</media:title>
+      </media:content>
+      <media:content url="http://2.gravatar.com/avatar/55542aa717199728948f628edc1170b1?s=96&amp;d=identicon&amp;r=G" medium="image">
+        <media:title type="html">fredericlardinois</media:title>
+      </media:content>
+      <feedburner:origLink>https://techcrunch.com/2016/11/17/kubernetes-founders-launch-heptio-with-8-5m-in-funding-to-help-bring-containers-to-the-enterprise/?ncid=rss</feedburner:origLink>
+    </item>
+    <item>
+      <title>Meet the new Nom, a food lover’s photo sharing dream</title>
+      <link>http://feedproxy.google.com/~r/Techcrunch/~3/w4EwTtqL0hY/</link>
+      <comments>https://techcrunch.com/2016/11/17/meet-the-new-nom-a-food-lovers-photo-sharing-dream/#respond</comments>
+      <pubDate>Thu, 17 Nov 2016 13:59:34 +0000</pubDate>
+      <dc:creator><![CDATA[Lora Kolodny]]></dc:creator>
+      <category><![CDATA[Apps]]></category>
+      <category><![CDATA[Food]]></category>
+      <category><![CDATA[Mobile]]></category>
+      <category><![CDATA[Social]]></category>
+      <category><![CDATA[Startups]]></category>
+      <category><![CDATA[TC]]></category>
+      <category><![CDATA[social media]]></category>
+      <category><![CDATA[Steven Chen]]></category>
+      <category><![CDATA[Vijay Karunamurthy]]></category>
+      <category><![CDATA[mobile app]]></category>
+      <category><![CDATA[App]]></category>
+      <category><![CDATA[Brandon Jew]]></category>
+      <category><![CDATA[nom]]></category>
+      <category><![CDATA[foodtech]]></category>
+      <category><![CDATA[social mobile]]></category>
+      <category><![CDATA[Mister Jiu's]]></category>
+      <category><![CDATA[Quince]]></category>
+      <category><![CDATA[food photography]]></category>
+      <guid isPermaLink="false">http://techcrunch.com/?p=1417321</guid>
+      <description>&lt;img width="680" height="425" src="https://tctechcrunch2011.files.wordpress.com/2016/11/nom_mister_jius_soup.png?w=680" class="attachment-large size-large wp-post-image" alt="Hot and sour soup with freshly picked nasturtium from Mister Jiu&amp;#039;s in San Francisco." srcset="https://tctechcrunch2011.files.wordpress.com/2016/11/nom_mister_jius_soup.png?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/11/nom_mister_jius_soup.png?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2016/11/nom_mister_jius_soup.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/11/nom_mister_jius_soup.png?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/11/nom_mister_jius_soup.png?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;People will never stop talking about what&amp;#8217;s for dinner on the internet.
+The massive reach and engagement of new media properties like Tastemade, which offers short video cooking lessons, or BuzzFeed&amp;#8217;s Tasty channel are proof the trend is still going strong in the U.S.
+So perhaps it&amp;#8217;s no surprise to see YouTube cofounder Steve Chen, and former YouTube engineering lead Vijay&amp;#8230; &lt;a href="https://techcrunch.com/2016/11/17/meet-the-new-nom-a-food-lovers-photo-sharing-dream/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=w4EwTtqL0hY:_21909ZKxZU:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=w4EwTtqL0hY:_21909ZKxZU:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=w4EwTtqL0hY:_21909ZKxZU:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=w4EwTtqL0hY:_21909ZKxZU:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=w4EwTtqL0hY:_21909ZKxZU:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=w4EwTtqL0hY:_21909ZKxZU:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=w4EwTtqL0hY:_21909ZKxZU:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=w4EwTtqL0hY:_21909ZKxZU:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/w4EwTtqL0hY" height="1" width="1" alt=""/&gt;</description>
+      <wfw:commentRss>https://techcrunch.com/2016/11/17/meet-the-new-nom-a-food-lovers-photo-sharing-dream/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/nom_mister_jius_soup.png?w=210&amp;h=158&amp;crop=1" />
+      <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/11/nom_mister_jius_soup.png" />
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/nom_mister_jius_soup.png" medium="image">
+        <media:title type="html">nom_mister_jius_soup</media:title>
+      </media:content>
+      <media:content url="http://0.gravatar.com/avatar/6669b82c456f152e55fac86f56e5c248?s=96&amp;d=identicon&amp;r=G" medium="image">
+        <media:title type="html">lorakolodnytc</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/nom_app_1.png?w=738" medium="image">
+        <media:title type="html">Nom is a mobile social app for food lovers.</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/nom_app_2.png?w=738" medium="image">
+        <media:title type="html">Nom users can stitch stills, videos and comments together in one story.</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/nom_app_3.png?w=738" medium="image">
+        <media:title type="html">Nom allows video livestreaming.</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/nom_youtube_founder_steve_chen.png?w=738" medium="image">
+        <media:title type="html">Steven Chen is a cofounder of YouTube and Nom.</media:title>
+      </media:content>
+      <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/11/nom_ceo_vijay_karunamurthy.png?w=738" medium="image">
+        <media:title type="html">Nom CEO Vijay Karunamurthy previously led engineering at YouTube.</media:title>
+      </media:content>
+      <feedburner:origLink>https://techcrunch.com/2016/11/17/meet-the-new-nom-a-food-lovers-photo-sharing-dream/?ncid=rss</feedburner:origLink>
+    </item>
+  </channel>
+</rss>
